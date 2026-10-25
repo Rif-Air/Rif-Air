@@ -1,0 +1,404 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 7 0 R /F2 8 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 5220 >>
+stream
+
+      0.08 0.12 0.22 rg
+      30 790 535 32 re f
+      0.9 0.6 0.1 rg
+      30 788 535 2 re f
+    
+
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      45 802 Td
+      (ELECTROLAB 3D - TECHNICAL ACADEMY | OFFICIAL STUDY MATERIAL) Tj
+      ET
+    
+
+      BT
+      /F2 8 Tf
+      0.8 0.85 0.95 rg
+      440 802 Td
+      (AC NOTES) Tj
+      ET
+    
+
+      0.7 0.75 0.8 rg
+      30 45 535 0.8 re f
+      BT
+      /F2 8 Tf
+      0.4 0.45 0.55 rg
+      45 32 Td
+      (ElectroLab 3D Technical Education Project - Certified Study Notes & Schematics Reference) Tj
+      ET
+      BT
+      /F1 8 Tf
+      0.2 0.25 0.35 rg
+      500 32 Td
+      (Page 1) Tj
+      ET
+    
+
+      BT
+      /F1 12 Tf
+      0.05 0.4 0.5 rg
+      40 755 Td
+      (AIR CONDITIONING & REFRIGERATION \(RAC\) COMPREHENSIVE TECHNICAL HANDBOOK) Tj
+      ET
+    
+
+      BT
+      /F2 9 Tf
+      0.4 0.45 0.5 rg
+      40 740 Td
+      (Module: Split AC, Frost-Free Systems, Inverters & Refrigerant Management) Tj
+      ET
+    
+
+      0.05 0.4 0.6 rg
+      40 701 515 22 re f
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      50 707 Td
+      (UNIT 1: SPLIT AIR CONDITIONER SCHEMATICS & WIRING) Tj
+      ET
+    
+
+      0.94 0.97 1 rg
+      40 600 515 95 re f
+      0.75 0.82 0.9 rg
+      40 600 515 95 re S
+    
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 681 Td
+        (TERMINAL DESIGNATIONS & SIGNAL CONNECTIONS:) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 669 Td
+        (1 \(L\) - Indoor Main Live Supply from Distribution Board via 16A/20A Type C MCB.) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 657 Td
+        (2 \(N\) - Neutral Common return line shared with indoor fan motor, transformer and outdoor fan.) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 645 Td
+        (3 \(Comp / Signal\) - Switched Live relay output from indoor PCB micro-controller \(comp command\).) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 633 Td
+        (Earth \(PE\) - Continuous equipment grounding connecting indoor chassis and outdoor condenser casing.) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 621 Td
+        (20-SECOND SAFETY TIME DELAY: Protects rotary compressor against high head pressure re-start.) Tj
+        ET
+      
+
+      0.1 0.45 0.35 rg
+      40 566 515 22 re f
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      50 572 Td
+      (UNIT 2: REFRIGERANT RECOVERY SYSTEM & PROCEDURES) Tj
+      ET
+    
+
+      0.95 0.99 0.95 rg
+      40 465 515 95 re f
+      0.75 0.82 0.9 rg
+      40 465 515 95 re S
+    
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 546 Td
+        (EQUIPMENT SETUP & SAFE OPERATING PROTOCOL:) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 534 Td
+        (* Manifold Blue \(Compound\) Hose connects to Suction Service Port of condensing unit.) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 522 Td
+        (* Center Yellow Hose connects to Recovery Machine INLET.) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 510 Td
+        (* High Pressure Red Hose connects from Recovery Machine OUTLET to Vapor valve of Recovery Cylinder.) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 498 Td
+        (* Tare Weight Tare Verification: Measure cylinder on digital charging scale to prevent hydraulic over-fill.) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 486 Td
+        (* Self-Purge Procedure: Rotate machine valves to PURGE to draw remaining liquid out of condenser coil.) Tj
+        ET
+      
+
+      0.55 0.25 0.15 rg
+      40 431 515 22 re f
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      50 437 Td
+      (UNIT 3: REFRIGERATOR FROST-FREE DEFROST SYSTEM) Tj
+      ET
+    
+
+      0.99 0.96 0.94 rg
+      40 330 515 95 re f
+      0.75 0.82 0.9 rg
+      40 330 515 95 re S
+    
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 411 Td
+        (4-PIN DEFROST TIMER INTERNAL CONFIGURATION:) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 399 Td
+        (Pin 1: Timer Motor Line 1 \(Power Return via Defrost Heater in Cooling mode\).) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 387 Td
+        (Pin 3: Timer Common Input from Temperature Thermostat.) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 375 Td
+        (Pin 4: Cooling Contact energizes Compressor Relay and Evaporator Fan Motor \(Runs ~6 to 8 hours\).) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 363 Td
+        (Pin 2: Defrost Contact energizes Glass Tube/Sheath Defrost Heater through Bi-metal \(-5 deg C closing\).) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 351 Td
+        (Thermal Fuse \(72 deg C to 77 deg C\): High safety limit fuse wired in series with heater against runaway fires.) Tj
+        ET
+      
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 7 0 R /F2 8 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2275 >>
+stream
+
+      0.08 0.12 0.22 rg
+      30 790 535 32 re f
+      0.9 0.6 0.1 rg
+      30 788 535 2 re f
+    
+
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      45 802 Td
+      (ELECTROLAB 3D - TECHNICAL ACADEMY | OFFICIAL STUDY MATERIAL) Tj
+      ET
+    
+
+      BT
+      /F2 8 Tf
+      0.8 0.85 0.95 rg
+      440 802 Td
+      (AC NOTES) Tj
+      ET
+    
+
+      0.7 0.75 0.8 rg
+      30 45 535 0.8 re f
+      BT
+      /F2 8 Tf
+      0.4 0.45 0.55 rg
+      45 32 Td
+      (ElectroLab 3D Technical Education Project - Certified Study Notes & Schematics Reference) Tj
+      ET
+      BT
+      /F1 8 Tf
+      0.2 0.25 0.35 rg
+      500 32 Td
+      (Page 2) Tj
+      ET
+    
+
+      0.1 0.3 0.5 rg
+      40 746 515 22 re f
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      50 752 Td
+      (TROUBLESHOOTING MATRIX FOR RAC TECHNICIANS) Tj
+      ET
+    
+
+      BT
+      /F1 9.5 Tf
+      0.1 0.15 0.2 rg
+      40 725 Td
+      (Common Fault 1: Indoor Blower Runs, Outdoor Compressor Does Not Start) Tj
+      ET
+    
+
+      BT
+      /F2 8.5 Tf
+      0.2 0.25 0.3 rg
+      45 712 Td
+      (- Check 230V at Terminal 3 \(Signal\) relative to Terminal 2 \(Neutral\). If 0V, PCB relay or sensor faulty.) Tj
+      ET
+    
+
+      BT
+      /F2 8.5 Tf
+      0.2 0.25 0.3 rg
+      45 700 Td
+      (- If 230V present, inspect outdoor dual run capacitor \(35uF/450V\) with capacitance meter.) Tj
+      ET
+    
+
+      BT
+      /F2 8.5 Tf
+      0.2 0.25 0.3 rg
+      45 688 Td
+      (- Measure compressor winding resistance \(C-S + C-R = S-R\). Check for continuity to ground.) Tj
+      ET
+    
+
+      BT
+      /F1 9.5 Tf
+      0.1 0.15 0.2 rg
+      40 665 Td
+      (Common Fault 2: Refrigerator Freezer Coils Frosted Solid, Lower Cab Warm) Tj
+      ET
+    
+
+      BT
+      /F2 8.5 Tf
+      0.2 0.25 0.3 rg
+      45 652 Td
+      (- Test Bi-metal thermostat continuity while frozen in ice bath \(0 Ohms below -5 deg C\).) Tj
+      ET
+    
+
+      BT
+      /F2 8.5 Tf
+      0.2 0.25 0.3 rg
+      45 640 Td
+      (- Test Defrost Heater element resistance \(typically 150 to 300 Ohms; infinite indicates open circuit\).) Tj
+      ET
+    
+
+      BT
+      /F2 8.5 Tf
+      0.2 0.25 0.3 rg
+      45 628 Td
+      (- Manually advance defrost timer cam with screwdriver; verify timer motor advances automatically.) Tj
+      ET
+    
+endstream
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+8 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000019 00000 n 
+0000000068 00000 n 
+0000000131 00000 n 
+0000000273 00000 n 
+0000005545 00000 n 
+0000005687 00000 n 
+0000008014 00000 n 
+0000008089 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+8159
+%%EOF

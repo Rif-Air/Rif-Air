@@ -1,0 +1,274 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 5270 >>
+stream
+
+      0.08 0.12 0.22 rg
+      30 790 535 32 re f
+      0.9 0.6 0.1 rg
+      30 788 535 2 re f
+    
+
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      45 802 Td
+      (ELECTROLAB 3D - TECHNICAL ACADEMY | OFFICIAL STUDY MATERIAL) Tj
+      ET
+    
+
+      BT
+      /F2 8 Tf
+      0.8 0.85 0.95 rg
+      440 802 Td
+      (SCIENCE) Tj
+      ET
+    
+
+      0.7 0.75 0.8 rg
+      30 45 535 0.8 re f
+      BT
+      /F2 8 Tf
+      0.4 0.45 0.55 rg
+      45 32 Td
+      (ElectroLab 3D Technical Education Project - Certified Study Notes & Schematics Reference) Tj
+      ET
+      BT
+      /F1 8 Tf
+      0.2 0.25 0.35 rg
+      500 32 Td
+      (Page 1) Tj
+      ET
+    
+
+      BT
+      /F1 13 Tf
+      0.1 0.45 0.25 rg
+      40 755 Td
+      (APPLIED SCIENCE & THERMODYNAMICS FOR ENGINEERING \(විද්‍යාව\)) Tj
+      ET
+    
+
+      BT
+      /F2 9 Tf
+      0.4 0.45 0.5 rg
+      40 740 Td
+      (Thermodynamics, Heat Transfer, Electromagnetism, Refrigerant Chemistry & Pressure Laws) Tj
+      ET
+    
+
+      0.1 0.45 0.25 rg
+      40 701 515 22 re f
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      50 707 Td
+      (1. LAWS OF THERMODYNAMICS & HEAT TRANSFER) Tj
+      ET
+    
+
+      0.95 0.99 0.95 rg
+      40 580 515 115 re f
+      0.75 0.82 0.9 rg
+      40 580 515 115 re S
+    
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 681 Td
+        (PHYSICS OF HEAT MOVEMENT & PHASE TRANSFORMATION:) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 669 Td
+        (* 1st Law of Thermodynamics \(Conservation\): Energy cannot be created or destroyed, only transformed.) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 657 Td
+        (* 2nd Law of Thermodynamics: Heat flows spontaneously from a warmer body to a colder body.) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 645 Td
+        (* In a refrigerator, external work \(compressor electric power\) is required to pump heat backwards.) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 633 Td
+        (* Conduction: Heat transfer through direct molecular collision \(copper tube walls, heat exchangers\).) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 621 Td
+        (* Convection: Heat transfer via moving fluids or gases \(evaporator blower air, liquid refrigerant\).) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 609 Td
+        (* Radiation: Heat transfer via electromagnetic infrared waves \(sunlight through window glass\).) Tj
+        ET
+      
+
+      0.05 0.35 0.6 rg
+      40 546 515 22 re f
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      50 552 Td
+      (2. PRESSURE - TEMPERATURE SATURATION RELATIONSHIP) Tj
+      ET
+    
+
+      0.94 0.97 1 rg
+      40 435 515 105 re f
+      0.75 0.82 0.9 rg
+      40 435 515 105 re S
+    
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 526 Td
+        (BOILING POINT VARIATION WITH APPLIED PRESSURE:) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 514 Td
+        (* Pure water boils at 100 deg C at 1 atm \(14.7 PSIA / 0 PSIG\). At high vacuum \(500 microns\), water boils at -20 deg C!) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 502 Td
+        (* This is why deep vacuum pumps are used to vaporize and extract liquid moisture from AC pipework.) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 490 Td
+        (* Superheat = Actual Suction Pipe Temp - Saturation Suction Temp \(Protects compressor from liquid slugging\).) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 478 Td
+        (* Subcooling = Condenser Saturation Temp - Liquid Line Temp \(Ensures 100% solid liquid reaches metering device\).) Tj
+        ET
+      
+
+      0.5 0.2 0.15 rg
+      40 401 515 22 re f
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      50 407 Td
+      (3. REFRIGERANT CHEMISTRY & ENVIRONMENTAL IMPACT) Tj
+      ET
+    
+
+      0.99 0.96 0.94 rg
+      40 290 515 105 re f
+      0.75 0.82 0.9 rg
+      40 290 515 105 re S
+    
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 381 Td
+        (MONTREAL & KIGALI PROTOCOLS - SAFETY CLASSIFICATION:) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 369 Td
+        (* ODP \(Ozone Depletion Potential\): Chlorine atoms destroy stratospheric ozone \(CFCs & HCFCs such as R22\).) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 357 Td
+        (* GWP \(Global Warming Potential\): Greenhouse effect rating relative to CO2 \(R410A GWP = 2088, R32 GWP = 675\).) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 345 Td
+        (* ASHRAE Safety Groups: A1 = Non-toxic, Non-flammable \(R134a, R410A\)  |  A2L = Mildly Flammable \(R32, R1234yf\)) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 333 Td
+        (* A3 = Highly Flammable Hydrocarbons \(R600a Isobutane, R290 Propane\) - Requires EX-rated safety sparkless tools.) Tj
+        ET
+      
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000019 00000 n 
+0000000068 00000 n 
+0000000125 00000 n 
+0000000267 00000 n 
+0000005589 00000 n 
+0000005664 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5734
+%%EOF
