@@ -1,0 +1,274 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 4786 >>
+stream
+
+      0.08 0.12 0.22 rg
+      30 790 535 32 re f
+      0.9 0.6 0.1 rg
+      30 788 535 2 re f
+    
+
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      45 802 Td
+      (ELECTROLAB 3D - TECHNICAL ACADEMY | OFFICIAL STUDY MATERIAL) Tj
+      ET
+    
+
+      BT
+      /F2 8 Tf
+      0.8 0.85 0.95 rg
+      440 802 Td
+      (MATHS) Tj
+      ET
+    
+
+      0.7 0.75 0.8 rg
+      30 45 535 0.8 re f
+      BT
+      /F2 8 Tf
+      0.4 0.45 0.55 rg
+      45 32 Td
+      (ElectroLab 3D Technical Education Project - Certified Study Notes & Schematics Reference) Tj
+      ET
+      BT
+      /F1 8 Tf
+      0.2 0.25 0.35 rg
+      500 32 Td
+      (Page 1) Tj
+      ET
+    
+
+      BT
+      /F1 13 Tf
+      0.45 0.2 0.05 rg
+      40 755 Td
+      (APPLIED MATHEMATICS & TECHNICAL FORMULAE HANDBOOK) Tj
+      ET
+    
+
+      BT
+      /F2 9 Tf
+      0.4 0.45 0.5 rg
+      40 740 Td
+      (Essential Engineering Calculations: Ohm Law, Power, Cable Sizing, BTU Cooling Capacity) Tj
+      ET
+    
+
+      0.45 0.2 0.05 rg
+      40 701 515 22 re f
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      50 707 Td
+      (1. FUNDAMENTAL ELECTRICAL FORMULAE) Tj
+      ET
+    
+
+      1 0.97 0.93 rg
+      40 595 515 100 re f
+      0.75 0.82 0.9 rg
+      40 595 515 100 re S
+    
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 681 Td
+        (OHM LAW & DC / SINGLE PHASE AC POWER:) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 669 Td
+        (* Voltage: V = I x R   |   Current: I = V / R   |   Resistance: R = V / I) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 657 Td
+        (* Active Power \(Watts\): P = V x I x Cos\(phi\) = I^2 x R = V^2 / R) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 645 Td
+        (* Apparent Power \(Volt-Amperes\): S = V x I   [VA or kVA]) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 633 Td
+        (* Reactive Power \(VAR\): Q = V x I x Sin\(phi\)   [VAR or kVAR]) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 621 Td
+        (* Power Factor: PF = Cos\(phi\) = Real Power \(kW\) / Apparent Power \(kVA\)) Tj
+        ET
+      
+
+      0.1 0.4 0.35 rg
+      40 561 515 22 re f
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      50 567 Td
+      (2. THREE-PHASE MOTOR CALCULATIONS) Tj
+      ET
+    
+
+      0.95 0.99 0.95 rg
+      40 455 515 100 re f
+      0.75 0.82 0.9 rg
+      40 455 515 100 re S
+    
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 541 Td
+        (STAR AND DELTA BALANCED FORMULAE:) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 529 Td
+        (* Star Connection \(Y\): Line Voltage VL = sqrt\(3\) x Vph  |  Line Current IL = Phase Current Iph) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 517 Td
+        (* Delta Connection \(D\): Line Voltage VL = Phase Voltage Vph  |  Line Current IL = sqrt\(3\) x Iph) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 505 Td
+        (* Three Phase Active Power: P = sqrt\(3\) x VL x IL x Cos\(phi\)) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 493 Td
+        (* Synchronous Speed: Ns = \(120 x Frequency\) / Number of Poles = \(120 x 50\) / 4 = 1500 RPM) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 481 Td
+        (* Motor Slip \(%\): Slip = [\(Ns - Actual Speed\) / Ns] x 100) Tj
+        ET
+      
+
+      0.05 0.35 0.55 rg
+      40 421 515 22 re f
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      50 427 Td
+      (3. HVAC & REFRIGERATION COOLING LOAD CALCULATIONS) Tj
+      ET
+    
+
+      0.94 0.97 1 rg
+      40 320 515 95 re f
+      0.75 0.82 0.9 rg
+      40 320 515 95 re S
+    
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 401 Td
+        (TON OF REFRIGERATION \(TR\) & HEAT CAPACITY:) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 389 Td
+        (* 1 Ton of Refrigeration \(TR\) = 12,000 BTU/hr = 3,024 kcal/hr = 3.517 kW \(Thermal\)) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 377 Td
+        (* Sensible Heat: Q_sensible = m x c x Delta_T   [Joules or Watts]) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 365 Td
+        (* Latent Heat: Q_latent = m x L   \(L_vaporization for water = 2260 kJ/kg\)) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 353 Td
+        (* Quick Room Sizing: Room Area \(sq ft\) x 50 to 60 BTU/sq ft \(e.g. 150 sq ft x 60 = 9,000 BTU -> 1.0 Ton\)) Tj
+        ET
+      
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000019 00000 n 
+0000000068 00000 n 
+0000000125 00000 n 
+0000000267 00000 n 
+0000005105 00000 n 
+0000005180 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5250
+%%EOF

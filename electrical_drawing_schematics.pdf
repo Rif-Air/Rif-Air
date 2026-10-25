@@ -1,0 +1,282 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 5058 >>
+stream
+
+      0.08 0.12 0.22 rg
+      30 790 535 32 re f
+      0.9 0.6 0.1 rg
+      30 788 535 2 re f
+    
+
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      45 802 Td
+      (ELECTROLAB 3D - TECHNICAL ACADEMY | OFFICIAL STUDY MATERIAL) Tj
+      ET
+    
+
+      BT
+      /F2 8 Tf
+      0.8 0.85 0.95 rg
+      440 802 Td
+      (DRAWING) Tj
+      ET
+    
+
+      0.7 0.75 0.8 rg
+      30 45 535 0.8 re f
+      BT
+      /F2 8 Tf
+      0.4 0.45 0.55 rg
+      45 32 Td
+      (ElectroLab 3D Technical Education Project - Certified Study Notes & Schematics Reference) Tj
+      ET
+      BT
+      /F1 8 Tf
+      0.2 0.25 0.35 rg
+      500 32 Td
+      (Page 1) Tj
+      ET
+    
+
+      BT
+      /F1 12 Tf
+      0.15 0.3 0.5 rg
+      40 755 Td
+      (ENGINEERING & ELECTRICAL SCHEMATIC DRAWING \(DRAUGHTSMANSHIP GUIDE\)) Tj
+      ET
+    
+
+      BT
+      /F2 9 Tf
+      0.4 0.45 0.5 rg
+      40 740 Td
+      (Standard Symbols, Control Circuit Schematics, Power Wiring & Industrial Blueprints) Tj
+      ET
+    
+
+      0.15 0.35 0.55 rg
+      40 701 515 22 re f
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      50 707 Td
+      (SECTION 1: STANDARD ELECTRICAL SYMBOLS \(IEC 60617 STANDARD\)) Tj
+      ET
+    
+
+      0.95 0.97 1 rg
+      40 585 515 110 re f
+      0.75 0.82 0.9 rg
+      40 585 515 110 re S
+    
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 681 Td
+        (KEY SYMBOLS & NOTATIONS FOR WIRING SCHEMATICS:) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 669 Td
+        ([NO] Normally Open Contact \(Contactor Auxiliary 13-14, Start Push Button\)) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 657 Td
+        ([NC] Normally Closed Contact \(Overload Trip 95-96, Stop Push Button 1-2, Interlock 21-22\)) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 645 Td
+        ([COIL] Contactor / Relay Operating Solenoid Coil \(Designated A1 - A2\)) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 633 Td
+        ([OLR] Thermal Overload Relay Bimetallic Trip Element \(Designated 95-96 Trip, 97-98 Alarm\)) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 621 Td
+        ([CB] Circuit Breaker with Thermal & Magnetic Trip Elements \(1P, 2P, 3P, 4P\)) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 609 Td
+        ([EARTH] Protective Earth symbol \(3 horizontal tapering lines connected to vertical stem\)) Tj
+        ET
+      
+
+      0.1 0.45 0.3 rg
+      40 551 515 22 re f
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      50 557 Td
+      (SECTION 2: DIRECT-ON-LINE \(DOL\) MOTOR STARTER SCHEMATIC) Tj
+      ET
+    
+
+      0.95 0.99 0.95 rg
+      40 445 515 100 re f
+      0.75 0.82 0.9 rg
+      40 445 515 100 re S
+    
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 531 Td
+        (CONTROL WIRING STEP-BY-STEP TRACE \(230V CONTROL\):) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 519 Td
+        (1. Live Supply -> Control MCB \(6A\) -> Thermal Overload NC \(95-96\).) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 507 Td
+        (2. Overload NC \(96\) -> Stop Push Button NC \(1-2\).) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 495 Td
+        (3. Stop PB \(2\) -> Start Push Button NO \(3-4\) in parallel with Contactor Auxiliary NO \(13-14\) [LATCH].) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 483 Td
+        (4. Start PB \(4\) / Contactor NO \(14\) -> Contactor Coil Terminal A1.) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 471 Td
+        (5. Contactor Coil Terminal A2 -> Neutral \(N\) return busbar.) Tj
+        ET
+      
+
+      0.55 0.25 0.15 rg
+      40 411 515 22 re f
+      BT
+      /F1 11 Tf
+      1 1 1 rg
+      50 417 Td
+      (SECTION 3: FORWARD - REVERSE MOTOR CONTROL INTERLOCKING) Tj
+      ET
+    
+
+      0.99 0.96 0.94 rg
+      40 315 515 90 re f
+      0.75 0.82 0.9 rg
+      40 315 515 90 re S
+    
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 391 Td
+        (ESSENTIAL ELECTRICAL INTERLOCKING RULES:) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 379 Td
+        (* Interlocking prevents KM1 \(Forward\) and KM2 \(Reverse\) from energizing at the same time.) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 367 Td
+        (* Feed KM1 coil through KM2 NC \(21-22\) contact.) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 355 Td
+        (* Feed KM2 coil through KM1 NC \(21-22\) contact.) Tj
+        ET
+      
+
+        BT
+        /F2 8.5 Tf
+        0.15 0.2 0.25 rg
+        50 343 Td
+        (* Swapping any two supply phases \(L1 and L3\) reverses rotating magnetic field in 3-phase induction motor.) Tj
+        ET
+      
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000019 00000 n 
+0000000068 00000 n 
+0000000125 00000 n 
+0000000267 00000 n 
+0000005377 00000 n 
+0000005452 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5522
+%%EOF

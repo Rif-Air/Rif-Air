@@ -1,0 +1,357 @@
+/* ==========================================================================
+   ELECTROLAB 2D - CUSTOM THEME & COLORS CONFIGURATION (වර්ණ වෙනස් කිරීමේ ගොනුව)
+   ==========================================================================
+   ඔබට වෙබ් අඩවියේ ඕනෑම කොටසක වර්ණ (Colors) පහසුවෙන් වෙනස් කිරීමට මෙම ගොනුව භාවිතා කළ හැක.
+   පහත දැක්වෙන කොටස් (Sections) අනුව අදාළ HEX Code එක (උදා: #14B8A6, #FFFFFF, ආදිය) 
+   ඔබට කැමති පරිදි වෙනස් කර Save කරන්න.
+   ========================================================================== */
+
+/* ==========================================================================
+   1. GLOBAL THEME PALETTES (සමස්ත වෙබ් අඩවියේ මූලික වර්ණ)
+   ========================================================================== */
+
+/* --- LIGHT THEME (ආලෝක තේමාව - පෙරනිමි lihit_mud හරිත තේමාව) --- */
+:root,
+:root[data-theme="light"],
+body[data-theme="light"],
+body.light-theme {
+  /* ප්‍රධාන පසුබිම් වර්ණය (Main Background Color) */
+  --site-bg-light: #DAF1DE;
+
+  /* කාඩ්පත් සහ පෙට්ටිවල පසුබිම් වර්ණය (Card & Surface Background) */
+  --site-surface-light: #FFFFFF;
+
+  /* දෙවන මට්ටමේ මෘදු පසුබිම (Soft Secondary Background) */
+  --site-surface-soft-light: #F3FAF5;
+
+  /* ප්‍රධාන අකුරු වර්ණය (Primary Text Color) */
+  --site-text-primary-light: #051F20;
+
+  /* උප සිරැසි සහ ද්විතීයික අකුරු (Secondary / Muted Text) */
+  --site-text-muted-light: #235347;
+
+  /* මායිම් සහ බෙදුම් ඉරි (Borders & Dividers) */
+  --site-border-light: #8EB69B;
+
+  /* ප්‍රධාන හරිත සලකුණු වර්ණය (Primary Brand Accent Color) */
+  --site-brand-primary-light: #163832;
+
+  /* අමතර කැපී පෙනෙන වර්ණය (Highlight Accent - Amber/Gold) */
+  --site-accent-light: #D97706;
+}
+
+/* --- DARK THEME (අඳුරු තේමාව - darck_mud ස්ලේට් තේමාව) --- */
+:root[data-theme="dark"],
+body[data-theme="dark"],
+body.dark-theme {
+  /* ප්‍රධාන අඳුරු පසුබිම (Main Dark Background) */
+  --site-bg-dark: #06141B;
+
+  /* අඳුරු කාඩ්පත් සහ පුවරු පසුබිම (Dark Card Surface) */
+  --site-surface-dark: #11212D;
+
+  /* උස් වූ / ක්‍රියාකාරී කොටස්වල පසුබිම (Elevated Surface) */
+  --site-surface-soft-dark: #253745;
+
+  /* ප්‍රධාන ලා අකුරු වර්ණය (Primary Light Text) */
+  --site-text-primary-dark: #CCD0CF;
+
+  /* අඳුරු තේමාවේ ද්විතීයික අකුරු (Muted Slate Text) */
+  --site-text-muted-dark: #9BA8AB;
+
+  /* අඳුරු තේමාවේ මායිම් ඉරි (Dark Border Lines) */
+  --site-border-dark: #4A5C6A;
+
+  /* ප්‍රධාන නියොන් සලකුණු වර්ණය (Neon Teal Brand Accent) */
+  --site-brand-primary-dark: #14B8A6;
+
+  /* අමතර කැපී පෙනෙන වර්ණය (Accent Highlight) */
+  --site-accent-dark: #F59E0B;
+}
+
+/* ==========================================================================
+   2. HEADER & NAVIGATION (ශීර්ෂය සහ මෙනු තීරුව)
+   ========================================================================== */
+:root {
+  /* ශීර්ෂයේ පසුබිම (Header Background) */
+  --header-bg-light: rgba(255, 255, 255, 0.95);
+  --header-bg-dark: rgba(17, 33, 45, 0.96);
+
+  /* ශීර්ෂයේ පහළ මායිම (Header Bottom Border) */
+  --header-border-light: #8EB69B;
+  --header-border-dark: #4A5C6A;
+
+  /* මෙනු බොත්තම් පසුබිම (Nav Pill Container Background) */
+  --nav-container-bg: rgba(241, 245, 249, 0.9);
+  --nav-container-bg-dark: #1e293b;
+
+  /* සක්‍රිය ටැබ් බොත්තමේ වර්ණය (Active Tab Background) */
+  --nav-tab-active-bg: #14B8A6;
+  --nav-tab-active-text: #FFFFFF;
+
+  /* අක්‍රිය ටැබ් බොත්තම් අකුරු (Inactive Tab Text) */
+  --nav-tab-text-light: #475569;
+  --nav-tab-text-dark: #94a3b8;
+
+  /* Main Line ස්විච පෙට්ටියේ පසුබිම (Power Switch Container) */
+  --power-widget-bg-light: #f1f5f9;
+  --power-widget-bg-dark: #1e293b;
+}
+
+/* ==========================================================================
+   3. HERO SECTION (ප්‍රධාන මුල් පිටුවේ හෙඩර් සහ බැනරය)
+   ========================================================================== */
+:root {
+  /* Hero කාඩ්පතේ පසුබිම් Gradient එක (Hero Card Background) */
+  --hero-card-bg-light: linear-gradient(135deg, rgba(255, 255, 255, 0.92), rgba(240, 253, 250, 0.90));
+  --hero-card-bg-dark: linear-gradient(135deg, rgba(17, 33, 45, 0.95), rgba(6, 20, 27, 0.98));
+
+  /* ප්‍රධාන මාතෘකාවේ Gradient වර්ණ (Title Gradient Colors) */
+  --hero-title-gradient-from: #0d9488;
+  --hero-title-gradient-to: #0284c7;
+
+  /* ප්‍රධාන 'Explore Circuits' බොත්තමේ වර්ණය (Explore Button Background) */
+  --btn-explore-bg: #0d9488;
+  --btn-explore-hover: #0f766e;
+  --btn-explore-text: #FFFFFF;
+
+  /* 'Technical Subjects' බොත්තමේ වර්ණය (Subjects Button Background) */
+  --btn-subjects-bg: #d97706;
+  --btn-subjects-hover: #b45309;
+  --btn-subjects-text: #FFFFFF;
+}
+
+/* ==========================================================================
+   4. CIRCUIT SIMULATOR & TERMINALS (පරිපථ සිමියුලේටරය සහ අග්‍ර)
+   ========================================================================== */
+:root {
+  /* සිමියුලේටර් කැන්වසයේ පසුබිම (Simulator Canvas Background) */
+  --canvas-bg-light: #FFFFFF;
+  --canvas-bg-dark: #0B1924;
+
+  /* කැන්වස් බ්ලූප්‍රින්ට් ග්‍රිඩ් ඉරි (Blueprint Grid Lines) */
+  --canvas-grid-color: rgba(20, 184, 166, 0.12);
+
+  /* සාමාන්‍ය අග්‍රයක වර්ණය (Default Terminal Port Color) */
+  --terminal-default-fill: #0284c7;
+  --terminal-default-stroke: #FFFFFF;
+
+  /* තෝරාගත් අග්‍රයේ ස්පන්දන වර්ණය (Selected Terminal Pulse Color) */
+  --terminal-selected-glow: #e11d48;
+
+  /* සාර්ථකව අගුළු වැටුණු අග්‍රයේ වර්ණය (Locked Connected Terminal Color) */
+  --terminal-locked-fill: #16a34a;
+  --terminal-locked-stroke: #4ade80;
+}
+
+/* ==========================================================================
+   5. WIRING CABLE COLORS (වයර් වර්ණ - Red, Black, Blue, Yellow, Green)
+   ========================================================================== */
+:root {
+  /* රතු වයරය (Live / Phase Line 1 - Red Wire) */
+  --wire-color-red: #ef4444;
+
+  /* කළු වයරය (Neutral Line - Black Wire) */
+  --wire-color-black: #1e293b;
+
+  /* නිල් වයරය (Phase Line 3 / Low Pressure - Blue Wire) */
+  --wire-color-blue: #0284c7;
+
+  /* කහ වයරය (Phase Line 2 / Control - Yellow Wire) */
+  --wire-color-yellow: #eab308;
+
+  /* කොළ වයරය (Earth / Ground Line - Green Wire) */
+  --wire-color-green: #22c55e;
+
+  /* දුඹුරු වයරය (Brown Wire) */
+  --wire-color-brown: #92400e;
+}
+
+/* ==========================================================================
+   6. SUBJECT CARDS & ARCHIVE (විෂයයන් සහ පසුගිය ප්‍රශ්න පත්‍ර ලේඛනාගාරය)
+   ========================================================================== */
+:root {
+  /* විෂය කාඩ්පත් පසුබිම (Subject Box Background) */
+  --subject-box-bg-light: #FFFFFF;
+  --subject-box-bg-dark: #11212D;
+
+  /* විෂය කාඩ්පත් මායිම (Subject Box Border) */
+  --subject-box-border-light: #8EB69B;
+  --subject-box-border-dark: #4A5C6A;
+
+  /* ප්‍රශ්න පත්‍ර ලේඛනාගාර බහාලුම (Past Papers Archive Container) */
+  --archive-container-bg-light: #FFFFFF;
+  --archive-container-bg-dark: #11212D;
+
+  /* ලේඛනාගාරයේ ප්‍රශ්න පත්‍ර කාඩ්පත (Exam Paper Item Card) */
+  --exam-card-bg-light: #FFFFFF;
+  --exam-card-bg-dark: #1a2c3a;
+  --exam-card-border-light: #e2e8f0;
+  --exam-card-border-dark: #4A5C6A;
+
+  /* 3D Flipbook ටැගයේ වර්ණය (3D Flipbook Pill Tag) */
+  --flipbook-tag-bg: rgba(225, 29, 72, 0.95);
+  --flipbook-tag-text: #FFFFFF;
+
+  /* පිටු ගණන් ලාංඡනය (Page Badge) */
+  --page-badge-bg: rgba(15, 23, 42, 0.88);
+  --page-badge-text: #FFFFFF;
+}
+
+/* ==========================================================================
+   7. 50-QUESTION MCQ EXAM (ප්‍රශ්න 50 බහුවරණ පුහුණු විභාග පද්ධතිය)
+   ========================================================================== */
+:root {
+  /* ස්ටිකි ප්‍රගති තීරුවේ පසුබිම (Sticky Header Toolbar) */
+  --mcq-toolbar-bg-light: rgba(255, 255, 255, 0.96);
+  --mcq-toolbar-bg-dark: rgba(17, 33, 45, 0.96);
+
+  /* ප්‍රගති තීරුවේ පිරවුම් වර්ණය (Progress Bar Fill Gradient) */
+  --mcq-progress-bar-start: #0d9488;
+  --mcq-progress-bar-end: #10b981;
+
+  /* ප්‍රශ්න කාඩ්පතේ පසුබිම (Question Card Background) */
+  --mcq-card-bg-light: #FFFFFF;
+  --mcq-card-bg-dark: #11212D;
+  --mcq-card-border-light: #e2e8f0;
+  --mcq-card-border-dark: #4A5C6A;
+
+  /* ප්‍රශ්න අකුරු වර්ණය (Question Text Color) */
+  --mcq-question-text-light: #0f172a;
+  --mcq-question-text-dark: #CCD0CF;
+
+  /* පිළිතුරු විකල්ප කාඩ්පත (Option Label Background) */
+  --mcq-opt-bg-light: #FFFFFF;
+  --mcq-opt-bg-dark: #162633;
+  --mcq-opt-border-light: #e2e8f0;
+  --mcq-opt-border-dark: #4A5C6A;
+
+  /* තෝරාගත් පිළිතුරේ වර්ණය (Selected Option Highlight) */
+  --mcq-opt-selected-bg: rgba(20, 184, 166, 0.12);
+  --mcq-opt-selected-border: #14b8a6;
+
+  /* විවරණ පෙට්ටියේ පසුබිම (Post-Submit Explanation Box) */
+  --mcq-explanation-bg-light: rgba(240, 253, 250, 0.9);
+  --mcq-explanation-bg-dark: rgba(22, 38, 51, 0.9);
+  --mcq-explanation-border: #99f6e4;
+  --mcq-explanation-border-dark: #14b8a6;
+}
+
+/* ==========================================================================
+   8. GRAND SCOREBOARD HERO CARD (ලකුණු පුවරුව සහ ප්‍රතිඵල)
+   ========================================================================== */
+:root {
+  /* ලකුණු පුවරුවේ පසුබිම් Gradient එක (Scoreboard Background) */
+  --scoreboard-bg-light: linear-gradient(135deg, rgba(236, 253, 245, 0.95), rgba(204, 251, 241, 0.85), #FFFFFF);
+  --scoreboard-bg-dark: linear-gradient(135deg, #11212D, #1a2f3e, #06141B);
+
+  /* ලකුණු පුවරුවේ මායිම (Scoreboard Border) */
+  --scoreboard-border: #10b981;
+
+  /* විශාල ලකුණු අංකයේ වර්ණය (Big Score Display Number) */
+  --scoreboard-score-text: #059669;
+  --scoreboard-score-text-dark: #34d399;
+
+  /* සාමාර්ථ ලාංඡනයේ වර්ණය (Grade Badge Background) */
+  --grade-distinction-bg: #059669;
+  --grade-credit-bg: #0284c7;
+  --grade-fail-bg: #e11d48;
+}
+
+/* ==========================================================================
+   9. 3D FLIPBOOK & PDF VIEWER MODAL (ත්‍රිමාන පොත සහ PDF නරඹනය)
+   ========================================================================== */
+:root {
+  /* PDF නරඹන කවුළුවේ පසුබිම (PDF Modal Backdrop) */
+  --pdf-modal-backdrop: rgba(2, 6, 23, 0.96);
+
+  /* PDF මෙවලම් තීරුවේ පසුබිම (Top Control Toolbar) */
+  --pdf-toolbar-bg: #0f172a;
+  --pdf-toolbar-border: #334155;
+
+  /* ත්‍රිමාන පොතේ පිටු පසුබිම (Book Page Background) */
+  --flipbook-page-bg: #FFFFFF;
+
+  /* පිටු පෙරළන පැති බොත්තම් (Floating Navigation Buttons) */
+  --flipbook-btn-bg: rgba(15, 23, 42, 0.85);
+  --flipbook-btn-text: #FFFFFF;
+}
+
+/* ==========================================================================
+   10. APPLIED CSS SELECTOR OVERRIDES (ස්වයංක්‍රීයව ක්‍රියාත්මක වන රීති)
+   ==========================================================================
+   පහත රීති මඟින් ඉහත ඔබ සැකසූ විචල්‍යයන් වෙබ් අඩවියේ නිශ්චිත කොටස් වලට සෘජුවම බද්ධ කරයි.
+   ========================================================================== */
+
+/* ප්‍රධාන පිටු පසුබිම් (Body Backgrounds) */
+body[data-theme="light"],
+body.light-theme {
+  background-color: var(--site-bg-light) !important;
+  color: var(--site-text-primary-light) !important;
+}
+
+body[data-theme="dark"],
+body.dark-theme {
+  background-color: var(--site-bg-dark) !important;
+  color: var(--site-text-primary-dark) !important;
+}
+
+/* ශීර්ෂය (Header) */
+header#mainHeader {
+  border-bottom: 1px solid var(--header-border-light) !important;
+}
+body[data-theme="dark"] header#mainHeader {
+  background-color: var(--header-bg-dark) !important;
+  border-bottom-color: var(--header-border-dark) !important;
+}
+
+/* කාඩ්පත් සහ පෘෂ්ඨ (Cards & Surfaces) */
+body[data-theme="light"] .subject-card,
+body[data-theme="light"] .mcq-question-card,
+body[data-theme="light"] #examPapersQuickGrid {
+  background-color: var(--site-surface-light) !important;
+  border-color: var(--site-border-light) !important;
+}
+
+body[data-theme="dark"] .subject-card,
+body[data-theme="dark"] .mcq-question-card,
+body[data-theme="dark"] #examPapersQuickGrid {
+  background-color: var(--site-surface-dark) !important;
+  border-color: var(--site-border-dark) !important;
+}
+
+/* MCQ ප්‍රශ්න පත්‍ර අතුරුමුහුණත (MCQ Questions & Options) */
+#mcqExamView .mcq-question-card {
+  border-color: var(--mcq-card-border-light);
+}
+body[data-theme="dark"] #mcqExamView .mcq-question-card {
+  border-color: var(--mcq-card-border-dark) !important;
+}
+
+.mcq-opt-label {
+  background-color: var(--mcq-opt-bg-light);
+  border-color: var(--mcq-opt-border-light);
+}
+body[data-theme="dark"] .mcq-opt-label {
+  background-color: var(--mcq-opt-bg-dark) !important;
+  border-color: var(--mcq-opt-border-dark) !important;
+}
+
+/* ලකුණු පුවරුව (Scoreboard Hero) */
+#mcqScoreboardHero {
+  border-color: var(--scoreboard-border) !important;
+}
+body[data-theme="light"] #mcqScoreboardHero {
+  background: var(--scoreboard-bg-light) !important;
+}
+body[data-theme="dark"] #mcqScoreboardHero {
+  background: var(--scoreboard-bg-dark) !important;
+}
+
+/* පරිපථ කැන්වසය (Circuit Simulator Canvas) */
+#canvasContainer {
+  background-color: var(--canvas-bg-light);
+}
+body[data-theme="dark"] #canvasContainer {
+  background-color: var(--canvas-bg-dark) !important;
+}
