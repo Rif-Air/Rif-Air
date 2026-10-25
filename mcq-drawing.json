@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "IEC 60617 ප්‍රමිතියට අනුව විද්‍යුත් පරිපථ සටහනක සාමාන්‍යයෙන් විවෘත ස්පර්ශයක් (Normally Open - NO Contact) නිරූපණය කරන සංකේතය කුමක්ද?",
+    "options": [
+      "(A) සමාන්තර සිරස් රේඛා දෙකක් අතර සම්බන්ධකය විවෘතව ඇති සංකේතය (Open contact break)",
+      "(B) රේඛාවක් හරහා හරස් වූ ඝන රේඛාවක් සහිත ස්පර්ශකය",
+      "(C) දඟරයක් (Coil) සහිත සෘජුකෝණාස්‍රයක්",
+      "(D) ත්‍රිකෝණාකාර ඊතල සලකුණක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "IEC 60617 ජාත්‍යන්තර ප්‍රමිතියට අනුව Normally Open (NO) contact එකක් නිරූපණය කරනුයේ ධාරාව නොගලන විවෘත ස්විච/ස්පර්ශක සංකේතයකිනි. Contact එක වැසෙන්නේ දඟරය (coil) ක්‍රියාත්මක වූ විටය.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 2,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "තාප අධිභාර ප්‍රතිරෝධකයක් (Thermal Overload Relay - OLR) විද්‍යුත් පාලන පරිපථයක (Control Circuit) සංකේතවත් කරන්නේ කෙසේද?",
+    "options": [
+      "(A) ද්විලෝහ තහඩු සංකේතයක් සහිත සෘජුකෝණාස්‍රයක් සහ NC 95-96 / NO 97-98 ස්පර්ශක",
+      "(B) සරල ධාරිත්‍රක (Capacitor) සංකේතයක්",
+      "(C) විද්‍යුත් මෝටර් සංකේතයක් (Circle with M)",
+      "(D) පියවර පහළ ට්‍රාන්ස්ෆෝමර් සංකේතයක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "OLR හෙවත් Thermal Overload Relay එකක පාලන පරිපථ ස්පර්ශක 95-96 (Normally Closed) මෝටරය අධික ධාරාවක් ගන්නා විට විවෘත වී පාලන පරිපථය විසන්ධි කරයි. 97-98 (Normally Open) ට්‍රිප් දර්ශකයට (Trip Lamp) යොදාගනී.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 3,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ඉංජිනේරු ඇඳීමේදී පළමු කෝණ ප්‍රක්ෂේපණයේදී (First Angle Projection) වස්තුවේ ඉදිරිපස දර්ශනයට (Front View) සාපේක්ෂව සැලැස්ම (Plan / Top View) පිහිටන්නේ කොතැනද?",
+    "options": [
+      "(A) ඉදිරිපස දර්ශනයට (Front View) පහළින්",
+      "(B) ඉදිරිපස දර්ශනයට (Front View) ඉහළින්",
+      "(C) ඉදිරිපස දර්ශනයේ දකුණු පසින්",
+      "(D) ඉදිරිපස දර්ශනයේ වම් පසින්"
+    ],
+    "correctIndex": 0,
+    "explanation": "පළමු කෝණ ප්‍රක්ෂේපණයේදී (First Angle Projection) නිරීක්ෂකයා, වස්තුව සහ තලය පිළිවෙලින් පිහිටන බැවින්, ඉහළින් බලන දර්ශනය (Top view / Plan) ඉදිරිපස දර්ශනයට (Front view) පහළින් ඇඳිය යුතුය.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 4,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "තුන්වන කෝණ ප්‍රක්ෂේපණයේදී (Third Angle Projection) සම්මත සංකේතය (Projection Symbol) නිරූපණය කරන්නේ කෙසේද?",
+    "options": [
+      "(A) කේතුවක කපාගත් කොටසක (Frustum of a cone) කුඩා කවය දකුණු පසින් පිහිටා දර්ශනය ප්‍රක්ෂේපණය වීම",
+      "(B) කේතුවේ කුඩා කවය වම් පසින් පිහිටා ඒ දෙසින්ම දර්ශනය තැබීම (Frustum between observer and projection plane)",
+      "(C) කව දෙකක් පමණක් ඇඳීම",
+      "(D) සමචතුරස්‍රයක් තුළ කවයක් ඇඳීම"
+    ],
+    "correctIndex": 1,
+    "explanation": "Third Angle Projection සංකේතයේදී කේතුවේ කපාගත් කොටසේ (Frustum) වම් පසින් බලන දර්ශනය වම් පසින්ද, දකුණු පසින් බලන දර්ශනය දකුණු පසින්ද තබයි (Observer -> Projection Plane -> Object).",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 5,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ශීතකරණ සහ වායුසමීකරණ පයිප්ප ඇඳීම් වලදී (P&ID - Piping & Instrumentation Diagram) කේශික නළය (Capillary Tube) සංකේතවත් කරන්නේ කෙසේද?",
+    "options": [
+      "(A) රැළි සහිත/දඟර ගැසුණු සිහින් රේඛාවක් (Coiled / Zig-zag narrow line)",
+      "(B) ඝන සෘජු ඊතල රේඛාවක්",
+      "(C) රවුමක් තුළ X අකුරක්",
+      "(D) ද්විත්ව සමාන්තර තද රේඛාවක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "P&ID සටහන් වල Capillary tube හෙවත් කේශික නළය සිහින් දඟර ගැසුණු හෝ රැළි සහිත රේඛාවකින් (spiral / zig-zag line) නිරූපණය කරන්නේ එහි ඇති අධික ප්‍රතිරෝධය සහ දිගු සිහින් බටය පෙන්වීමටය.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 6,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "විද්‍යුත් රැහැන් සටහනක තלתන්තු ප්‍රේරක මෝටරයක් (Three-Phase Induction Motor) සංකේතවත් කරන සම්මත අකුරු සහ හැඩය කුමක්ද?",
+    "options": [
+      "(A) කවයක් තුළ 'M' සහ '3 ~' සටහන",
+      "(B) ත්‍රිකෝණයක් තුළ 'GEN' සටහන",
+      "(C) සෘජුකෝණාස්‍රයක් තුළ 'DC'",
+      "(D) කවයක් තුළ 'A' අකුර"
+    ],
+    "correctIndex": 0,
+    "explanation": "ජාත්‍යන්තර විද්‍යුත් ප්‍රමිතිය අනුව තෙකලා ප්‍රේරක මෝටරයක් කවයක් තුළ 'M' අකුර සහ කලා 3 ප්‍රත්‍යාවර්තක ධාරාව නිරූපණය වන '3 ~' ලකුණ සහිතව දැක්වේ.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 7,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "තלתන්තු මෝටරයක DOL (Direct-On-Line) පාලන පරිපථයක (Control Circuit) Start Push Button ස්විචයේ සාමාන්‍ය තත්ත්වය කුමක්ද?",
+    "options": [
+      "(A) Normally Open (NO) මොහොතක ස්පර්ශයක් (Momentary Contact)",
+      "(B) Normally Closed (NC) ස්පර්ශයක්",
+      "(C) ස්ථිරවම අගුළු වැටෙන (Latching) ස්විචයක්",
+      "(D) Fuse එකක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "Start push button එකක් යනු Normally Open (NO) ස්විචයකි. එය තද කළ විට පමණක් පරිපථය සම්පූර්ණ වී කොන්ටැක්ටර් දඟරය (Contactor Coil) බලගැන්වෙන අතර auxiliary NO contact (Holding/Seal-in contact) මගින් පරිපථය අඛණ්ඩව පවත්වා ගනී.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 8,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "DOL පාලන පරිපථයක 'Holding Contact' (Seal-in contact) එක ප්‍රධාන Contactor Coil එකට සම්බන්ධ කරන්නේ කුමන ආකාරයටද?",
+    "options": [
+      "(A) Start Push Button එකට සමාන්තරගතව (In parallel with Start button)",
+      "(B) Stop Push Button එකට ශ්‍රේණිගතව",
+      "(C) Overload relay එකට ශ්‍රේණිගතව",
+      "(D) ප්‍රධාන බල සැපයුමට කෙළින්ම"
+    ],
+    "correctIndex": 0,
+    "explanation": "Start button එක මුදාහළ පසුත් දඟරයට (Coil) විදුලිය සැපයීම සඳහා කොන්ටැක්ටරයේ සහායක NO (Normally Open) contact එක Start button එකට සමාන්තරගතව (Parallel) සවි කරනු ලැබේ. මෙය Holding / Seal-in contact නම් වේ.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 9,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "තלתන්තු මෝටරයක ඉදිරි-පසුපස (Forward-Reverse) පාලන පරිපථයක විදුලිමය අන්තර් අගුලක් (Electrical Interlock) යෙදීමට අඳින්නේ කුමන සම්බන්ධතාවයද?",
+    "options": [
+      "(A) Forward contactor දඟරයට ශ්‍රේණිගතව Reverse contactor එකෙහි NC contact එකක් සහ අනෙක් පසටද එසේම යෙදීම",
+      "(B) Forward contactor එකට සමාන්තරව Reverse contactor එකේ NO contact එක යෙදීම",
+      "(C) මෝටරයට අමතර ධාරිත්‍රකයක් සමාන්තරගත කිරීම",
+      "(D) ප්‍රධාන Fuse එක හරහා කෙළින්ම සම්බන්ධ කිරීම"
+    ],
+    "correctIndex": 0,
+    "explanation": "Forward සහ Reverse කොන්ටැක්ටර් දෙකම එකවර ක්‍රියාත්මක වුවහොත් කලා දෙකක් අතර දරුණු කෙටි පරිපථයක් (Dead Short Circuit) ඇතිවේ. එය වැළැක්වීමට Forward දඟර පරිපථයට Reverse හි NC contact එකක්ද, Reverse දඟරයට Forward හි NC contact එකක්ද ශ්‍රේණිගතව සම්බන්ධ කෙරේ.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 10,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "HVAC වායුසමීකරණ පද්ධතියක තාපස්ථිතිය (Thermostat) නිරූපණය කරන සම්මත විද්‍යුත් සංකේතය කුමක්ද?",
+    "options": [
+      "(A) උෂ්ණත්වයට ප්‍රතිචාර දක්වන ස්විච සංකේතයක් (Switch with bi-metal or temperature symbol 'θ' / 't°')",
+      "(B) විද්‍යුත් බල්බ සංකේතයක්",
+      "(C) විචල්‍ය ප්‍රතිරෝධකයක් (Rheostat)",
+      "(D) ධාරා ට්‍රාන්ස්ෆෝමරයක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "Thermostat එකක් සංකේතවත් කරන්නේ උෂ්ණත්වයට සංවේදී ස්විචයක් ලෙසිනි. එහි ස්විච තලය අසල 'θ' හෝ 't°' සලකුණක් හෝ ද්විලෝහ තහඩු හැඩයක් අඳිනු ලැබේ.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 11,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ඉංජිනේරු ඇඳීම් වලදී ISO 128 ප්‍රමිතිය අනුව සැඟවුණු දාර (Hidden Edges) පෙන්වීම සඳහා භාවිතා කරන රේඛා වර්ගය කුමක්ද?",
+    "options": [
+      "(A) කැඩුණු සිහින් රේඛාව (Dashed thin line)",
+      "(B) අඛණ්ඩ ඝන රේඛාව (Continuous thick line)",
+      "(C) දම්වැල් සිහින් රේඛාව (Chain thin line / Center line)",
+      "(D) තරංගාකාර රේඛාව (Continuous wavy line)"
+    ],
+    "correctIndex": 0,
+    "explanation": "ISO 128 ප්‍රමිතියට අනුව පිටතට නොපෙනෙන සැඟවුණු දාර සහ පෘෂ්ඨ (Hidden details) දැක්වීමට සිහින් කැඩුණු රේඛා (Dashed thin lines) භාවිතා කරනු ලැබේ.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 12,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "සිලින්ඩරයක හෝ සිදුරුවල කේන්ද්‍රය (Center Line) දැක්වීමට සම්මත රේඛා වර්ගය කුමක්ද?",
+    "options": [
+      "(A) දිගු ඉරක් සහ කෙටි ඉරක් සහිත දම්වැල් සිහින් රේඛාව (Chain thin line: Long dash - dot/short dash)",
+      "(B) අඛණ්ඩ ඝන රේඛාව",
+      "(C) ද්විත්ව ඝන රේඛාව",
+      "(D) සිග්සැග් රේඛාව"
+    ],
+    "correctIndex": 0,
+    "explanation": "කේන්ද්‍ර රේඛා (Center lines) සහ සමමිතික අක්ෂ (Axes of symmetry) දැක්වීම සඳහා දිගු ඉරක් හා කෙටි ඉරක් මාරුවෙන් මාරුවට එන දම්වැල් සිහින් රේඛා (Chain thin line - Type G) යොදා ගනී.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 13,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "සමමිතික සමමිතික දර්ශනයක (Isometric Drawing) අක්ෂ අතර කෝණය (Isometric Axes angle) කීයද?",
+    "options": [
+      "(A) 120° බැගින් (තිරස් රේඛාවට 30° බැගින් දෙපසට)",
+      "(B) 90° සහ 45°",
+      "(C) 60° සහ 60°",
+      "(D) 180° සෘජු කෝණ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Isometric projection හි ප්‍රධාන අක්ෂ තුන එකිනෙකට 120° කෝණයකින් පිහිටයි. තිරස් ආධාරක රේඛාවට සාපේක්ෂව දෙපසට 30° කෝණ සාදයි.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 14,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ශීතකාරක පරිපථයක (Refrigeration Flow Diagram) 4-Way Reversing Valve (තාප පොම්ප කපාටය) සංකේතයේ ඇති පෝට් (Ports) ගණන කීයද?",
+    "options": [
+      "(A) පෝට් 4 ක් (Ports: Discharge, Suction, Indoor coil, Outdoor coil)",
+      "(B) පෝට් 2 ක් පමණි",
+      "(C) පෝට් 6 ක්",
+      "(D) පෝට් 1 ක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "4-Way Reversing Valve එකක සම්පීඩකයේ Discharge පෝට් 1 ක් සහ අනෙක් පසින් Suction, Indoor coil, Outdoor coil සම්බන්ධ වන පෝට් 3 ක් ලෙස මුළු පෝට් 4 ක් ඇත.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 15,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "විද්‍යුත් පරිපථ සටහනක භූගත කිරීම (Earth / Ground Connection) නිරූපණය කරන සංකේතය කුමක්ද?",
+    "options": [
+      "(A) පහළට යත්ම දිගින් අඩුවන තිරස් සමාන්තර රේඛා 3ක් (Tapering horizontal bars)",
+      "(B) ඝන කළු ත්‍රිකෝණයක්",
+      "(C) කවයක් තුළ 'E' අකුර",
+      "(D) සෘජුකෝණාස්‍රයක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "භූගත කිරීම (Earth / Ground) නිරූපණය කරන්නේ සිරස් රේඛාවක පහළ කෙළවරේ පහළට යන විට ප්‍රමාණයෙන් කුඩා වන සමාන්තර තිරස් රේඛා 3 ක් හෝ 4 කිනි.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 16,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ශීතකරණ රැහැන් සටහනක දොර ස්විචය (Door Switch) සහ අභ්‍යන්තර බල්බය (Cabinet Lamp) සම්බන්ධ වන්නේ කෙසේද?",
+    "options": [
+      "(A) දොර විවෘත වන විට contact එක වැසෙන NC ආකාරයේ දොර ස්විචයක් බල්බයට ශ්‍රේණිගතව",
+      "(B) දොර ස්විචය සම්පීඩකයට සමාන්තරව",
+      "(C) බල්බය සහ දොර ස්විචය සමාන්තරව",
+      "(D) දොර ස්විචය සහ Thermostat එක ශ්‍රේණිගතව"
+    ],
+    "correctIndex": 0,
+    "explanation": "ශීතකරණයේ දොර වැසූ විට ස්විචය තද වී විවෘත වේ (Circuit opens). දොර ඇරිය විට ස්විචය මුදාහැරී contact වැසී බල්බය දැල්වේ (Normally Closed push-button switch in series with lamp).",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 17,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ඉංජිනේරු ඇඳීම් වලදී සම්මත මානකරණයේදී (Dimensioning) මාන රේඛා (Dimension Lines) සහ දිගුකිරීමේ රේඛා (Extension Lines) ඇඳිය යුත්තේ කුමන රේඛාවලින්ද?",
+    "options": [
+      "(A) අඛණ්ඩ සිහින් රේඛා (Continuous thin lines)",
+      "(B) අඛණ්ඩ ඝන රේඛා (Continuous thick lines)",
+      "(C) කැඩුණු ඝන රේඛා",
+      "(D) දම්වැල් ඝන රේඛා"
+    ],
+    "correctIndex": 0,
+    "explanation": "මානකරණ රේඛා, දිගු කිරීමේ රේඛා (Extension lines) සහ නායක රේඛා (Leader lines) සැමවිටම අඛණ්ඩ සිහින් රේඛාවලින් (Continuous thin line - Type B) අඳිනු ලැබේ.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 18,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "විද්‍යුත් පරිපථ සටහනක ෆියුස් (Fuse) එකක් නිරූපණය කරන IEC සම්මත සංකේතය කුමක්ද?",
+    "options": [
+      "(A) රේඛාවක් මධ්‍යයෙන් ගමන් කරන සෘජුකෝණාස්‍රයක් (Rectangle with a line passing through it)",
+      "(B) කවයක් තුළ හරස්කඩක්",
+      "(C) දඟරයක්",
+      "(D) ත්‍රිකෝණයක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "IEC 60617 අනුව Fuse සංකේතය යනු සෘජුකෝණාස්‍රයක් මැදින් සන්නායක රේඛාව ගමන් කරන සංකේතයයි.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 19,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "HVAC පාලන පුවරුවක (Control Panel) Single Line Diagram (SLD) මඟින් ප්‍රධාන වශයෙන් පෙන්වන්නේ කුමක්ද?",
+    "options": [
+      "(A) පද්ධතියේ බල සැපයුම, ප්‍රධාන ස්විච, පරිපථ කඩන සහ බෙදාහැරීමේ මාර්ග සරල තනි රේඛාවකින්",
+      "(B) සියලුම රැහැන් වල භෞතික වර්ණ හා පිහිටීම",
+      "(C) වායුසමීකරණ යන්ත්‍රයේ අභ්‍යන්තර පයිප්ප මාර්ග පමණි",
+      "(D) ගොඩනැගිල්ලේ කාමර සැලැස්ම පමණි"
+    ],
+    "correctIndex": 0,
+    "explanation": "Single Line Diagram (SLD) හෙවත් තනි රේඛා සටහන මඟින් සංකීර්ණ තෙකලා විදුලි බල සැපයුමක්, පරිපථ කඩන, මිනුම් උපකරණ සහ බෙදාහැරීම් සරලව තනි රේඛාවක් සහ සම්මත සංකේත මඟින් නිරූපණය කරයි.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 20,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ශීතකරණ Defrost Timer එකක පරිපථ සටහනේ ඇති අග්‍ර (Terminals) 4 සාමාන්‍යයෙන් අංකනය කර ඇත්තේ කෙසේද?",
+    "options": [
+      "(A) 1 (Neutral), 3 (Line - Timer Motor), 4 (Cooling/Compressor), 2 (Defrost Heater)",
+      "(B) 1, 2, 3, 4 සියල්ල සමාන්තරගතව",
+      "(C) A, B, C, D ලෙස",
+      "(D) + සහ - ලෙස පමණි"
+    ],
+    "correctIndex": 0,
+    "explanation": "බොහෝ සම්මත Defrost Timer වල අග්‍ර 1 සහ 3 මෝටරයට සපයන අතර (1-Neutral, 3-Line), අභ්‍යන්තර කැම මඟින් අග්‍ර 3 සිට 4 ට (Cooling - Compressor) සහ 3 සිට 2 ට (Defrost Heater) මාරු කරයි.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 21,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ඉංජිනේරු ඇඳීම් වලදී කැපුම් තලයක් (Cutting Plane Line) පෙන්වීමට යොදාගන්නා සම්මත රේඛාව කුමක්ද?",
+    "options": [
+      "(A) කෙළවරවල් පමණක් ඝන කළ දම්වැල් සිහින් රේඛාව (Chain thin line, thick at ends and changes of direction)",
+      "(B) අඛණ්ඩ සිහින් රේඛාව",
+      "(C) සමාන්තර කැඩුණු රේඛා",
+      "(D) ඝන තරංග රේඛාව"
+    ],
+    "correctIndex": 0,
+    "explanation": "වස්තුවක් කපා ඇතුළත කොටස් පෙන්වීමට ගන්නා Cutting Plane line එක chain thin line එකක් වන අතර එහි දිශාව පෙන්වන කෙළවරවල් ඝන රේඛා සහ ඊතල (Arrows) වලින් සමන්විත වේ.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 22,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "A4 ප්‍රමාණයේ සම්මත ඇඳීම් කඩදාසියක (Drawing Sheet) මානයන් (Dimensions) මොනවාද?",
+    "options": [
+      "(A) 210 mm × 297 mm",
+      "(B) 297 mm × 420 mm",
+      "(C) 148 mm × 210 mm",
+      "(D) 420 mm × 594 mm"
+    ],
+    "correctIndex": 0,
+    "explanation": "ISO 216 ප්‍රමිතියට අනුව A4 කඩදාසියක මානයන් 210 mm × 297 mm වේ. (A3 = 297 × 420 mm, A2 = 420 × 594 mm).",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 23,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ඉංජිනේරු ඇඳීම් පත්‍රයක මාතෘකා කොටුව (Title Block) පිහිටා තිබිය යුත්තේ කුමන ස්ථානයේද?",
+    "options": [
+      "(A) ඇඳීම් පත්‍රයේ පහළ දකුණු කෙළවරේ (Bottom right-hand corner)",
+      "(B) ඉහළ වම් කෙළවරේ",
+      "(C) පත්‍රයේ මධ්‍යයේ",
+      "(D) ඉහළ දකුණු කෙළවරේ"
+    ],
+    "correctIndex": 0,
+    "explanation": "BS 8888 සහ ISO ප්‍රමිතීන්ට අනුව මාතෘකා කොටුව (Title Block) ඇඳීම් පත්‍රයේ පහළ දකුණු කෙළවරේ (Bottom-right corner) පිහිටුවිය යුතු අතර එහි ඇඳීමේ නම, පරිමාණය, දිනය සහ අනුමත කළ අයගේ විස්තර ඇතුළත් වේ.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 24,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "HVAC වායු ප්‍රවාහ පද්ධති සටහනක (Duct Layout) පරිමාව පාලක ඩැම්පරයක් (Volume Control Damper - VCD) සංකේතවත් කරන්නේ කෙසේද?",
+    "options": [
+      "(A) නාලිකාව (Duct) තුළ ආනත තලයක් සහ අක්ෂයක් (Angled blade with pivot inside duct rectangle)",
+      "(B) සරල කවයක්",
+      "(C) විදුලි පංකා තල 4 ක්",
+      "(D) ඝන කළු ත්‍රිකෝණයක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "Volume Control Damper (VCD) එකක් ඩක්ට් රේඛාව තුළ ආනත තලයක් (blade) සහ එහි හැරවුම් අක්ෂය (pivot point) පෙන්වන සංකේතයකින් නිරූපණය කෙරේ.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 25,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "කැපුම් දර්ශනයක (Sectional View) ඝන ලෝහ කොටස් පෙන්වීමට යොදන හැච් රේඛා (Hatching Lines) තිරස් රේඛාවට සාපේක්ෂව අඳින්නේ කුමන කෝණයකින්ද?",
+    "options": [
+      "(A) 45° කෝණයකින් (Continuous thin lines at 45°)",
+      "(B) 90° සිරස්ව",
+      "(C) 15° කෝණයකින්",
+      "(D) 30° හෝ 60° පමණි"
+    ],
+    "correctIndex": 0,
+    "explanation": "සම්මත ඉංජිනේරු ඇඳීමේදී කපන ලද ලෝහ කොටස් පෙන්වන හැච් රේඛා (Hatching lines) අඛණ්ඩ සිහින් රේඛාවලින් 45° කෝණයකට ඒකාකාර පරතරයකින් අඳිනු ලැබේ.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 26,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ස්ප්ලිට් වායුසමීකරණ යන්ත්‍රයක අභ්‍යන්තර ඒකකය (Indoor Unit) සහ බාහිර ඒකකය (Outdoor Unit) අතර අන්තර් සම්බන්ධක රැහැන් සටහනක සාමාන්‍යයෙන් අඩංගු අග්‍ර මොනවාද?",
+    "options": [
+      "(A) 1 (Live/Power), 2 (Neutral), 3 (Signal/Communication), සහ Earth (PE)",
+      "(B) DC 12V ධන සහ සෘණ පමණි",
+      "(C) 3-Phase R, Y, B පමණි",
+      "(D) ශබ්ද සංඥා රැහැන් පමණි"
+    ],
+    "correctIndex": 0,
+    "explanation": "බොහෝ ස්ප්ලිට් ඒසී වල Indoor-Outdoor සම්බන්ධතාවයට Live (1), Neutral (2), Signal (3/Comm) සහ Earth (Ground) අග්‍ර 4 ක් භාවිතා වේ.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 27,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "පරිපථ සටහනක AC ධාරිත්‍රකයක් (Capacitor) සංකේතවත් කරන්නේ කෙසේද?",
+    "options": [
+      "(A) එකිනෙකට සමාන්තර සෘජු රේඛා දෙකක් (Two parallel straight plates)",
+      "(B) දඟරයක්",
+      "(C) ඊතලයක් සහිත කවයක්",
+      "(D) සෘජුකෝණාස්‍රයක් තුළ X අකුරක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "ධාරිත්‍රකයක් (Non-polarized AC capacitor) නිරූපණය කරන්නේ සමාන දිගකින් යුතු සමාන්තර සෘජු රේඛා දෙකකිනි. ධ්‍රැවීකෘත (Electrolytic DC) ධාරිත්‍රක වල එක් තහඩුවක් වක්‍රව හෝ '+' ලකුණ සහිතව දක්වයි.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 28,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "තלתන්තු ස්ටාර්-ඩෙල්ටා (Star-Delta) ආරම්භක පාලන පරිපථයක අන්තර්ගත වන මුළු ප්‍රධාන කොන්ටැක්ටර් ගණන කීයද?",
+    "options": [
+      "(A) කොන්ටැක්ටර් 3 කි (Main, Star, Delta)",
+      "(B) 1 කි",
+      "(C) 2 කි",
+      "(D) 5 කි"
+    ],
+    "correctIndex": 0,
+    "explanation": "Star-Delta ආරම්භකයක ප්‍රධාන කොන්ටැක්ටරය (Main), ස්ටාර් කොන්ටැක්ටරය (Star) සහ ඩෙල්ටා කොන්ටැක්ටරය (Delta) ලෙස ප්‍රධාන කොන්ටැක්ටර් 3 ක් සහ ටයිමරයක් (Timer) අඩංගු වේ.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 29,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "Star-Delta පාලන පරිපථයක Star සහ Delta කොන්ටැක්ටර් අතර සම්බන්ධ විය යුතු අත්‍යවශ්‍ය ආරක්ෂිත අංගය කුමක්ද?",
+    "options": [
+      "(A) Electrical Interlock (එකක් ක්‍රියාත්මක වන විට අනෙක ක්‍රියාත්මක විය නොහැකි NC අගුල)",
+      "(B) මෝටරයට අමතර රෙසිස්ටරයක්",
+      "(C) සෘජුකෝණාස්‍රාකාර ඩයෝඩයක්",
+      "(D) බැටරියක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "Star සහ Delta කොන්ටැක්ටර් දෙකම එකවර ක්‍රියාත්මක වුවහොත් 3-phase කෙටි පරිපථයක් (dead short circuit) ඇතිවන බැවින් ඒ දෙක අතර අනිවාර්යයෙන්ම Electrical & Mechanical Interlock යෙදිය යුතුය.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 30,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ඉංජිනේරු ඇඳීම් වලදී 'RF' හෝ 'R' අකුරෙන් නිරූපණය කරන්නේ කුමක්ද?",
+    "options": [
+      "(A) අරය (Radius)",
+      "(B) ප්‍රතිරෝධය (Resistance)",
+      "(C) විෂ්කම්භය (Diameter)",
+      "(D) පරිධිය (Circumference)"
+    ],
+    "correctIndex": 0,
+    "explanation": "ඉංජිනේරු මානකරණයේදී 'R' අකුරෙන් චාපයක හෝ වටකුරු දාරයක අරය (Radius) නිරූපණය කරන අතර විෂ්කම්භය 'Ø' (Diameter) මඟින් නිරූපණය කරයි.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 31,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "විද්‍යුත් පරිපථයක සොලනොයිඩ් කපාටයක් (Solenoid Valve) නිරූපණය කරන සම්මත සංකේතය කුමක්ද?",
+    "options": [
+      "(A) කපාට සංකේතයකට (Hourglass / two triangles facing each other) ඉහළින් විද්‍යුත් චුම්භක දඟරයක් (Coil/box with slash)",
+      "(B) විදුලි මෝටරයක්",
+      "(C) සරල පයිප්ප සන්ධියක්",
+      "(D) ද්විලෝහ තහඩුවක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "Solenoid valve සංකේතය සමන්විත වන්නේ මූලික කපාට සංකේතය (මුහුණට මුහුණ ලා ඇති ත්‍රිකෝණ දෙකක්) සහ ඊට ඉහළින් ඇති විද්‍යුත් චුම්භක ක්‍රියාකාරක දඟර සංකේතයෙනි.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 32,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ශීතකාරක පරිපථයක Filter Drier (පෙරහන් වියළනය) සංකේතවත් කරන්නේ කෙසේද?",
+    "options": [
+      "(A) මැද පෙරහන් තිරයක් හෝ තිත් සහිත රොම්බසයක්/සිලින්ඩරයක් (Cylinder or diamond with filter mesh/dots)",
+      "(B) කවයක් තුළ ඊතලයක්",
+      "(C) විවෘත කපාටයක්",
+      "(D) තද කළු කොටුවක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "P&ID සටහන් වල Filter Drier එකක් මැද පෙරහන් දැලක් (mesh screen) සහිත කුඩා සිලින්ඩරයකින් හෝ දියමන්ති හැඩයකින් නිරූපණය කරයි.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 33,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "Orthographic Projection හෙවත් සෘජුකෝණී ප්‍රක්ෂේපණයේ ප්‍රධාන මූලධර්මය කුමක්ද?",
+    "options": [
+      "(A) ප්‍රක්ෂේපණ රේඛා එකිනෙකට සමාන්තර වන අතර ප්‍රක්ෂේපණ තලයට ලම්බක වේ (Projectors are parallel and perpendicular to projection plane)",
+      "(B) සියලුම රේඛා තනි ලක්ෂ්‍යයකට අභිසාරී වේ",
+      "(C) වස්තුව 45 කෝණයකින් පමණක් ඇඳීම",
+      "(D) සෙවනැලි ඇඳීම පමණි"
+    ],
+    "correctIndex": 0,
+    "explanation": "සෘජුකෝණී ප්‍රක්ෂේපණයේදී නිරීක්ෂකයා අනන්තයේ සිට බලන බව උපකල්පනය කරන අතර ප්‍රක්ෂේපණ රේඛා එකිනෙකට සමාන්තරව තලයට 90° ලම්බකව පතිත වේ.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 34,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ඉංජිනේරු ඇඳීම් වල පරිමාණය 1:5 (Scale 1:5) ලෙස දක්වා ඇති විට එහි තේරුම කුමක්ද?",
+    "options": [
+      "(A) ඇඳීමේ 1 mm සැබෑ වස්තුවේ 5 mm නිරූපණය කරයි (කුඩා කළ පරිමාණයක් - Reduction Scale)",
+      "(B) ඇඳීමේ 5 mm සැබෑ වස්තුවේ 1 mm නිරූපණය කරයි (විශාල කළ පරිමාණයක්)",
+      "(C) සැබෑ ප්‍රමාණයෙන්ම ඇඳීමකි",
+      "(D) කඩදාසියේ දිග පළල අනුපාතයකි"
+    ],
+    "correctIndex": 0,
+    "explanation": "1:5 යනු Reduction scale එකක් හෙවත් කුඩා කළ පරිමාණයකි. එහි අර්ථය සැබෑ වස්තුවේ 5 mm ප්‍රමාණය ඇඳීමේදී 1 mm ලෙස කුඩා කර දක්වා ඇති බවයි.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 35,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ශීතකරණ රැහැන් සටහනක Defrost Bimetal Thermostat එකක් සංකේතවත් කරන්නේ කෙසේද?",
+    "options": [
+      "(A) උෂ්ණත්වය සෘණ අගයකට වැටුණු විට වැසෙන (Closes at low temp, e.g. -5°C) NC බයිමෙටල් ස්විචයක්",
+      "(B) රත් වූ විට වැසෙන ස්විචයක්",
+      "(C) අතින් ක්‍රියාත්මක කරන ටොගල් ස්විචයක්",
+      "(D) විද්‍යුත් ඝණ්ටාරයක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "Defrost Bimetal එක වාෂ්පීකාරකය අයිස් වලින් පිරී සීතල වූ විට (උදා: -5°C) ස්පර්ශක වැසී හීටරය ක්‍රියාත්මක වීමට ඉඩ සලසයි. අයිස් දියවී උෂ්ණත්වය වැඩි වූ විට (උදා: +8°C) විවෘත වී හීටරය විසන්ධි කරයි.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 36,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "විද්‍යුත් පාලන පරිපථයක හදිසි නැවතුම් බොත්තම (Emergency Stop Push Button) නිරූපණය කරන සංකේතයේ විශේෂත්වය කුමක්ද?",
+    "options": [
+      "(A) බිම්මල් හැඩැති හිසක් (Mushroom head) සහිත Normally Closed (NC) අගුළු වැටෙන ස්විචයක්",
+      "(B) කුඩා රවුම් NO ස්විචයක්",
+      "(C) ස්ලයිඩින් ස්විචයක්",
+      "(D) රොකර් ස්විචයක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "Emergency Stop (E-Stop) ස්විචය බිම්මල් හැඩැති විශාල රතු හිසක් (Mushroom head) සහිත වන අතර එය තද කළ විට NC ස්පර්ශය විවෘත වී අගුළු වැටේ (Latching NC contact). එය යථා තත්ත්වයට පත් කිරීමට කරකැවිය යුතුය.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 37,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ශීතකරණ පද්ධතියක පීඩන ස්විචයක් (High/Low Pressure Switch) P&ID හෝ රැහැන් සටහනක දක්වන්නේ කෙසේද?",
+    "options": [
+      "(A) පීඩන සංවේදක සංකේතයක් (Bellows/diaphragm) සහිත විද්‍යුත් ස්විචයක් (LP / HP Switch)",
+      "(B) ජල කරාම සංකේතයක්",
+      "(C) උෂ්ණත්වමානයක්",
+      "(D) සරල ප්‍රතිරෝධකයක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pressure Switch (LP/HP) එකක් පීඩන සංවේදක බෙලෝස් (bellows) හෝ ඩයෆ්‍රෑම් සංකේතයක් මඟින් විද්‍යුත් ස්විචයක් ක්‍රියාත්මක වන පරිදි අඳිනු ලැබේ.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 38,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ඉංජිනේරු ඇඳීම් වලදී 'M10 × 1.5' ලෙස සටහන් කර ඇති මානයකින් අදහස් වන්නේ කුමක්ද?",
+    "options": [
+      "(A) නාමික විෂ්කම්භය 10 mm සහ අන්තරාලය (Pitch) 1.5 mm වූ මෙට්‍රික් ඉස්කුරුප්පු පොටක් (Metric Thread)",
+      "(B) 10 mm දිග සහ 1.5 mm පළල තහඩුවක්",
+      "(C) මෙට්‍රික් මෝටරයක බලය 10 HP සහ වේගය 1.5 RPM",
+      "(D) බෝල්ට් ඇණ 10 ක් සහ නට් 1.5 ක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "ISO metric screw thread සටහන් කිරීමේදී 'M' යනු Metric thread, '10' යනු නාමික විෂ්කම්භය 10 mm වන අතර '1.5' යනු පොටවල් දෙකක් අතර අන්තරාලය (Pitch) 1.5 mm බවයි.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 39,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "විද්‍යුත් රැහැන් සටහනක නියමු ලාම්පුවක් (Pilot / Indicator Lamp) නිරූපණය කරන සංකේතය කුමක්ද?",
+    "options": [
+      "(A) කවයක් තුළ 'X' අකුරක් හෝ හරස්කඩක් (Circle with an internal cross)",
+      "(B) සෘජුකෝණාස්‍රයක් තුළ තිත් 3ක්",
+      "(C) ත්‍රිකෝණයක්",
+      "(D) දඟරයක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "IEC 60617 අනුව නියමු ලාම්පුවක් (Indicator / Signal Lamp) නිරූපණය කරන්නේ කවයක් තුළ 45° ට ඇඳි හරස්කඩකිනි (Circle with an X).",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 40,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "Single Phase Capacitor Run මෝටරයක රැහැන් සටහනක ධාවක ධාරිත්‍රකය (Run Capacitor) සම්බන්ධ කර ඇත්තේ කුමන දඟරයටද?",
+    "options": [
+      "(A) ආරම්භක දඟරයට (Starting / Auxiliary Winding) ස්ථිරවම ශ්‍රේණිගතව",
+      "(B) ප්‍රධාන දඟරයට (Main Winding) සමාන්තරගතව",
+      "(C) උදාසීන රැහැනට (Neutral) කෙළින්ම",
+      "(D) ආරම්භක ස්විචයට සමාන්තරව"
+    ],
+    "correctIndex": 0,
+    "explanation": "Permanent Split Capacitor (PSC) මෝටර වල Run Capacitor එක ආරම්භක දඟරයට (Starting winding) ස්ථිරවම ශ්‍රේණිගතව සම්බන්ධ කර ඇති අතර මෝටරය ධාවනය වන මුළු කාලය තුළම පරිපථයේ පවතී.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 41,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ඉංජිනේරු ඇඳීම් වලදී 'Ø' සංකේතයෙන් දක්වන්නේ කුමක්ද?",
+    "options": [
+      "(A) විෂ්කම්භය (Diameter)",
+      "(B) අරය (Radius)",
+      "(C) කෝණය (Angle)",
+      "(D) ඝනකම (Thickness)"
+    ],
+    "correctIndex": 0,
+    "explanation": "ඉංජිනේරු ඇඳීම් වල වෘත්තාකාර හැඩයක හෝ සිදුරක විෂ්කම්භය (Diameter) දැක්වීමට 'Ø' සංකේතය භාවිතා කරයි (උදා: Ø25 = විෂ්කම්භය 25 mm).",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 42,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "AC බෙදාහැරීමේ පුවරුවක (Distribution Board) Residual Current Device (RCD / ELCB) සංකේතවත් කරන්නේ කෙසේද?",
+    "options": [
+      "(A) toroidal ධාරා ට්‍රාන්ස්ෆෝමරයක් මැදින් සන්නායක ගමන් කරන ස්වයංක්‍රීය විසන්ධි ස්විච සංකේතයකින්",
+      "(B) සරල අතින් ක්‍රියාත්මක කරන ස්විචයකින්",
+      "(C) ෆියුස් එකක් පමණක් ඇඳීමෙන්",
+      "(D) විදුලි මීටරයකින්"
+    ],
+    "correctIndex": 0,
+    "explanation": "RCD සංකේතය සමන්විත වන්නේ අවශේෂ ධාරාව හඳුනාගන්නා Core Balance Current Transformer (ටොරොයිඩල් දඟරය) සහ එයින් ට්‍රිප් වන පරිපථ කඩන ස්විචයකිනි.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 43,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ශීතකාරක නල මාර්ග සටහනක චෙක් කපාටයක් (Check Valve / Non-Return Valve) සංකේතවත් කරන්නේ කෙසේද?",
+    "options": [
+      "(A) එක් දිශාවකට පමණක් ගලායාමට ඉඩ සලසන ආධාරක තලයක් සහිත ත්‍රිකෝණාකාර ඊතල සංකේතයක්",
+      "(B) සරල රවුමක්",
+      "(C) සෘජුකෝණාස්‍රයක්",
+      "(D) දඟරයක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "Check Valve (Non-return valve) සංකේතය මඟින් ශීතකාරකය ගලා යා හැක්කේ ඊතලය පෙන්වන දිශාවට පමණක් බවත්, විරුද්ධ දිශාවට ගලා ඒම වළක්වන බවත් නිරූපණය කරයි.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 44,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ප්‍රක්ෂේපණ ඇඳීමකදී 'Front Elevation', 'End Elevation' සහ 'Plan' යනු පිළිවෙලින් මොනවාද?",
+    "options": [
+      "(A) ඉදිරිපස දර්ශනය, පැති දර්ශනය සහ ඉහළින් බලන දර්ශනය (Front View, Side View, Top View)",
+      "(B) පැති දර්ශනය, ඉහළ දර්ශනය සහ පහළ දර්ශනය",
+      "(C) ඇතුළත දර්ශන පමණි",
+      "(D) ත්‍රිමාන සෙවනැලි දර්ශන"
+    ],
+    "correctIndex": 0,
+    "explanation": "සම්මත වාස්තු විද්‍යා සහ ඉංජිනේරු ඇඳීම් වල Front Elevation යනු ඉදිරිපස දර්ශනයයි, End Elevation යනු පැති දර්ශනයයි (Side View), Plan යනු ඉහළින් බලන දර්ශනයයි (Top View).",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 45,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "මෝටර් පාලන පුවරුවක Control Transformer එකක් භාවිතා කිරීම පෙන්වන සටහනක එහි ප්‍රධාන කාර්යය කුමක්ද?",
+    "options": [
+      "(A) 400V හෝ 230V ප්‍රධාන සැපයුම 24V හෝ 110V ආරක්ෂිත පාලන වෝල්ටීයතාවයකට අඩු කිරීම (Step-down for control safety)",
+      "(B) මෝටරයේ වේගය දෙගුණ කිරීම",
+      "(C) AC ධාරාව DC බවට පත් කිරීම",
+      "(D) ධාරිතාව වැඩි කිරීම"
+    ],
+    "correctIndex": 0,
+    "explanation": "මෝටර් පාලන පරිපථ වල ක්‍රියාකරුවන්ගේ ආරක්ෂාව සඳහා 400V/230V අධි වෝල්ටීයතාවය වෙනුවට Control Transformer මඟින් 24V හෝ 110V වැනි අඩු වෝල්ටීයතාවයකට පරිවර්තනය කර පාලන බොත්තම් වලට සපයයි.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 46,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ශීතකරණ රැහැන් සටහනක PTC Relay (Positive Temperature Coefficient) සංකේතවත් කරන්නේ කෙසේද?",
+    "options": [
+      "(A) සෘජුකෝණාස්‍රයක් තුළ උෂ්ණත්වය වැඩිවත්ම ප්‍රතිරෝධය වැඩිවන බව දැක්වෙන '+t°' සලකුණ සහිත ප්‍රතිරෝධකයක්",
+      "(B) සාමාන්‍ය දඟරයක්",
+      "(C) ස්ථිර චුම්භකයක්",
+      "(D) ඩයෝඩයක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "PTC starter relay යනු උෂ්ණත්වය සමග ප්‍රතිරෝධය ඉහළ යන ඝන-තත්ත්ව (solid-state) ප්‍රතිරෝධකයකි. එහි සංකේතය තුළ සෘජුකෝණාස්‍රය සහ '+t°' ලකුණ අඩංගු වේ.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 47,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ඉංජිනේරු ඇඳීම් වලදී රේඛාවක සැබෑ දිග (True Length) දැකිය හැක්කේ කවදාද?",
+    "options": [
+      "(A) අදාළ රේඛාව ප්‍රක්ෂේපණ තලයට සමාන්තරව පිහිටන විට (Line is parallel to the projection plane)",
+      "(B) රේඛාව තලයට ලම්බකව පිහිටන විට",
+      "(C) ඕනෑම ආනතියකදී",
+      "(D) Isometric දර්ශනයකදී පමණි"
+    ],
+    "correctIndex": 0,
+    "explanation": "වස්තුවක දාරයක් හෝ රේඛාවක් ප්‍රක්ෂේපණ තලයට සමාන්තර වන විට පමණක් එම තලය මත ඇඳෙන ප්‍රක්ෂේපණයේදී එහි සැබෑ දිග (True Length) දිස්වේ.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 48,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "විද්‍යුත් රැහැන් සටහන් වල රැහැන් හරස්වීමක් (Wire Crossing without Connection) සහ රැහැන් සන්ධියක් (Connected Junction) වෙන්කර හඳුනාගන්නේ කෙසේද?",
+    "options": [
+      "(A) සම්බන්ධ වී ඇති සන්ධියක තද තිතක් (Solid dot / node) ඇති අතර, හරස්වන රැහැන් වල තිතක් නොමැත",
+      "(B) සම්බන්ධ නොවන රැහැන් වල තිතක් තබයි",
+      "(C) රැහැන් වල වර්ණය වෙනස් කිරීමෙන් පමණි",
+      "(D) වෙනසක් නැත"
+    ],
+    "correctIndex": 0,
+    "explanation": "සම්මත විද්‍යුත් ඇඳීම් වල සන්නායක දෙකක් විදුලිමය වශයෙන් සම්බන්ධ වන සන්ධියක තද කළු තිතක් (Junction Dot / Node) යොදන අතර, හුදෙක් එකිනෙක මතින් ගමන් කරන (Crossing without connection) රැහැන් වල තිතක් නොමැත.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 49,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "ශීතකරණ පරිපථයක Accumulator (ද්‍රව එකතුකරනය) සංකේතවත් කර ස්ථාපනය කරන්නේ කුමන ස්ථානයේද?",
+    "options": [
+      "(A) වාෂ්පීකාරකය (Evaporator) සහ සම්පීඩකයේ Suction inlet අතර සිලින්ඩරාකාර බඳුනක් ලෙස",
+      "(B) කන්ඩෙන්සරය ඉදිරිපිට",
+      "(C) කේශික නළය තුළ",
+      "(D) තෙල් බෙදුම්කරු තුළ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Suction Accumulator එකක් වාෂ්පීකාරකයෙන් පිටවන බටය සහ සම්පීඩකයේ චූෂණ (Suction) පිවිසුම අතර සවිකර සංකේතවත් කරනු ලබන්නේ නොදැවුණු ද්‍රව ශීතකාරකය සම්පීඩකයට ඇතුළුවීම වැළැක්වීමටය.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 50,
+    "subject": "drawing",
+    "subjectName": "Engineering Drawing",
+    "question": "CAD (Computer-Aided Design) මෘදුකාංගයක විද්‍යුත් හෝ HVAC ඇඳීම් සිදුකිරීමේදී 'Layers' (ස්ථර) භාවිතා කිරීමේ ප්‍රධාන වාසිය කුමක්ද?",
+    "options": [
+      "(A) විවිධ පද්ධති (බල රැහැන්, පාලන රැහැන්, පයිප්ප, මාන) වෙන් වෙන්ව පාලනය කිරීමට, සැඟවීමට සහ සංස්කරණය කිරීමට හැකිවීම",
+      "(B) පරිගණකයේ විදුලි පරිභෝජනය අඩු කිරීම",
+      "(C) ස්වයංක්‍රීයව පරිපථය ක්‍රියාත්මක වීම",
+      "(D) කඩදාසියේ බර අඩු කිරීම"
+    ],
+    "correctIndex": 0,
+    "explanation": "CAD ඇඳීම් වල Layers මඟින් විදුලි රැහැන්, පාලන උපකරණ, මානකරණ (Dimensions), ගොඩනැගිලි බිත්ති වැනි විවිධ අංග වෙන වෙනම කළමනාකරණය කිරීමටත්, අවශ්‍ය විටෙක පමණක් දර්ශනය කිරීමටත් ඉඩ සලසයි.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "8 Ω, 4 Ω හා 12 Ω යන ප්‍රතිරෝධ තුනක් ශ්‍රේණිගතව (Series) සම්බන්ධ කර ඇත. මෙම පරිපථයේ සමක ප්‍රතිරෝධය (Equivalent Resistance) කොපමණද?",
+    "options": [
+      "(A) 48 Ω",
+      "(B) 24 Ω",
+      "(C) 6 Ω",
+      "(D) 2 Ω"
+    ],
+    "correctIndex": 1,
+    "explanation": "ශ්‍රේණිගත පරිපථයක සමක ප්‍රතිරෝධය R_eq = R1 + R2 + R3 = 8 + 4 + 12 = 24 Ω වේ.",
+    "sourcePaper": "2024 Paper - Q09"
+  },
+  {
+    "id": 2,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "ඉහත 24 Ω සමක ප්‍රතිරෝධය සහිත ශ්‍රේණිගත පරිපථයට 48 V විදුලි සැපයුමක් ලබාදුන් විට, පරිපථය හරහා ගලන මුළු ධාරාව (I) කොපමණද?",
+    "options": [
+      "(A) 24 A",
+      "(B) 8 A",
+      "(C) 2 A",
+      "(D) 1 A"
+    ],
+    "correctIndex": 2,
+    "explanation": "ඕම්ගේ නියමය අනුව I = V / R = 48 V / 24 Ω = 2 A වේ.",
+    "sourcePaper": "2024 Paper - Q10"
+  },
+  {
+    "id": 3,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "ඝන අඩි (cu ft) 8 ක් ලෙස ශීතකරණ යන්ත්‍රයක අභ්‍යන්තර ධාරිතාව දක්වා ඇති විට, එම ධාරිතාව ලීටර් (L) වලින් ආසන්න වශයෙන් කොපමණ වේද?",
+    "options": [
+      "(A) 80 L",
+      "(B) 160 L",
+      "(C) 225 L (≈ 226.5 L)",
+      "(D) 285 L"
+    ],
+    "correctIndex": 2,
+    "explanation": "1 cu ft ≈ 28.3168 L වේ. එබැවින් 8 cu ft = 8 × 28.3168 = 226.53 L ≈ 225 L වේ.",
+    "sourcePaper": "2024 Paper - Q18"
+  },
+  {
+    "id": 4,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "10 Ω, 20 Ω, 30 Ω ප්‍රතිරෝධ තුනක් ශ්‍රේණිගතව සම්බන්ධ කර, ඊට සමාන්තරගතව 60 Ω ප්‍රතිරෝධයක් සම්බන්ධ කර ඇත. මෙම මුළු පරිපථයේ සමක ප්‍රතිරෝධය කොපමණද?",
+    "options": [
+      "(A) 30 Ω",
+      "(B) 60 Ω",
+      "(C) 65 Ω",
+      "(D) 120 Ω"
+    ],
+    "correctIndex": 0,
+    "explanation": "ශ්‍රේණිගත කොටස: 10 + 20 + 30 = 60 Ω. ඊට සමාන්තරගතව 60 Ω: R_eq = (60 × 60) / (60 + 60) = 3600 / 120 = 30 Ω වේ.",
+    "sourcePaper": "2025 Paper - Q15"
+  },
+  {
+    "id": 5,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "ඉහත 30 Ω සමක ප්‍රතිරෝධය සහිත පරිපථයට 230 V සැපයුමක් ලබාදුන් විට ගලායන මුළු ධාරාව (I) කොපමණද?",
+    "options": [
+      "(A) 1.99 A",
+      "(B) 3.55 A",
+      "(C) 5.20 A",
+      "(D) 7.66 A"
+    ],
+    "correctIndex": 3,
+    "explanation": "I = V / R = 230 V / 30 Ω = 7.666... A ≈ 7.66 A වේ.",
+    "sourcePaper": "2025 Paper - Q16"
+  },
+  {
+    "id": 6,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "230 V වෝල්ටීයතාවයකින් ක්‍රියාත්මක වන 1150 W ජල තාපකයක (Heater) ප්‍රතිරෝධය (Resistance) කොපමණද?",
+    "options": [
+      "(A) 10 Ω",
+      "(B) 23 Ω",
+      "(C) 46 Ω",
+      "(D) 50 Ω"
+    ],
+    "correctIndex": 2,
+    "explanation": "P = V² / R සූත්‍රයෙන්: R = V² / P = (230 × 230) / 1150 = 52,900 / 1150 = 46 Ω වේ.",
+    "sourcePaper": "DTET Maths / Electrical"
+  },
+  {
+    "id": 7,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "230 V සැපයුමකින් 10 A ධාරාවක් ලබාගන්නා විදුලි මෝටරයක පරිභෝජනය කරන ක්ෂමතාවය (Power) වොට් (W) වලින් කොපමණද? (Power factor = 1.0 ලෙස සලකන්න)",
+    "options": [
+      "(A) 23 W",
+      "(B) 230 W",
+      "(C) 2,300 W (2.3 kW)",
+      "(D) 23,000 W"
+    ],
+    "correctIndex": 2,
+    "explanation": "P = V × I = 230 V × 10 A = 2300 W = 2.3 kW වේ.",
+    "sourcePaper": "DTET Electrical Calculations"
+  },
+  {
+    "id": 8,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "සෙල්සියස් 27°C නිරපේක්ෂ උෂ්ණත්වය (Absolute Temperature in Kelvin) කෙල්වින් වලින් කොපමණද?",
+    "options": [
+      "(A) 300 K",
+      "(B) 246 K",
+      "(C) 327 K",
+      "(D) 270 K"
+    ],
+    "correctIndex": 0,
+    "explanation": "K = °C + 273.15 ➔ 27 + 273.15 = 300.15 K ≈ 300 K වේ.",
+    "sourcePaper": "2018 Paper - Q04"
+  },
+  {
+    "id": 9,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "පීඩනය 4.5 bar යනු රාත්තල්/වර්ග අඟලට (psig) කීයක් වේද? (1 bar ≈ 14.5038 psi)",
+    "options": [
+      "(A) 25.4 psig",
+      "(B) 45.0 psig",
+      "(C) 65.3 psig (≈ 66 psig)",
+      "(D) 100 psig"
+    ],
+    "correctIndex": 2,
+    "explanation": "4.5 × 14.5038 = 65.267 psig ≈ 65.3 psig (ආසන්න වශයෙන් 66 psig) වේ.",
+    "sourcePaper": "2016 Paper - Q04"
+  },
+  {
+    "id": 10,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "35 μF සහ 5 μF ධාරිත්‍රක දෙකක් සමාන්තරගතව (Parallel) සම්බන්ධ කළ විට මුළු ධාරිතාව කොපමණද?",
+    "options": [
+      "(A) 4.375 μF",
+      "(B) 30 μF",
+      "(C) 40 μF",
+      "(D) 175 μF"
+    ],
+    "correctIndex": 2,
+    "explanation": "සමාන්තරගත ධාරිත්‍රකවල මුළු ධාරිතාව C_total = C1 + C2 = 35 + 5 = 40 μF වේ.",
+    "sourcePaper": "Dual Run Capacitor Spec"
+  },
+  {
+    "id": 11,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "10 μF ධාරිත්‍රක දෙකක් ශ්‍රේණිගතව (Series) සම්බන්ධ කළ විට මුළු ධාරිතාව කොපමණද?",
+    "options": [
+      "(A) 20 μF",
+      "(B) 10 μF",
+      "(C) 5 μF",
+      "(D) 2.5 μF"
+    ],
+    "correctIndex": 2,
+    "explanation": "ශ්‍රේණිගත ධාරිත්‍රකවල 1/C = 1/C1 + 1/C2 ➔ C = (10 × 10) / (10 + 10) = 100 / 20 = 5 μF වේ.",
+    "sourcePaper": "Electronics & Capacitance"
+  },
+  {
+    "id": 12,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "දිග 4 m සහ පළල 3 m වන කාමරයක වර්ගඵලය (Area) වර්ග අඩි වලින් ආසන්න වශයෙන් කොපමණද? (1 m ≈ 3.2808 ft)",
+    "options": [
+      "(A) 12.0 sq ft",
+      "(B) 39.4 sq ft",
+      "(C) 129.2 sq ft",
+      "(D) 150.5 sq ft"
+    ],
+    "correctIndex": 2,
+    "explanation": "දිග = 4 × 3.2808 = 13.123 ft. පළල = 3 × 3.2808 = 9.842 ft. වර්ගඵලය = 13.123 × 9.842 = 129.16 sq ft ≈ 129.2 sq ft.",
+    "sourcePaper": "AC Heat Load Calculation"
+  },
+  {
+    "id": 13,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "12,000 BTU/hr (1 Ton of Refrigeration - TR) යනු කිලෝවොට් (kW) කීයක්ද? (1 kW ≈ 3412 BTU/hr)",
+    "options": [
+      "(A) 1.5 kW",
+      "(B) 2.5 kW",
+      "(C) 3.517 kW (≈ 3.5 kW)",
+      "(D) 5.0 kW"
+    ],
+    "correctIndex": 2,
+    "explanation": "1 TR = 12,000 / 3412.14 = 3.5168 kW ≈ 3.517 kW වේ.",
+    "sourcePaper": "Refrigeration Capacity Conversion"
+  },
+  {
+    "id": 14,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "ධ්‍රැව 4 කින් (P = 4) යුත් ත්‍රි-කලා මෝටරයක් 50 Hz සංඛ්‍යාතයකින් ක්‍රියාත්මක වන විට එහි සමමුහුර්ත වේගය (Synchronous Speed - Ns) කොපමණද?",
+    "options": [
+      "(A) 3000 RPM",
+      "(B) 1500 RPM",
+      "(C) 1000 RPM",
+      "(D) 750 RPM"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ns = (120 × f) / P = (120 × 50) / 4 = 6000 / 4 = 1500 RPM වේ.",
+    "sourcePaper": "Motor Theory & Calculations"
+  },
+  {
+    "id": 15,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "ධ්‍රැව 2 කින් (P = 2) යුත් මෝටරයක 50 Hz දී සමමුහුර්ත වේගය කොපමණද?",
+    "options": [
+      "(A) 1500 RPM",
+      "(B) 3000 RPM",
+      "(C) 3600 RPM",
+      "(D) 6000 RPM"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ns = (120 × 50) / 2 = 6000 / 2 = 3000 RPM වේ.",
+    "sourcePaper": "Motor Theory & Calculations"
+  },
+  {
+    "id": 16,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "230 V සැපයුමක උපරිම අවසර ලත් වෝල්ටීයතා බැස්ම (Voltage Drop) 4% ක් නම්, අවසර ලත් උපරිම වෝල්ටීයතා අඩුවීම (ΔV) කොපමණද?",
+    "options": [
+      "(A) 4.0 V",
+      "(B) 9.2 V",
+      "(C) 12.5 V",
+      "(D) 23.0 V"
+    ],
+    "correctIndex": 1,
+    "explanation": "ΔV = 230 × 0.04 = 9.2 V වේ. (BS 7671 සම්මතය).",
+    "sourcePaper": "Electrical Installation Math"
+  },
+  {
+    "id": 17,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "වර්ගඵලය 100 cm² වන පිස්ටනයක් මත 500 N බලයක් යෙදූ විට පිස්ටනය මඟින් ඇතිකරන පීඩනය (Pressure) N/cm² වලින් කොපමණද?",
+    "options": [
+      "(A) 5 N/cm²",
+      "(B) 50 N/cm²",
+      "(C) 500 N/cm²",
+      "(D) 5000 N/cm²"
+    ],
+    "correctIndex": 0,
+    "explanation": "P = F / A = 500 N / 100 cm² = 5 N/cm² වේ.",
+    "sourcePaper": "Fluid Mechanics & Pressure"
+  },
+  {
+    "id": 18,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "5 N/cm² පීඩනය පැස්කල් (N/m²) වලින් කොපමණද? (1 m² = 10,000 cm²)",
+    "options": [
+      "(A) 50 Pa",
+      "(B) 500 Pa",
+      "(C) 5,000 Pa",
+      "(D) 50,000 Pa (50 kPa)"
+    ],
+    "correctIndex": 3,
+    "explanation": "1 N/cm² = 10,000 N/m². එබැවින් 5 N/cm² = 5 × 10,000 = 50,000 N/m² = 50 kPa වේ.",
+    "sourcePaper": "Fluid Mechanics & Pressure"
+  },
+  {
+    "id": 19,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "100 V ප්‍රාථමික වෝල්ටීයතාවයක් (Vp) ලබාදෙන පරිණාමකයක (Transformer) ප්‍රාථමික පොටවල් ගණන (Np) 500 ක් වන අතර ද්විතීයික පොටවල් (Ns) 100 ක් වේ නම් ද්විතීයික වෝල්ටීයතාවය (Vs) කොපමණද?",
+    "options": [
+      "(A) 20 V",
+      "(B) 50 V",
+      "(C) 200 V",
+      "(D) 500 V"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vs / Vp = Ns / Np ➔ Vs = Vp × (Ns / Np) = 100 × (100 / 500) = 20 V වේ.",
+    "sourcePaper": "Transformer Math"
+  },
+  {
+    "id": 20,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "10 Ω ප්‍රතිරෝධ 3 ක් සමාන්තරගතව (Parallel) සම්බන්ධ කළ විට සමක ප්‍රතිරෝධය කොපමණද?",
+    "options": [
+      "(A) 30 Ω",
+      "(B) 10 Ω",
+      "(C) 3.33 Ω",
+      "(D) 0.33 Ω"
+    ],
+    "correctIndex": 2,
+    "explanation": "සමාන ප්‍රතිරෝධ R සමාන්තරව n ගණනක් ඇති විට R_eq = R / n = 10 / 3 = 3.33 Ω වේ.",
+    "sourcePaper": "Parallel Resistance Law"
+  },
+  {
+    "id": 21,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "100 W විදුලි බල්බයක් දිනකට පැය 10 බැගින් දින 30 ක් දැල්වූ විට පරිභෝජනය වන විදුලි ඒකක (kWh) ගණන කොපමණද?",
+    "options": [
+      "(A) 3 kWh",
+      "(B) 30 kWh (Units)",
+      "(C) 300 kWh",
+      "(D) 3000 kWh"
+    ],
+    "correctIndex": 1,
+    "explanation": "මුළු වොට්-පැය = 100 W × 10 h × 30 = 30,000 Wh. ඒකක (kWh) = 30,000 / 1000 = 30 Units (kWh) වේ.",
+    "sourcePaper": "Energy Consumption Math"
+  },
+  {
+    "id": 22,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "1.5 HP (අශ්ව බල) මෝටරයක ප්‍රතිදාන ක්ෂමතාවය (Output Power) වොට් (W) වලින් කොපමණද? (1 HP = 746 W)",
+    "options": [
+      "(A) 746 W",
+      "(B) 1,119 W",
+      "(C) 1,492 W",
+      "(D) 1,500 W"
+    ],
+    "correctIndex": 1,
+    "explanation": "1.5 × 746 W = 1119 W = 1.119 kW වේ.",
+    "sourcePaper": "Motor Power Conversions"
+  },
+  {
+    "id": 23,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "2000 W හීටරයක් 200 V සැපයුමකට සම්බන්ධ කළ විට එයින් ඇදගන්නා ධාරාව (I) කොපමණද?",
+    "options": [
+      "(A) 5 A",
+      "(B) 10 A",
+      "(C) 20 A",
+      "(D) 40 A"
+    ],
+    "correctIndex": 1,
+    "explanation": "I = P / V = 2000 W / 200 V = 10 A වේ.",
+    "sourcePaper": "Ohm's & Power Law"
+  },
+  {
+    "id": 24,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "අරය r = 7 cm සහ උස h = 20 cm වන සිලින්ඩරාකාර ශීතකාරක ටැංකියක පරිමාව (Volume) cm³ වලින් කොපමණද? (π = 22/7 ලෙස ගන්න)",
+    "options": [
+      "(A) 440 cm³",
+      "(B) 1,540 cm³",
+      "(C) 3,080 cm³",
+      "(D) 6,160 cm³"
+    ],
+    "correctIndex": 2,
+    "explanation": "V = π r² h = (22/7) × 7 × 7 × 20 = 22 × 7 × 20 = 3080 cm³ (≈ 3.08 L) වේ.",
+    "sourcePaper": "Cylinder Volume Formula"
+  },
+  {
+    "id": 25,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "සිලින්ඩරයක උපරිම ආරක්ෂිත ද්‍රව පිරවුම් සීමාව 80% කි. පරිමාව 10 L වන සිලින්ඩරයකට පිරවිය හැකි උපරිම ද්‍රව පරිමාව කොපමණද?",
+    "options": [
+      "(A) 5 L",
+      "(B) 8 L",
+      "(C) 9 L",
+      "(D) 10 L"
+    ],
+    "correctIndex": 1,
+    "explanation": "10 L × 80% = 10 × 0.8 = 8 Liters වේ.",
+    "sourcePaper": "Recovery Tank Math"
+  },
+  {
+    "id": 26,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "කාමරයක තාප බර (Heat Load) 24,000 BTU/hr වේ. මේ සඳහා අවශ්‍ය වන වායුසමන යන්ත්‍රයේ ධාරිතාව ටොන් (TR) වලින් කොපමණද? (1 TR = 12,000 BTU/hr)",
+    "options": [
+      "(A) 1.0 TR",
+      "(B) 1.5 TR",
+      "(C) 2.0 TR",
+      "(D) 3.0 TR"
+    ],
+    "correctIndex": 2,
+    "explanation": "24,000 / 12,000 = 2.0 TR වේ.",
+    "sourcePaper": "AC Tonnage Math"
+  },
+  {
+    "id": 27,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "මෝටරයක ආදාන ක්ෂමතාවය (Input Power) 1000 W වන අතර ප්‍රතිදාන ක්ෂමතාවය (Output Power) 850 W වේ. මෝටරයේ කාර්යක්ෂමතාව (Efficiency - η) කොපමණද?",
+    "options": [
+      "(A) 15%",
+      "(B) 80%",
+      "(C) 85%",
+      "(D) 90%"
+    ],
+    "correctIndex": 2,
+    "explanation": "η = (Output / Input) × 100% = (850 / 1000) × 100% = 85% වේ.",
+    "sourcePaper": "Efficiency Formula"
+  },
+  {
+    "id": 28,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "විදුලි ධාරාව I = 5 A වන සන්නායකයක ප්‍රතිරෝධය R = 4 Ω නම්, එහි තත්පර 10 කදී ජනනය වන ජූල් තාප ශක්තිය (Energy = I²Rt) කොපමණද?",
+    "options": [
+      "(A) 100 J",
+      "(B) 200 J",
+      "(C) 1,000 J",
+      "(D) 2,000 J"
+    ],
+    "correctIndex": 2,
+    "explanation": "H = I² × R × t = 5² × 4 × 10 = 25 × 4 × 10 = 1000 Joules වේ.",
+    "sourcePaper": "Joule's Law Calculation"
+  },
+  {
+    "id": 29,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "1 kg ජලයේ උෂ්ණත්වය 1°C කින් ඉහළ නැංවීමට අවශ්‍ය තාප ප්‍රමාණය (Specific Heat of Water) කොපමණද?",
+    "options": [
+      "(A) 100 J",
+      "(B) 1,000 J",
+      "(C) 4,186 J (≈ 4.2 kJ)",
+      "(D) 10,000 J"
+    ],
+    "correctIndex": 2,
+    "explanation": "ජලයේ විශිෂ්ට තාප ධාරිතාව (c) = 4186 J/(kg·K) ≈ 4.186 kJ/(kg·°C) වේ.",
+    "sourcePaper": "Specific Heat Physics Math"
+  },
+  {
+    "id": 30,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "100 Ω, 200 Ω සහ 300 Ω ප්‍රතිරෝධ තුනක් ශ්‍රේණිගතව සම්බන්ධ කර ඇත. මුළු ප්‍රතිරෝධය කොපමණද?",
+    "options": [
+      "(A) 60 Ω",
+      "(B) 300 Ω",
+      "(C) 600 Ω",
+      "(D) 1000 Ω"
+    ],
+    "correctIndex": 2,
+    "explanation": "R = 100 + 200 + 300 = 600 Ω වේ.",
+    "sourcePaper": "Series Resistors"
+  },
+  {
+    "id": 31,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "12 V මෝටර් රථ බැටරියකට 3 Ω ප්‍රතිරෝධයක් සහිත හෙඩ්ලයිට් බල්බයක් සම්බන්ධ කළ විට ගලන ධාරාව කොපමණද?",
+    "options": [
+      "(A) 2 A",
+      "(B) 4 A",
+      "(C) 12 A",
+      "(D) 36 A"
+    ],
+    "correctIndex": 1,
+    "explanation": "I = V / R = 12 / 3 = 4 A වේ.",
+    "sourcePaper": "Automotive DC Math"
+  },
+  {
+    "id": 32,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "0°C උෂ්ණත්වය ෆැරන්හයිට් (°F) වලින් කීයද?",
+    "options": [
+      "(A) 0 °F",
+      "(B) 32 °F",
+      "(C) 100 °F",
+      "(D) 212 °F"
+    ],
+    "correctIndex": 1,
+    "explanation": "F = (0 × 1.8) + 32 = 32 °F වේ (ජලයේ මිදෙන උෂ්ණත්වය).",
+    "sourcePaper": "Temperature Scale Conversion"
+  },
+  {
+    "id": 33,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "100°C උෂ්ණත්වය ෆැරන්හයිට් (°F) වලින් කීයද?",
+    "options": [
+      "(A) 100 °F",
+      "(B) 180 °F",
+      "(C) 212 °F",
+      "(D) 273 °F"
+    ],
+    "correctIndex": 2,
+    "explanation": "F = (100 × 1.8) + 32 = 180 + 32 = 212 °F වේ (සම්මත වායුගෝල පීඩනයේදී ජලයේ තාපාංකය).",
+    "sourcePaper": "Temperature Scale Conversion"
+  },
+  {
+    "id": 34,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "සෙල්සියස් සහ ෆැරන්හයිට් අගයන් දෙකම සමාන වන අගය කුමක්ද? (At what temp are °C and °F equal?)",
+    "options": [
+      "(A) 0°",
+      "(B) -32°",
+      "(C) -40°",
+      "(D) 100°"
+    ],
+    "correctIndex": 2,
+    "explanation": "C = (C × 1.8) + 32 ➔ -0.8 C = 32 ➔ C = 32 / -0.8 = -40°. එබැවින් -40°C = -40°F වේ.",
+    "sourcePaper": "Thermodynamics Math"
+  },
+  {
+    "id": 35,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "230 V සැපයුමක ප්‍රතිරෝධය 10 Ω වන විට ක්ෂමතාවය (P = V² / R) වොට් වලින් කොපමණද?",
+    "options": [
+      "(A) 2,300 W",
+      "(B) 5,290 W (5.29 kW)",
+      "(C) 23,000 W",
+      "(D) 52,900 W"
+    ],
+    "correctIndex": 1,
+    "explanation": "P = 230² / 10 = 52,900 / 10 = 5,290 W වේ.",
+    "sourcePaper": "Power Math"
+  },
+  {
+    "id": 36,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "1/4\" තඹ නලයක පිටත විෂ්කම්භය මිලිමීටර් (mm) වලින් ආසන්න වශයෙන් කොපමණද? (1 inch = 25.4 mm)",
+    "options": [
+      "(A) 3.18 mm",
+      "(B) 6.35 mm",
+      "(C) 9.52 mm",
+      "(D) 12.7 mm"
+    ],
+    "correctIndex": 1,
+    "explanation": "25.4 mm / 4 = 6.35 mm වේ.",
+    "sourcePaper": "Refrigeration Tube Sizing Math"
+  },
+  {
+    "id": 37,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "3/8\" තඹ නලයක පිටත විෂ්කම්භය මිලිමීටර් (mm) වලින් කොපමණද?",
+    "options": [
+      "(A) 6.35 mm",
+      "(B) 9.525 mm (≈ 9.53 mm)",
+      "(C) 12.7 mm",
+      "(D) 15.88 mm"
+    ],
+    "correctIndex": 1,
+    "explanation": "3 × (25.4 / 8) = 3 × 3.175 = 9.525 mm වේ.",
+    "sourcePaper": "Refrigeration Tube Sizing Math"
+  },
+  {
+    "id": 38,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "1/2\" තඹ නලයක පිටත විෂ්කම්භය මිලිමීටර් (mm) වලින් කොපමණද?",
+    "options": [
+      "(A) 6.35 mm",
+      "(B) 9.53 mm",
+      "(C) 12.7 mm",
+      "(D) 19.05 mm"
+    ],
+    "correctIndex": 2,
+    "explanation": "25.4 / 2 = 12.7 mm වේ.",
+    "sourcePaper": "Refrigeration Tube Sizing Math"
+  },
+  {
+    "id": 39,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "5/8\" තඹ නලයක පිටත විෂ්කම්භය මිලිමීටර් (mm) වලින් කොපමණද?",
+    "options": [
+      "(A) 12.7 mm",
+      "(B) 15.875 mm (≈ 15.88 mm)",
+      "(C) 19.05 mm",
+      "(D) 22.2 mm"
+    ],
+    "correctIndex": 1,
+    "explanation": "5 × (25.4 / 8) = 5 × 3.175 = 15.875 mm වේ.",
+    "sourcePaper": "Refrigeration Tube Sizing Math"
+  },
+  {
+    "id": 40,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "නිරපේක්ෂ පීඩනය (Absolute Pressure - psia) සහ මාන පීඩනය (Gauge Pressure - psig) අතර නිවැරදි ගණිතමය සම්බන්ධතාවය කුමක්ද?",
+    "options": [
+      "(A) Psia = Psig - 14.7",
+      "(B) Psia = Psig + 14.7",
+      "(C) Psia = Psig × 14.7",
+      "(D) Psia = Psig / 14.7"
+    ],
+    "correctIndex": 1,
+    "explanation": "Absolute Pressure = Gauge Pressure + Atmospheric Pressure (14.7 psi).",
+    "sourcePaper": "Pressure Physics Formulas"
+  },
+  {
+    "id": 41,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "පීඩන මානයක 100 psig ලෙස සටහන්ව ඇත්නම්, එහි නිරපේක්ෂ පීඩනය (Absolute pressure) psia වලින් කොපමණද?",
+    "options": [
+      "(A) 85.3 psia",
+      "(B) 100 psia",
+      "(C) 114.7 psia",
+      "(D) 147 psia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Psia = 100 + 14.7 = 114.7 psia වේ.",
+    "sourcePaper": "Pressure Physics Formulas"
+  },
+  {
+    "id": 42,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "සමාන්තරගත පරිපථයක ශාඛා දෙකක ප්‍රතිරෝධ R1 = 20 Ω සහ R2 = 30 Ω වේ. සමක ප්‍රතිරෝධය කොපමණද?",
+    "options": [
+      "(A) 10 Ω",
+      "(B) 12 Ω",
+      "(C) 25 Ω",
+      "(D) 50 Ω"
+    ],
+    "correctIndex": 1,
+    "explanation": "R_eq = (20 × 30) / (20 + 30) = 600 / 50 = 12 Ω වේ.",
+    "sourcePaper": "Parallel Circuit Math"
+  },
+  {
+    "id": 43,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "තෙකලා විදුලි බලය ගණනය කිරීමේ සූත්‍රය P = √3 × VL × IL × cos φ වේ. මෙහි √3 හි ආසන්න දශම අගය කොපමණද?",
+    "options": [
+      "(A) 1.414",
+      "(B) 1.732",
+      "(C) 2.236",
+      "(D) 3.142"
+    ],
+    "correctIndex": 1,
+    "explanation": "√3 ≈ 1.73205... වේ. (තෙකලා ගණනය කිරීම්වලදී 1.732 යොදාගනී).",
+    "sourcePaper": "3-Phase Power Formulas"
+  },
+  {
+    "id": 44,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "තෙකලා 400 V සැපයුමක කලා වෝල්ටීයතාවය (Phase Voltage - Vph) කොපමණද? (Vph = VL / √3)",
+    "options": [
+      "(A) 110 V",
+      "(B) 230 V (400 / 1.732)",
+      "(C) 400 V",
+      "(D) 690 V"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vph = 400 V / 1.732 = 230.9 V ≈ 230 V වේ.",
+    "sourcePaper": "3-Phase Power Formulas"
+  },
+  {
+    "id": 45,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "කප්ලින් ලක්ෂ්‍යයක සංඛ්‍යාතය 50 Hz නම් එක් චක්‍රයක කාලාවර්තය (Time Period - T = 1/f) තත්පර කීයක්ද?",
+    "options": [
+      "(A) 0.01 s",
+      "(B) 0.02 s (20 ms)",
+      "(C) 0.05 s",
+      "(D) 0.5 s"
+    ],
+    "correctIndex": 1,
+    "explanation": "T = 1 / 50 = 0.02 seconds = 20 milliseconds වේ.",
+    "sourcePaper": "AC Waveform Calculations"
+  },
+  {
+    "id": 46,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "ධාරිත්‍රකයක ධාරිතාව C = 100 μF වන අතර එයට V = 200 V වෝල්ටීයතාවයක් ලබාදුන් විට එහි ගබඩා වන ආරෝපණය (Q = C × V) කූලෝම් (Coulombs) වලින් කොපමණද?",
+    "options": [
+      "(A) 0.002 C",
+      "(B) 0.02 C",
+      "(C) 0.2 C",
+      "(D) 2 C"
+    ],
+    "correctIndex": 1,
+    "explanation": "Q = (100 × 10^-6 F) × 200 V = 0.02 C වේ.",
+    "sourcePaper": "Capacitor Physics Math"
+  },
+  {
+    "id": 47,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "විදුලි පරිපථයක ෆියුස් අගය තෝරාගැනීමේදී සාමාන්‍ය ධාවන ධාරාව 8 A නම්, නිර්දේශිත ෆියුස් අගය (1.25 ගුණයක් ලෙස සලකා) කොපමණද?",
+    "options": [
+      "(A) 5 A",
+      "(B) 10 A",
+      "(C) 16 A",
+      "(D) 32 A"
+    ],
+    "correctIndex": 1,
+    "explanation": "8 A × 1.25 = 10 A වේ. එබැවින් 10 A සම්මත ෆියුස්/MCB තෝරාගනී.",
+    "sourcePaper": "Fuse Rating Math"
+  },
+  {
+    "id": 48,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "ප්‍රතිලෝම සමානුපාතික සබඳතාවයක් වන බොයිල්ගේ නියමය (Boyle's Law: P1 V1 = P2 V2) අනුව, වායුවක පීඩනය දෙගුණ කළ විට (උෂ්ණත්වය නියතව තබා) එහි පරිමාවට කුමක් සිදුවේද?",
+    "options": [
+      "(A) දෙගුණ වේ",
+      "(B) හතර ගුණ වේ",
+      "(C) අඩක් (1/2) බවට පත්වේ",
+      "(D) වෙනස් නොවේ"
+    ],
+    "correctIndex": 2,
+    "explanation": "නියත උෂ්ණත්වයේදී පීඩනය සහ පරිමාව ප්‍රතිලෝමව සමානුපාතික වේ. පීඩනය 2 ගුණයක් වන විට පරිමාව 1/2 ක් වේ.",
+    "sourcePaper": "Gas Law Math"
+  },
+  {
+    "id": 49,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "1000 kg ස්කන්ධයක් තත්පර 10 කදී මීටර් 5 ක් උසට එසවීමට අවශ්‍ය ක්ෂමතාවය (Power = mgh / t) වොට් වලින් කොපමණද? (g = 9.8 m/s² ලෙස ගන්න)",
+    "options": [
+      "(A) 490 W",
+      "(B) 980 W",
+      "(C) 4,900 W (4.9 kW)",
+      "(D) 49,000 W"
+    ],
+    "correctIndex": 2,
+    "explanation": "P = (1000 × 9.8 × 5) / 10 = 49,000 / 10 = 4,900 W = 4.9 kW වේ.",
+    "sourcePaper": "Mechanical Work & Power"
+  },
+  {
+    "id": 50,
+    "subject": "maths",
+    "subjectName": "Engineering Mathematics",
+    "question": "අවශ්‍ය සිසිලන බර 36,000 BTU/hr වේ නම්, සහ බල පරිභෝජනය 3 kW වේ නම්, එම පද්ධතියේ බලශක්ති කාර්යක්ෂමතා අනුපාතය (EER = BTU/hr / Watts) කොපමණද?",
+    "options": [
+      "(A) 6.0",
+      "(B) 10.0",
+      "(C) 12.0",
+      "(D) 15.0"
+    ],
+    "correctIndex": 2,
+    "explanation": "EER = 36,000 BTU/hr / 3,000 Watts = 12.0 BTU/(W·h) වේ. (ඉහළ EER අගයක් යනු ඉහළ කාර්යක්ෂමතාවයකි).",
+    "sourcePaper": "EER Calculation Math"
+  }
+]

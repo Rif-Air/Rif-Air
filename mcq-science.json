@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "තාපගති විද්‍යාවේ පළමු නියමය (First Law of Thermodynamics - Conservation of Energy) මඟින් ප්‍රකාශ වන්නේ කුමක්ද?",
+    "options": [
+      "(A) තාපය ඉබේම අඩු උෂ්ණත්වයක සිට වැඩි උෂ්ණත්වයකට ගලා යයි",
+      "(B) ශක්තිය මැවීමට හෝ විනාශ කිරීමට නොහැකිය; එක් ආකාරයකින් තවත් ආකාරයකට පරිවර්තනය කළ හැක",
+      "(C) නිරපේක්ෂ ශූන්‍ය උෂ්ණත්වයේදී එන්ට්‍රොපිය ශූන්‍ය වේ",
+      "(D) පීඩනය වැඩි වන විට උෂ්ණත්වය අඩු වේ"
+    ],
+    "correctIndex": 1,
+    "explanation": "තාපගතික පළමු නියමය ශක්ති සංස්ථිති නියමයයි. ශීතකරණ පද්ධතියක කම්ප්‍රෙසරයට ලබාදෙන විදුලි ශක්තිය යාන්ත්‍රික ශක්තිය බවටත්, එමඟින් ශීතකාරකය සම්පීඩනය වී තාප ශක්තිය බවටත් පරිවර්තනය වේ.",
+    "sourcePaper": "Thermodynamics Syllabus - Unit 1"
+  },
+  {
+    "id": 2,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "තාපගති විද්‍යාවේ දෙවන නියමයේ ක්ලවුසියස් ප්‍රකාශනය (Clausius Statement of Second Law) අනුව නිවැරදි ප්‍රකාශය කුමක්ද?",
+    "options": [
+      "(A) බාහිර යාන්ත්‍රික ශක්තියක් නොයොදා අඩු උෂ්ණත්වයක ඇති වස්තුවක සිට වැඩි උෂ්ණත්වයක ඇති වස්තුවකට තාපය ගලා යා නොහැක",
+      "(B) තාපය සැමවිටම අඩු උෂ්ණත්වයේ සිට වැඩි උෂ්ණත්වයට ඉබේම ගලා යයි",
+      "(C) සියලු පද්ධතිවල කාර්යක්ෂමතාව 100% ක් වේ",
+      "(D) සම්පීඩනය වන වායුවක පරිමාව වැඩි වේ"
+    ],
+    "correctIndex": 0,
+    "explanation": "තාපය ස්වභාවිකව ගලා යන්නේ වැඩි උෂ්ණත්වයේ සිට අඩු උෂ්ණත්වයට පමණි. අඩු උෂ්ණත්ව කාමරයකින් වැඩි උෂ්ණත්ව පරිසරයට තාපය ඉවත් කිරීමට බාහිර ශක්තියක් (Compressor Work) සැපයිය යුතුය.",
+    "sourcePaper": "Thermodynamics Syllabus - Unit 1"
+  },
+  {
+    "id": 3,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ද්‍රව්‍යයක උෂ්ණත්ව වෙනසක් සිදු නොවී, එහි භෞතික අවස්ථාව පමණක් (ඝන ➔ ද්‍රව හෝ ද්‍රව ➔ වාෂ්ප) වෙනස් වීමට ලබාගන්නා හෝ පිටකරන තාපය හඳුන්වන්නේ කුමක්ද?",
+    "options": [
+      "(A) සංවේදී තාපය (Sensible Heat)",
+      "(B) ගුප්ත තාපය (Latent Heat)",
+      "(C) විශේෂිත තාපය",
+      "(D) විකිරණ තාපය"
+    ],
+    "correctIndex": 1,
+    "explanation": "උෂ්ණත්වමානයක අගය වෙනස් නොවී භෞතික අවස්ථාව වෙනස් කිරීමට වැයවන තාපය ගුප්ත තාපය (Latent heat) වේ. (උෂ්ණත්වය වෙනස් වන තාපය සංවේදී තාපය - Sensible heat වේ).",
+    "sourcePaper": "Applied Physics Principles"
+  },
+  {
+    "id": 4,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ද්‍රව්‍යයක උෂ්ණත්වය ඉහළ හෝ පහළ යාමේදී (උෂ්ණත්වමානයකින් මැනිය හැකි ලෙස) හුවමාරු වන තාපය හඳුන්වන්නේ කුමක්ද?",
+    "options": [
+      "(A) ගුප්ත තාපය (Latent Heat)",
+      "(B) සංවේදී තාපය (Sensible Heat)",
+      "(C) විලයන තාපය",
+      "(D) වාෂ්පීභවන ගුප්ත තාපය"
+    ],
+    "correctIndex": 1,
+    "explanation": "උෂ්ණත්වමානයකින් සෘජුවම දැනිය හැකි සහ මැනිය හැකි තාපය සංවේදී තාපය (Sensible heat, Q = mcΔT) ලෙස හඳුන්වයි.",
+    "sourcePaper": "Applied Physics Principles"
+  },
+  {
+    "id": 5,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ශීතකරණ පද්ධතියක් 500 Microns දක්වා ගැඹුරු රික්තයක් (Deep Vacuum) කළ විට, කාමර උෂ්ණත්වයේදීම ජල වාෂ්ප ඉවත් වීමට හේතුව කුමක්ද?",
+    "options": [
+      "(A) පීඩනය අඩුවන විට ජලයේ තාපාංකය කාමර උෂ්ණත්වයට වඩා පහළ අගයකට (-15°C සිට +10°C) වැටීම",
+      "(B) ජලය රසායනිකව නයිට්‍රජන් බවට පත්වීම",
+      "(C) නල තුළ උෂ්ණත්වය 500°C දක්වා ඉහළ යාම",
+      "(D) වැකුම් පොම්පයෙන් ජලය ඝනීභවනය කර අයිස් බවට පත් කිරීම"
+    ],
+    "correctIndex": 0,
+    "explanation": "පීඩනය අඩු වන විට ද්‍රවයක තාපාංකය පහළ බසියි. 500 microns (0.0096 psia) දී ජලයේ තාපාංකය -24°C දක්වා පහත වැටී සාමාන්‍ය පරිසර උෂ්ණත්වයේදී ක්ෂණිකව වාෂ්ප වී ඉවත් වේ.",
+    "sourcePaper": "Vacuum Physics Science"
+  },
+  {
+    "id": 6,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ශීතකරණ පද්ධතියක් තුළ තෙතමනය (ජලය) සහ ක්ලෝරීන්/ෆ්ලෝරීන් සහිත ශීතකාරක තෙල් සමඟ අධික උෂ්ණත්වයේදී මිශ්‍ර වූ විට සෑදෙන හානිකර අම්ල මොනවාද?",
+    "options": [
+      "(A) හයිඩ්‍රොක්ලෝරික් (HCl) සහ හයිඩ්‍රොෆ්ලෝරික් (HF) අම්ල (Acid Burnout)",
+      "(B) සිට්‍රික් අම්ලය",
+      "(C) ඇසිටික් අම්ලය",
+      "(D) කාබොනික් අම්ලය පමණක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "තෙතමනය + ශීතකාරක + POE/Mineral Oil ප්‍රතික්‍රියා කර HCl සහ HF ප්‍රබල අම්ල සාදයි. මේවා මඟින් මෝටර් වයින්ඩින් පරිවරණය දියකර සම්පීඩකය දැවී යාම (Acid Burnout) සිදුවේ.",
+    "sourcePaper": "Refrigeration Chemistry"
+  },
+  {
+    "id": 7,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "තාපය සම්ප්‍රේෂණය වන ප්‍රධාන ක්‍රම 3 වන්නේ මින් කුමන ඒවාද?",
+    "options": [
+      "(A) චාලනය, විභවය සහ ගුරුත්වය",
+      "(B) සන්නයනය (Conduction), සංවහනය (Convection) සහ විකිරණය (Radiation)",
+      "(C) සම්පීඩනය, ප්‍රසාරණය සහ ඝනීභවනය",
+      "(D) වාෂ්පීභවනය, විලයනය සහ ඌර්ධවපාතනය"
+    ],
+    "correctIndex": 1,
+    "explanation": "තාප සම්ප්‍රේෂණ ක්‍රම තුන: ඝන ද්‍රව්‍ය හරහා සන්නයනය, තරල (ද්‍රව/වායු) හරහා සංවහනය, සහ මාධ්‍යයක් රහිතව විද්‍යුත් චුම්බක තරංග මඟින් විකිරණය වේ.",
+    "sourcePaper": "Heat Transfer Fundamentals"
+  },
+  {
+    "id": 8,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "තඹ නලයක් හරහා තාපය ගලා යන්නේ ප්‍රධාන වශයෙන් කුමන තාප සම්ප්‍රේෂණ ක්‍රමය මඟින්ද?",
+    "options": [
+      "(A) සන්නයනය (Conduction)",
+      "(B) සංවහනය (Convection)",
+      "(C) විකිරණය (Radiation)",
+      "(D) ඌර්ධවපාතනය"
+    ],
+    "correctIndex": 0,
+    "explanation": "ඝන ලෝහ තුළ අණු අතර සෘජු ස්පර්ශය සහ නිදහස් ඉලෙක්ට්‍රෝන මඟින් තාපය ගලායෑම තාප සන්නයනය (Conduction) වේ. තඹ යනු ඉතා ඉහළ සන්නායකතාවක් සහිත ලෝහයකි.",
+    "sourcePaper": "Heat Transfer Fundamentals"
+  },
+  {
+    "id": 9,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "කාමරයක් තුළ වායුසමන යන්ත්‍රයකින් නිකුත් වන සිසිල් වාතය පහළට බැසීම සහ උණුසුම් වාතය ඉහළට නැගීම සිදුවන්නේ කුමන ක්‍රියාවලිය නිසාද?",
+    "options": [
+      "(A) සන්නයනය",
+      "(B) ස්වභාවික/බලහත්කාර සංවහනය (Convection)",
+      "(C) විකිරණය",
+      "(D) චුම්බකත්වය"
+    ],
+    "correctIndex": 1,
+    "explanation": "වාතය සිසිල් වන විට ඝනත්වය වැඩි වී පහළට බසියි; උණුසුම් වාතයේ ඝනත්වය අඩු බැවින් ඉහළට නඟියි. මෙම ඝනත්ව වෙනස මත සංවහන ධාරා (Convection Currents) හටගනී.",
+    "sourcePaper": "Convection Principles"
+  },
+  {
+    "id": 10,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "සූර්යයාගේ සිට පෘථිවියට තාපය සහ ආලෝකය ළඟා වන්නේ කුමන ක්‍රමය මඟින්ද?",
+    "options": [
+      "(A) සන්නයනය",
+      "(B) සංවහනය",
+      "(C) විකිරණය (Radiation)",
+      "(D) වාෂ්පීකරණය"
+    ],
+    "correctIndex": 2,
+    "explanation": "රික්තය හරහා කිසිදු පදාර්ථමය මාධ්‍යයක ආධාරයකින් තොරව විද්‍යුත් චුම්බක තරංග ලෙස තාපය සම්ප්‍රේෂණය වීම විකිරණය (Radiation) වේ.",
+    "sourcePaper": "Radiation Principles"
+  },
+  {
+    "id": 11,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "වායුගෝලීය වාතයේ අඩංගු ජල වාෂ්ප ප්‍රමාණය, එම උෂ්ණත්වයේදී වාතයට දරාගත හැකි උපරිම ජල වාෂ්ප ප්‍රමාණයේ ප්‍රතිශතයක් ලෙස දැක්වීම හඳුන්වන්නේ කුමක්ද?",
+    "options": [
+      "(A) නිරපේක්ෂ ආර්ද්‍රතාවය (Absolute Humidity)",
+      "(B) සාපේක්ෂ ආර්ද්‍රතාවය (Relative Humidity - RH %)",
+      "(C) පිනි ලක්ෂ්‍යය (Dew Point)",
+      "(D) විශිෂ්ට පරිමාව"
+    ],
+    "correctIndex": 1,
+    "explanation": "Relative Humidity (RH) යනු වාතයේ සත්‍ය ජලවාෂ්ප පීඩනය සහ එම උෂ්ණත්වයේ සන්තෘප්ත ජලවාෂ්ප පීඩනය අතර අනුපාතයේ ප්‍රතිශතයයි. මිනිස් සුවපහසුවට 40% - 60% RH සුදුසුය.",
+    "sourcePaper": "Psychrometrics Science"
+  },
+  {
+    "id": 12,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "තෙත වාතය සිසිල් කරමින් ගෙන යන විට, එහි ඇති ජල වාෂ්ප ඝනීභවනය වී ජල බිංදු බවට පත්වීම ආරම්භ වන උෂ්ණත්වය හඳුන්වන්නේ කුමන නමකින්ද?",
+    "options": [
+      "(A) වියළි බල්බ උෂ්ණත්වය (Dry Bulb Temp)",
+      "(B) තෙත් බල්බ උෂ්ණත්වය (Wet Bulb Temp)",
+      "(C) පිනි ලක්ෂ්‍ය උෂ්ණත්වය (Dew Point Temperature)",
+      "(D) නිරපේක්ෂ උෂ්ණත්වය"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dew Point යනු වාතය ජල වාෂ්පවලින් 100% සන්තෘප්ත වී ඝනීභවනය ආරම්භ වන උෂ්ණත්වයයි. ශීතකරණ බට මතින් ජල බිංදු වැගිරෙන්නේ මතුපිට උෂ්ණත්වය Dew Point ට වඩා අඩු බැවිනි.",
+    "sourcePaper": "Psychrometrics Science"
+  },
+  {
+    "id": 13,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "පීඩනය නියතව පවතින විට වායුවක පරිමාව එහි නිරපේක්ෂ උෂ්ණත්වයට සෘජුවම සමානුපාතික වේ (V ∝ T). මෙය කුමන නියමයද?",
+    "options": [
+      "(A) බොයිල්ගේ නියමය (Boyle's Law)",
+      "(B) චාල්ස්ගේ නියමය (Charles's Law)",
+      "(C) පැස්කල්ගේ නියමය",
+      "(D) නිව්ටන්ගේ නියමය"
+    ],
+    "correctIndex": 1,
+    "explanation": "නියත පීඩනයේදී V1 / T1 = V2 / T2 වන්නේ චාල්ස්ගේ නියමයයි (Charles's Law).",
+    "sourcePaper": "Gas Laws Physics"
+  },
+  {
+    "id": 14,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "උෂ්ණත්වය නියතව පවතින විට වායුවක පීඩනය එහි පරිමාවට ප්‍රතිලෝමව සමානුපාතික වේ (P ∝ 1/V). මෙය කුමන නියමයද?",
+    "options": [
+      "(A) බොයිල්ගේ නියමය (Boyle's Law)",
+      "(B) චාල්ස්ගේ නියමය (Charles's Law)",
+      "(C) ගේ-ලුසැක්ගේ නියමය",
+      "(D) ආකිමිඩීස්ගේ නියමය"
+    ],
+    "correctIndex": 0,
+    "explanation": "P1 V1 = P2 V2 යනු බොයිල්ගේ නියමය (Boyle's Law) වේ. සම්පීඩකයක් තුළ පරිමාව අඩුවන විට පීඩනය ඉහළ යන්නේ මේ අනුවය.",
+    "sourcePaper": "Gas Laws Physics"
+  },
+  {
+    "id": 15,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "පරිමාව නියතව පවතින විට වායුවක පීඩනය එහි නිරපේක්ෂ උෂ්ණත්වයට සෘජුවම සමානුපාතික වේ (P ∝ T). මෙය කුමන නියමයද?",
+    "options": [
+      "(A) බොයිල්ගේ නියමය",
+      "(B) ගේ-ලුසැක්ගේ පීඩන නියමය (Gay-Lussac's Law)",
+      "(C) හූක්ගේ නියමය",
+      "(D) ලෙන්ස්ගේ නියමය"
+    ],
+    "correctIndex": 1,
+    "explanation": "නියත පරිමාවේදී P1 / T1 = P2 / T2 යනු ගේ-ලුසැක්ගේ නියමයයි. ශීතකාරක සිලින්ඩරයක් රත්වන විට පීඩනය අධික ලෙස වැඩිවන්නේ මේ නිසාය.",
+    "sourcePaper": "Gas Laws Physics"
+  },
+  {
+    "id": 16,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "සංවෘත බඳුනක ඇති නිශ්චල තරලයක් මත යොදන බාහිර පීඩනය, එම තරලයේ සෑම දිශාවකටම හා බඳුනේ බිත්ති මතට අඩු නොවී සමානව සම්ප්‍රේෂණය වේ. මෙය කුමන නියමයද?",
+    "options": [
+      "(A) පැස්කල්ගේ නියමය (Pascal's Principle)",
+      "(B) ආකිමිඩීස් නියමය",
+      "(C) බර්නූලිගේ මූලධර්මය",
+      "(D) ඩෝල්ටන්ගේ නියමය"
+    ],
+    "correctIndex": 0,
+    "explanation": "හයිඩ්‍රොලික් ජැක්, හයිඩ්‍රොලික් තිරිංග සහ පීඩන මිනුම් ක්‍රියාත්මක වන්නේ පැස්කල්ගේ නියමය අනුවය.",
+    "sourcePaper": "Fluid Statics"
+  },
+  {
+    "id": 17,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "මිශ්‍ර වායුවක මුළු පීඩනය යනු එම මිශ්‍රණයේ ඇති එක් එක් සංඝටක වායුවල ආංශික පීඩනයන්ගේ එකතුවට සමාන වේ (P_total = P1 + P2 + ...). මෙම නියමය කුමක්ද?",
+    "options": [
+      "(A) ඩෝල්ටන්ගේ ආංශික පීඩන නියමය (Dalton's Law of Partial Pressures)",
+      "(B) බොයිල්ගේ නියමය",
+      "(C) හෙන්රිගේ නියමය",
+      "(D) ග්‍රැහැම්ගේ විසරණ නියමය"
+    ],
+    "correctIndex": 0,
+    "explanation": "වාතය සහ ශීතකාරක එකට පවතින විට පද්ධතියේ මුළු පීඩනය ඉහළ යන්නේ ඩෝල්ටන්ගේ ආංශික පීඩන නියමය හේතුවෙනි (Non-condensables cause high head pressure).",
+    "sourcePaper": "Partial Pressure Science"
+  },
+  {
+    "id": 18,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ශීතකරණ පද්ධතියක ද්‍රවීකාරකය (Condenser) තුළදී ශීතකාරක වාෂ්පය ද්‍රවයක් බවට පත්වීමේදී මුදාහරින තාපය කුමක්ද?",
+    "options": [
+      "(A) ඝනීභවන ගුප්ත තාපය (Latent Heat of Condensation)",
+      "(B) විලයන ගුප්ත තාපය",
+      "(C) ඌර්ධවපාතන තාපය",
+      "(D) සංවේදී තාපය පමණක්"
+    ],
+    "correctIndex": 0,
+    "explanation": "වාෂ්ප අවස්ථාවේ සිට ද්‍රව අවස්ථාවට පත්වීමේදී නියත උෂ්ණත්වයකදී පරිසරයට මුදාහරින විශාල තාප ප්‍රමාණය ඝනීභවන ගුප්ත තාපය වේ.",
+    "sourcePaper": "Thermodynamics Cycle Science"
+  },
+  {
+    "id": 19,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "වාෂ්පීකාරකය (Evaporator) තුළදී ද්‍රව ශීතකාරකය වාෂ්පයක් බවට පත්වීමේදී අවට කාමරයෙන් හෝ ආහාර ද්‍රව්‍යවලින් උරාගන්නා තාපය කුමක්ද?",
+    "options": [
+      "(A) වාෂ්පීභවන ගුප්ත තාපය (Latent Heat of Vaporization)",
+      "(B) විලයන ගුප්ත තාපය",
+      "(C) සන්නයන තාපය",
+      "(D) පරම ශූන්‍ය තාපය"
+    ],
+    "correctIndex": 0,
+    "explanation": "අඩු පීඩනය යටතේ ද්‍රව ශීතකාරකය උතුරා වාෂ්ප වන විට පරිසරයෙන් වාෂ්පීභවන ගුප්ත තාපය උරාගෙන කාමරය සිසිල් කරයි.",
+    "sourcePaper": "Thermodynamics Cycle Science"
+  },
+  {
+    "id": 20,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "0°C හි පවතින අයිස් කැටයක් 0°C හි ජලය බවට පත්වීමට උරාගන්නා තාපය කුමක්ද?",
+    "options": [
+      "(A) විලයන ගුප්ත තාපය (Latent Heat of Fusion - 334 kJ/kg)",
+      "(B) වාෂ්පීභවන ගුප්ත තාපය",
+      "(C) සංවේදී තාපය",
+      "(D) විකිරණ තාපය"
+    ],
+    "correctIndex": 0,
+    "explanation": "ඝන අවස්ථාවේ සිට ද්‍රව අවස්ථාවට පත්වීමට උරාගන්නා නියත උෂ්ණත්ව තාපය විලයන ගුප්ත තාපය (Latent heat of fusion = 334 kJ/kg) වේ.",
+    "sourcePaper": "Phase Change Physics"
+  },
+  {
+    "id": 21,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ඝන ද්‍රව්‍යයක් ද්‍රව බවට පත් නොවී සෘජුවම වායුවක් බවට පත්වීමේ ක්‍රියාවලිය (උදා: Dry Ice කාබන්ඩයොක්සයිඩ් වායුව වීම) හඳුන්වන්නේ කුමක්ද?",
+    "options": [
+      "(A) ඌර්ධවපාතනය (Sublimation)",
+      "(B) ඝනීභවනය (Condensation)",
+      "(C) විලයනය (Melting)",
+      "(D) වාෂ්පීභවනය"
+    ],
+    "correctIndex": 0,
+    "explanation": "ඝන අවස්ථාවේ සිට සෘජුවම වාෂ්ප බවට පත්වීම ඌර්ධවපාතනය (Sublimation) වේ.",
+    "sourcePaper": "Phase Change Physics"
+  },
+  {
+    "id": 22,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ජලයේ අසාමාන්‍ය ප්‍රසාරණය (Anomalous Expansion of Water) අනුව ජලයේ ඝනත්වය උපරිම වන්නේ කුමන උෂ්ණත්වයේදීද?",
+    "options": [
+      "(A) -4 °C",
+      "(B) 0 °C",
+      "(C) 4 °C",
+      "(D) 100 °C"
+    ],
+    "correctIndex": 2,
+    "explanation": "ජලයේ උපරිම ඝනත්වය (1.000 g/cm³) වාර්තා වන්නේ 4°C දීය. 4°C සිට 0°C දක්වා සිසිල් වීමේදී ජලය අසාමාන්‍ය ලෙස ප්‍රසාරණය වේ (අයිස් වීමේදී පරිමාව 9% කින් වැඩි වේ).",
+    "sourcePaper": "Applied Physics"
+  },
+  {
+    "id": 23,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "නිරපේක්ෂ ශූන්‍ය උෂ්ණත්වය (Absolute Zero) ලෙස හඳුන්වන්නේ සෙල්සියස් අංශක කීයක්ද?",
+    "options": [
+      "(A) 0 °C",
+      "(B) -100 °C",
+      "(C) -273.15 °C",
+      "(D) -459.67 °C"
+    ],
+    "correctIndex": 2,
+    "explanation": "පදාර්ථයේ සියලු අණුක චලිතයන් සම්පූර්ණයෙන්ම නතර වන සෛද්ධාන්තික අවම උෂ්ණත්වය 0 Kelvin හෙවත් -273.15 °C වේ.",
+    "sourcePaper": "Thermodynamics Fundamentals"
+  },
+  {
+    "id": 24,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "විද්‍යුත් චුම්බක ප්‍රේරණය පිළිබඳ ෆැරඩේගේ නියමය (Faraday's Law of Electromagnetic Induction) අනුව සන්නායකයක ප්‍රේරිත වි.ගා.බ. (Induced EMF) රඳා පවතින්නේ කුමක් මතද?",
+    "options": [
+      "(A) සන්නායකයේ වර්ණය මත",
+      "(B) සන්නායකය හා සම්බන්ධ වන චුම්බක ස්‍රාව වෙනස්වීමේ සීඝ්‍රතාව මත (Rate of change of magnetic flux)",
+      "(C) වායුගෝලීය පීඩනය මත",
+      "(D) සන්නායකයේ බර මත"
+    ],
+    "correctIndex": 1,
+    "explanation": "E = -N (dΦ/dt). චුම්බක ස්‍රාවය වෙනස් වන සීඝ්‍රතාවයට ප්‍රේරිත විද්‍යුත් ගාමක බලය සෘජුවම සමානුපාතික වේ. ජනක යන්ත්‍ර සහ ට්‍රාන්ස්ෆෝමර් ක්‍රියාත්මක වන්නේ මේ අනුවය.",
+    "sourcePaper": "Electromagnetism Physics"
+  },
+  {
+    "id": 25,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ප්‍රේරිත ධාරාවක දිශාව සෑමවිටම එය ඇතිවීමට හේතු වූ චුම්බක ස්‍රාව වෙනස්වීමට විරුද්ධ වන දිශාවට හටගනී. මෙම නියමය කුමක්ද?",
+    "options": [
+      "(A) ලෙන්ස්ගේ නියමය (Lenz's Law)",
+      "(B) ඕම්ගේ නියමය",
+      "(C) ඇම්පියර්ගේ නියමය",
+      "(D) කූලෝම්ගේ නියමය"
+    ],
+    "correctIndex": 0,
+    "explanation": "ලෙන්ස්ගේ නියමය (Lenz's Law) මඟින් ප්‍රේරිත වි.ගා.බ. හි දිශාව තීරණය කරයි (Back EMF in AC motors).",
+    "sourcePaper": "Electromagnetism Physics"
+  },
+  {
+    "id": 26,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "විදුලි ධාරාවක් රැගත් සන්නායකයක් චුම්බක ක්ෂේත්‍රයක් තුළ තැබූ විට ඒ මත ක්‍රියාකරන බලයේ (චලිතයේ) දිශාව සෙවීමට භාවිත කරන නියමය කුමක්ද?",
+    "options": [
+      "(A) ෆ්ලෙමින්ගේ වමත් නියමය (Fleming's Left Hand Rule for Motors)",
+      "(B) ෆ්ලෙමින්ගේ දකුණත් නියමය (Generators)",
+      "(C) දකුණත් දඟර නියමය",
+      "(D) පැස්කල්ගේ නියමය"
+    ],
+    "correctIndex": 0,
+    "explanation": "විදුලි මෝටරවල භ්‍රමණ බලයේ දිශාව සෙවීමට ෆ්ලෙමින්ගේ වමත් නියමය (Left hand: Thumb = Motion, Forefinger = Field, Center finger = Current) යොදාගනී.",
+    "sourcePaper": "Motor Principles"
+  },
+  {
+    "id": 27,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ධාරිත්‍රකයක් (Capacitor) මඟින් සරල ධාරාවට (DC) සහ ප්‍රත්‍යාවර්ත ධාරාවට (AC) දක්වන ප්‍රතිචාරය නිවැරදිව දක්වා ඇත්තේ කුමන පිළිතුරේද?",
+    "options": [
+      "(A) DC සම්පූර්ණයෙන්ම අවහිර කරයි (Blocks DC), නමුත් AC ගලා යාමට ඉඩ දෙයි (Passes AC)",
+      "(B) AC අවහිර කර DC ගලා යාමට ඉඩ දෙයි",
+      "(C) දෙකම සම්පූර්ණයෙන්ම අවහිර කරයි",
+      "(D) දෙකටම එකම ප්‍රතිරෝධයක් දක්වයි"
+    ],
+    "correctIndex": 0,
+    "explanation": "ධාරිත්‍රක ප්‍රතිබාධය Xc = 1 / (2πfC) වේ. DC හි සංඛ්‍යාතය f = 0 බැවින් Xc = ∞ (DC අවහිර වේ). AC හි සංඛ්‍යාතයක් ඇති බැවින් AC ගලා යා හැක.",
+    "sourcePaper": "AC Circuit Theory"
+  },
+  {
+    "id": 28,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ප්‍රේරකයක් (Inductor / Choke) මඟින් AC ධාරාවට දක්වන ප්‍රතිබාධය (Inductive Reactance - XL) සංඛ්‍යාතය (f) සමඟ වෙනස් වන්නේ කෙසේද?",
+    "options": [
+      "(A) සංඛ්‍යාතය වැඩි වන විට XL වැඩි වේ (XL = 2πfL)",
+      "(B) සංඛ්‍යාතය වැඩි වන විට XL අඩු වේ",
+      "(C) සංඛ්‍යාතය සමඟ කිසිදු වෙනසක් සිදු නොවේ",
+      "(D) ශුන්‍ය වේ"
+    ],
+    "correctIndex": 0,
+    "explanation": "XL = 2πfL සූත්‍රය අනුව ප්‍රේරක ප්‍රතිබාධය සංඛ්‍යාතයට සෘජුවම සමානුපාතික වේ.",
+    "sourcePaper": "AC Circuit Theory"
+  },
+  {
+    "id": 29,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ප්‍රත්‍යාවර්ත ධාරා (AC) පරිපථයක සැබෑ ක්ෂමතාවය (Real Power - Watts) සහ මවාගත් ක්ෂමතාවය (Apparent Power - VA) අතර පවතින අනුපාතය හඳුන්වන්නේ කුමක්ද?",
+    "options": [
+      "(A) ක්ෂමතා සාධකය (Power Factor - cos φ)",
+      "(B) පෝරම සාධකය",
+      "(C) ක්‍රියාකාරී සාධකය",
+      "(D) විස්තාරය"
+    ],
+    "correctIndex": 0,
+    "explanation": "Power Factor = kW / kVA = cos φ. සම්පූර්ණ ප්‍රේරක පරිපථයක PF පසුගාමී (Lagging) වන අතර ධාරිත්‍රක මඟින් එය 0.95 - 1.0 දක්වා වැඩි දියුණු කළ හැක.",
+    "sourcePaper": "AC Power Factor Science"
+  },
+  {
+    "id": 30,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ශීතකරණ පද්ධතියක ද්‍රවීකාරකයේදී පිටවන මුළු තාපය (Total Heat of Rejection - THR) සමාන වන්නේ කුමන තාප ප්‍රමාණයන්ගේ එකතුවටද?",
+    "options": [
+      "(A) වාෂ්පීකාරකයෙන් උරාගත් තාපය (Refrigeration Effect) + සම්පීඩකයේ යාන්ත්‍රික කාර්යය මඟින් ජනනය වූ තාපය (Heat of Compression)",
+      "(B) වාෂ්පීකාරකයේ තාපය පමණි",
+      "(C) කම්ප්‍රෙසරයේ තාපය පමණි",
+      "(D) මෝටර් වයින්ඩින් ප්‍රතිරෝධය පමණි"
+    ],
+    "correctIndex": 0,
+    "explanation": "THR = Q_evaporator + W_compressor. කන්ඩෙන්සරය මඟින් කාමරයෙන් උරාගත් තාපය මෙන්ම කම්ප්‍රෙසරය තුළ සම්පීඩනය නිසා ඇතිවූ තාපය යන දෙකම පරිසරයට මුදාහැරිය යුතුය.",
+    "sourcePaper": "Thermodynamics Cycle Analysis"
+  },
+  {
+    "id": 31,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ශීතකරණ පද්ධතියක කාර්ය සාධන සංගුණකය (Coefficient of Performance - COP) ගණනය කරනු ලබන නිවැරදි සූත්‍රය කුමක්ද?",
+    "options": [
+      "(A) COP = ප්‍රයෝජනවත් සිසිලන බලපෑම / සම්පීඩනය සඳහා වැයවූ කාර්යය (Cooling Effect / Compressor Work)",
+      "(B) COP = සම්පීඩක කාර්යය / සිසිලන බලපෑම",
+      "(C) COP = වෝල්ටීයතාවය / ධාරාව",
+      "(D) COP = තාපය × කාලය"
+    ],
+    "correctIndex": 0,
+    "explanation": "COP = Q_in / W_in. COP අගය සැමවිටම 1 ට වඩා වැඩි අගයක් ගන්නා අතර (සාමාන්‍යයෙන් 2.5 සිට 4.5 දක්වා), අගය වැඩිවන තරමට පද්ධතියේ කාර්යක්ෂමතාව ඉහළය.",
+    "sourcePaper": "Thermodynamics Formulas"
+  },
+  {
+    "id": 32,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ශීතකාරක වාෂ්පයක් සම්පීඩනය කිරීමේදී එහි පීඩනය සහ උෂ්ණත්වය හැසිරෙන්නේ කුමන ආකාරයටද?",
+    "options": [
+      "(A) පීඩනය සහ උෂ්ණත්වය යන දෙකම ඉහළ යයි (High Pressure, Superheated Vapor)",
+      "(B) පීඩනය වැඩි වී උෂ්ණත්වය අඩු වේ",
+      "(C) පීඩනය අඩු වී උෂ්ණත්වය වැඩි වේ",
+      "(D) දෙකම අඩු වේ"
+    ],
+    "correctIndex": 0,
+    "explanation": "වායුවක් සම්පීඩනය කිරීමේදී වායු අණු එකිනෙක ගැටීමේ සීඝ්‍රතාව වැඩිවීම නිසා පීඩනය සහ උෂ්ණත්වය යන දෙකම ක්ෂණිකව ඉහළ යයි.",
+    "sourcePaper": "Compression Physics"
+  },
+  {
+    "id": 33,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ප්‍රසාරණ කපාටය (Expansion Device) හරහා අධිපීඩන ද්‍රව ශීතකාරකය ගලා යාමේදී සිදුවන තාපගතික ක්‍රියාවලිය (Throttling Process) කුමක්ද?",
+    "options": [
+      "(A) නියත එන්තැල්පි ක්‍රියාවලියකි (Isenthalpic Process - h1 = h2)",
+      "(B) නියත එන්ට්‍රොපි ක්‍රියාවලියකි",
+      "(C) නියත පරිමා ක්‍රියාවලියකි",
+      "(D) නියත පීඩන ක්‍රියාවලියකි"
+    ],
+    "correctIndex": 0,
+    "explanation": "ප්‍රසාරණ උපාංගයකින් පීඩනය පහත වැටීමේදී බාහිරින් තාප හුවමාරුවක් හෝ කාර්යයක් සිදු නොවන බැවින් එන්තැල්පිය නියතව පවතී (h_in = h_out).",
+    "sourcePaper": "Thermodynamics Cycles"
+  },
+  {
+    "id": 34,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "පීඩනය අඩු වීමත් සමඟ ද්‍රව ශීතකාරකයෙන් කොටසක් ක්ෂණිකව වාෂ්ප බවට පත්වෙමින් ඉතිරි ද්‍රවය අධික ලෙස සිසිල් කිරීමේ සංසිද්ධිය හඳුන්වන්නේ කුමක්ද?",
+    "options": [
+      "(A) ක්ෂණික වාෂ්පය (Flash Gas Generation)",
+      "(B) සුපර්හීට්",
+      "(C) සබ්කූලින්",
+      "(D) ඝනීභවනය"
+    ],
+    "correctIndex": 0,
+    "explanation": "ප්‍රසාරණ කපාටයෙන් පිටවීමේදී පීඩනය ක්ෂණිකව අඩුවීම නිසා ද්‍රවයෙන් 15-20% ක් ක්ෂණිකව වාෂ්ප (Flash gas) බවට පත්වෙමින් ඉතිරි ද්‍රවය අඩු උෂ්ණත්වයට පත් කරයි.",
+    "sourcePaper": "Refrigeration Principles"
+  },
+  {
+    "id": 35,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ශීතකරණ සම්පීඩකයක සම්පීඩන අනුපාතය (Compression Ratio - CR) ගණනය කරනු ලබන්නේ කුමන පීඩන අගයන් ඇසුරෙන්ද?",
+    "options": [
+      "(A) නිරපේක්ෂ විසර්ජන පීඩනය / නිරපේක්ෂ චූෂණ පීඩනය (Absolute Discharge Pressure / Absolute Suction Pressure)",
+      "(B) මාන විසර්ජන පීඩනය / මාන චූෂණ පීඩනය",
+      "(C) චූෂණ පීඩනය / විසර්ජන පීඩනය",
+      "(D) වෝල්ටීයතාවය / ධාරාව"
+    ],
+    "correctIndex": 0,
+    "explanation": "CR = P_discharge (psia) / P_suction (psia). මෙය සැමවිටම නිරපේක්ෂ පීඩනයෙන් (psia) ගණනය කළ යුතුය.",
+    "sourcePaper": "Compressor Engineering"
+  },
+  {
+    "id": 36,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ඕසෝන් ස්ථරය (Ozone Layer - O3) පෘථිවි වායුගෝලයේ කුමන ස්ථරයේ පිහිටා තිබේද?",
+    "options": [
+      "(A) ට්‍රොපොස්ෆියරය (Troposphere)",
+      "(B) ස්ට්‍රැටෝස්ෆියරය (Stratosphere)",
+      "(C) මෙසොස්ෆියරය",
+      "(D) තර්මොස්ෆියරය"
+    ],
+    "correctIndex": 1,
+    "explanation": "ඕසෝන් ස්ථරය පොළොව මට්ටමේ සිට කි.මී. 15 - 35 අතර ස්ට්‍රැටෝස්ෆියරයේ (Stratosphere) පිහිටා ඇති අතර එය සූර්යයාගෙන් එන අහිතකර UV-B කිරණ උරාගනී.",
+    "sourcePaper": "Environmental Science"
+  },
+  {
+    "id": 37,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "පැරණි CFC (R11, R12) ශීතකාරක මඟින් ඕසෝන් ස්ථරය විනාශ කිරීමට සෘජුවම දායක වන මූලද්‍රව්‍යය කුමක්ද?",
+    "options": [
+      "(A) ෆ්ලෝරීන් (Fluorine)",
+      "(B) ක්ලෝරීන් (Chlorine - Cl)",
+      "(C) හයිඩ්‍රජන් (Hydrogen)",
+      "(D) කාබන් (Carbon)"
+    ],
+    "correctIndex": 1,
+    "explanation": "UV කිරණ වැදුණු විට CFC වලින් නිදහස් වන එක් ක්ලෝරීන් පරමාණුවකට (Cl) ඕසෝන් අණු (O3) ලක්ෂයකට වඩා විනාශ කිරීමේ හැකියාව පවතී.",
+    "sourcePaper": "Environmental Science"
+  },
+  {
+    "id": 38,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ශීතකාරකයක GWP අගය (Global Warming Potential) සැසඳීම සඳහා සම්මත සමුද්දේශ වායුව (Reference Gas with GWP = 1) ලෙස යොදාගන්නේ කුමන වායුවද?",
+    "options": [
+      "(A) ඔක්සිජන් (O2)",
+      "(B) කාබන්ඩයොක්සයිඩ් (CO2)",
+      "(C) මීතේන් (CH4)",
+      "(D) නයිට්‍රජන් (N2)"
+    ],
+    "correctIndex": 1,
+    "explanation": "වසර 100 ක කාලපරාසයක් තුළ CO2 හි GWP අගය 1.0 ලෙස සම්මත කරගෙන අනෙක් සියලු හරිතාගාර වායුවල GWP අගයන් ගණනය කරනු ලැබේ.",
+    "sourcePaper": "Environmental Science"
+  },
+  {
+    "id": 39,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ශීතකරණ පද්ධතියක ද්‍රවීකාරකය (Condenser) තුළදී වායුගෝලයට මුදාහැරීමට නොහැකි වන වාතය සහ නයිට්‍රජන් වැනි වායු හඳුන්වන්නේ කුමන නමකින්ද?",
+    "options": [
+      "(A) ඝනීභවනය නොවන වායු (Non-Condensable Gases - NCG)",
+      "(B) උච්ච වායු",
+      "(C) ස්වාභාවික වායු",
+      "(D) සංතෘප්ත වාෂ්ප"
+    ],
+    "correctIndex": 0,
+    "explanation": "ශීතකරණ පීඩන සහ උෂ්ණත්ව යටතේ වාතය සහ නයිට්‍රජන් ද්‍රව බවට පත් නොවේ. ඒවා NCG ලෙස කන්ඩෙන්සරය මුදුනේ රැඳෙමින් හිස් පීඩනය (Head Pressure) අනවශ්‍ය ලෙස ඉහළ නංවයි.",
+    "sourcePaper": "Refrigeration Operation Science"
+  },
+  {
+    "id": 40,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ද්‍රවයක පෘෂ්ඨික ආතතිය (Surface Tension) යනු කුමක්ද?",
+    "options": [
+      "(A) ද්‍රව මතුපිට ප්‍රත්‍යාස්ථ පටලයක් මෙන් හැකිලී පැවතීමට ඇතිවන අන්තර් අණුක ආකර්ෂණ බලය",
+      "(B) ද්‍රවයේ බර",
+      "(C) ද්‍රවයේ උෂ්ණත්වය",
+      "(D) ද්‍රවයේ වර්ණය"
+    ],
+    "correctIndex": 0,
+    "explanation": "ද්‍රව අභ්‍යන්තර අණු අතර පවතින සංසක්ත බල (Cohesive forces) නිසා ද්‍රව මතුපිට ප්‍රත්‍යාස්ථ තුනී පටලයක් සේ හැසිරීම පෘෂ්ඨික ආතතිය වේ. කේශික නල ක්‍රියාවලියට මෙය බලපායි.",
+    "sourcePaper": "Fluid Physics"
+  },
+  {
+    "id": 41,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "කේශික නලයක් තුළ ද්‍රවයක් ඉහළ නැගීම හෝ පහළ බැසීම (Capillary Action) තීරණය වන්නේ කුමන බල දෙකෙහි අනුපාතය මතද?",
+    "options": [
+      "(A) සංසක්ත බල (Cohesive forces) සහ ආසක්ත බල (Adhesive forces)",
+      "(B) ගුරුත්ව බලය සහ චුම්බක බලය",
+      "(C) විදුලි බලය සහ න්‍යෂ්ටික බලය",
+      "(D) පීඩනය සහ ඝනත්වය පමණි"
+    ],
+    "correctIndex": 0,
+    "explanation": "ද්‍රව අණු අතර ආකර්ෂණය (Cohesion) සහ නලයේ බිත්තිය හා ද්‍රව අණු අතර ආකර්ෂණය (Adhesion) අතර සමතුලිතතාවය මත කේශික උද්ගමනය සිදුවේ.",
+    "sourcePaper": "Capillary Physics"
+  },
+  {
+    "id": 42,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ද්‍රවයක ගලායාමට ඇති අභ්‍යන්තර ප්‍රතිරෝධය (Resistance to flow) හඳුන්වන්නේ කුමක්ද?",
+    "options": [
+      "(A) දුස්ස්‍රාවිතාවය (Viscosity)",
+      "(B) ඝනත්වය (Density)",
+      "(C) පීඩනය",
+      "(D) පරිමාව"
+    ],
+    "correctIndex": 0,
+    "explanation": "දුස්ස්‍රාවිතාව (Viscosity) යනු තරල ස්ථර අතර ඝර්ෂණය හෙවත් ගලායාමට ඇති ප්‍රතිරෝධයයි. ශීතකරණ සම්පීඩක තෙල් නිවැරදි Viscosity අගයකින් (ISO VG 32/68) පැවතිය යුතුය.",
+    "sourcePaper": "Lubrication Science"
+  },
+  {
+    "id": 43,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "උෂ්ණත්වය ඉහළ යන විට සම්පීඩක ලිහිසි තෙල්වල දුස්ස්‍රාවිතාවයට (Viscosity) කුමක් සිදුවේද?",
+    "options": [
+      "(A) දුස්ස්‍රාවිතාවය අඩුවේ (තෙල් තුනී වේ)",
+      "(B) දුස්ස්‍රාවිතාවය වැඩිවේ (තෙල් ඝන වේ)",
+      "(C) කිසිදු වෙනසක් සිදු නොවේ",
+      "(D) ක්ෂණිකව ශූන්‍ය වේ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ද්‍රවවල උෂ්ණත්වය වැඩි වන විට අණු අතර ආකර්ෂණය ලිහිල් වී දුස්ස්‍රාවිතාවය අඩු වේ (තෙල් තුනී වී ලිහිසිකරණ හැකියාව දුර්වල වේ).",
+    "sourcePaper": "Lubrication Science"
+  },
+  {
+    "id": 44,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "වායුසමන යන්ත්‍රයක Cooling Coil එක හරහා වාතය ගලා යාමේදී සිදුවන මනෝමිතික ක්‍රියාවලිය (Psychrometric Process) නිවැරදිව කුමක්ද?",
+    "options": [
+      "(A) සිසිලනය සහ විජලනය (Cooling and Dehumidification)",
+      "(B) සිසිලනය සහ ආර්ද්‍රකරණය (Cooling and Humidification)",
+      "(C) උණුසුම් කිරීම සහ විජලනය",
+      "(D) නියත උෂ්ණත්ව විජලනය"
+    ],
+    "correctIndex": 0,
+    "explanation": "වායුසමීකරණයේදී වාතයේ උෂ්ණත්වය අඩුවන අතරම (Sensible cooling), Coil උෂ්ණත්වය Dew point ට අඩු බැවින් වාතයේ තෙතමනය ඝනීභවනය වී කාමරය විජලනය (Dehumidification) වේ.",
+    "sourcePaper": "Psychrometric Processes"
+  },
+  {
+    "id": 45,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ශබ්දයේ ඝෝෂාකාරී මට්ටම (Sound Intensity Level) මනිනු ලබන ලඝුගණක ඒකකය කුමක්ද?",
+    "options": [
+      "(A) ඩෙසිබල් (Decibels - dB)",
+      "(B) හර්ට්ස් (Hz)",
+      "(C) ලක්ස් (Lux)",
+      "(D) පැස්කල් (Pa)"
+    ],
+    "correctIndex": 0,
+    "explanation": "ශබ්ද තීව්‍රතා මට්ටම මනිනු ලබන්නේ ඩෙසිබල් (Decibels - dB / dBA) ඒකකයෙනි. නිහඬ Split AC Indoor ඒකකයක ශබ්දය 22-35 dB අතර වේ.",
+    "sourcePaper": "2024 Paper - Q20"
+  },
+  {
+    "id": 46,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "විදුලි සැපයුමක ධාරාව (I) සහ වෝල්ටීයතාවය (V) අතර කාලමය වෙනසක් (Phase difference) ඇතිවන්නේ කුමන ආකාරයේ භාර (Loads) පවතින විටද?",
+    "options": [
+      "(A) ප්‍රේරක (Inductive - Motors) හෝ ධාරිත්‍රක (Capacitive) භාර පවතින විට",
+      "(B) තනිකරම ප්‍රතිරෝධී (Purely Resistive) හීටර් පවතින විට",
+      "(C) විදුලිය විසන්ධි කර ඇති විට",
+      "(D) කිසිවිටෙකත් සිදු නොවේ"
+    ],
+    "correctIndex": 0,
+    "explanation": "මෝටර් (Inductive load) වලදී ධාරාව වෝල්ටීයතාවයට වඩා පසුගාමී (Lagging) වේ; ධාරිත්‍රකවලදී ධාරාව පෙරටුගාමී (Leading) වේ. ප්‍රතිරෝධී භාරවලදී දෙකම එකම කලා (In phase) වේ.",
+    "sourcePaper": "AC Circuit Theory"
+  },
+  {
+    "id": 47,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ලෝහ විඛාදනය (Corrosion / Rusting) සිදුවීම සඳහා අත්‍යවශ්‍ය වන ප්‍රධාන සාධක දෙක මොනවාද?",
+    "options": [
+      "(A) තෙතමනය (ජලය) සහ ඔක්සිජන් (Oxygen and Moisture)",
+      "(B) නයිට්‍රජන් සහ කාබන්",
+      "(C) හීලියම් සහ ආගන්",
+      "(D) සූර්යාලෝකය පමණි"
+    ],
+    "correctIndex": 0,
+    "explanation": "යකඩ මලකෑම විද්‍යුත් රසායනික ක්‍රියාවලියක් වන අතර ඒ සඳහා ජලය සහ ඔක්සිජන් අනිවාර්යයෙන් තිබිය යුතුය. තෙතමනය ඉවත් කිරීම මඟින් විඛාදනය වළකී.",
+    "sourcePaper": "Materials Science"
+  },
+  {
+    "id": 48,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "නයිට්‍රජන් වායුව (N2) ශීතකරණ නල කාන්දු පරීක්ෂාවට (Pressure Testing) ඉතා යෝග්‍ය වීමට ප්‍රධාන විද්‍යාත්මක හේතුව කුමක්ද?",
+    "options": [
+      "(A) එය නිෂ්ක්‍රිය, වියළි, නොදවනය වන සහ පුපුරා නොයන ආරක්ෂිත වායුවක් බැවින් (Inert, Dry, Non-flammable)",
+      "(B) එය වහා ගිනිගන්නා බැවින්",
+      "(C) එය දියරයක් බැවින්",
+      "(D) එහි බර ශුන්‍ය බැවින්"
+    ],
+    "correctIndex": 0,
+    "explanation": "නයිට්‍රජන් යනු වායුගෝලයේ 78% ක් ඇති රසායනිකව නිෂ්ක්‍රිය, තෙතමනය රහිත වායුවකි. එය තෙල් හෝ අධික පීඩනය යටතේ කිසිදු පුපුරායාමක් ඇති නොකරයි.",
+    "sourcePaper": "Pressure Testing Science"
+  },
+  {
+    "id": 49,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "පීඩනය වැඩි වන විට වායුවක තාපාංකය ඉහළ යන අතර, පීඩනය අඩු වන විට තාපාංකය පහළ බසී. මෙම මූලධර්මය ශීතකරණ චක්‍රයේ ක්‍රියාත්මක වන ප්‍රධාන උපාංග යුගලය කුමක්ද?",
+    "options": [
+      "(A) සම්පීඩකය (පීඩනය නංවා තාපාංකය ඉහළ දැමීම) සහ ප්‍රසාරණ කපාටය (පීඩනය පහත හෙළා තාපාංකය පහත දැමීම)",
+      "(B) ෆෑන් මෝටරය සහ ලාම්පුව",
+      "(C) ස්විචය සහ වයර්",
+      "(D) අර්ත් වයරය සහ ප්ලග් එක"
+    ],
+    "correctIndex": 0,
+    "explanation": "ශීතකරණ මූලධර්මය පදනම් වන්නේ පීඩනය පාලනය මතය: සම්පීඩකය මඟින් පීඩනය නංවා පරිසර උෂ්ණත්වයට වඩා ඉහළ උෂ්ණත්වයකදී ඝනීභවනය වීමට සලස්වන අතර, ප්‍රසාරණ කපාටයෙන් පීඩනය පහත හෙළා කාමරයට වඩා අඩු උෂ්ණත්වයකදී වාෂ්ප වීමට සලස්වයි.",
+    "sourcePaper": "Thermodynamics Science Summary"
+  },
+  {
+    "id": 50,
+    "subject": "science",
+    "subjectName": "Engineering Science",
+    "question": "ශීතකාරක පරිපථයක අධි පීඩන පැත්ත සහ අඩු පීඩන පැත්ත වෙන් කරනු ලබන ප්‍රධාන සීමා මායිම් උපාංග දෙක මොනවාද?",
+    "options": [
+      "(A) සම්පීඩකය (Compressor) සහ ප්‍රසාරණ උපාංගය (Expansion Device)",
+      "(B) ද්‍රවීකාරකය සහ වාෂ්පීකාරකය",
+      "(C) ෆිල්ටරය සහ සයිට් ග්ලාස් එක",
+      "(D) පංකා මෝටර් දෙක"
+    ],
+    "correctIndex": 0,
+    "explanation": "සම්පීඩකය මඟින් අඩු පීඩන පැත්තෙන් ඇද අධි පීඩන පැත්තට තල්ලු කරයි; ප්‍රසාරණ උපාංගය මඟින් අධි පීඩන පැත්තේ සිට අඩු පීඩන පැත්තට සීමා කර මුදාහරී.",
+    "sourcePaper": "Thermodynamics Science Summary"
+  }
+]

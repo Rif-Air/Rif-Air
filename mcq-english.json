@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What is the primary instruction conveyed by the safety warning label: 'DANGER: HIGH VOLTAGE – DISCONNECT POWER BEFORE SERVICING'?",
+    "options": [
+      "(A) You must completely isolate the electrical power supply before opening or repairing the unit.",
+      "(B) You should touch the high voltage cables with bare hands.",
+      "(C) The machine works only on low voltage DC power.",
+      "(D) You must turn on the master switch before touching live wires."
+    ],
+    "correctIndex": 0,
+    "explanation": "This warning label strictly mandates that the technician must isolate/disconnect the electrical supply to prevent electric shock or electrocution before performing any maintenance or repair work.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 2,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "In an air conditioning service manual, what does the abbreviation 'CFM' stand for?",
+    "options": [
+      "(A) Cubic Feet per Minute (volumetric airflow measurement)",
+      "(B) Cool Fan Movement",
+      "(C) Central Frequency Modulation",
+      "(D) Compressed Freon Meter"
+    ],
+    "correctIndex": 0,
+    "explanation": "CFM stands for Cubic Feet per Minute, which is the standard imperial unit used in HVAC engineering to measure volumetric airflow rate through ducts and blowers.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 3,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "When writing a maintenance job card: 'Replaced defective starting capacitor and checked compressor running current.' What does 'defective' mean?",
+    "options": [
+      "(A) Faulty or damaged, not working properly",
+      "(B) Brand new from factory",
+      "(C) Very expensive",
+      "(D) Perfectly operational"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Defective' means imperfect, faulty, malfunctioning, or damaged so that it no longer performs its intended function.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 4,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "Which of the following sentences uses correct technical grammar to describe an operational status?",
+    "options": [
+      "(A) 'The suction pressure was measured at 65 psig and remained stable during test run.'",
+      "(B) 'The suction pressure were measure at 65 psig and staying nice.'",
+      "(C) 'Measuring suction pressure have 65 psig with steady.'",
+      "(D) 'The suction pressure are 65 psig yesterday.'"
+    ],
+    "correctIndex": 0,
+    "explanation": "Option (A) uses proper past tense passive voice ('was measured') and subject-verb agreement ('remained stable') appropriate for professional technical reporting.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 5,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "On an equipment specification plate: 'Supply: 230V AC, 1Ph, 50Hz, FLA: 5.2A'. What does 'FLA' represent?",
+    "options": [
+      "(A) Full Load Amperes (maximum operating current under rated load)",
+      "(B) Fast Lighting Action",
+      "(C) Frequency Low Adjustment",
+      "(D) Fuse Limit Amperage"
+    ],
+    "correctIndex": 0,
+    "explanation": "FLA stands for Full Load Amperes, representing the maximum current drawn by the motor or appliance under normal rated operating load conditions.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 6,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What does the instruction 'Evacuate the system down to 500 microns before charging refrigerant' mean?",
+    "options": [
+      "(A) Use a deep vacuum pump to remove air, moisture, and non-condensable gases until absolute pressure drops to 500 microns of mercury.",
+      "(B) Blow high pressure compressed air through the pipes.",
+      "(C) Wash the copper pipes with water.",
+      "(D) Fill 500 grams of refrigerant immediately."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Evacuate' in refrigeration means drawing a deep vacuum using a vacuum pump to vaporize and extract all moisture and air from the system.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 7,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What is the meaning of 'PPE' in industrial workplace health and safety instructions?",
+    "options": [
+      "(A) Personal Protective Equipment (gloves, safety goggles, helmet, safety boots)",
+      "(B) Pipe Pressure Evaluation",
+      "(C) Phase Power Engine",
+      "(D) Practical Polytechnic Exam"
+    ],
+    "correctIndex": 0,
+    "explanation": "PPE stands for Personal Protective Equipment, including safety goggles, insulated gloves, steel-toed boots, and helmets required to protect workers from job hazards.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 8,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "Complete the sentence with the correct technical preposition: 'Connect the red lead _______ the live terminal.'",
+    "options": [
+      "(A) to",
+      "(B) for",
+      "(C) into",
+      "(D) over"
+    ],
+    "correctIndex": 0,
+    "explanation": "The standard English technical collocation for terminal connections is 'connect [something] to [terminal/source]'.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 9,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "In technical documentation, what does 'LOTO' stand for?",
+    "options": [
+      "(A) Lockout / Tagout (safety procedure ensuring machines are properly shut off and cannot be energized)",
+      "(B) Low Oil Temperature Output",
+      "(C) Line Overload Thermal Operation",
+      "(D) Liquid Outlet Test Order"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lockout/Tagout (LOTO) is an essential international safety procedure that ensures dangerous equipment is de-energized, locked, and tagged before maintenance work begins.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 10,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "Choose the term that best describes: 'A substance used in a heat pump or refrigeration cycle to transfer heat from one area to another.'",
+    "options": [
+      "(A) Refrigerant",
+      "(B) Insulator",
+      "(C) Lubricant",
+      "(D) Flux"
+    ],
+    "correctIndex": 0,
+    "explanation": "A refrigerant is the working chemical fluid used in the refrigeration cycle that absorbs heat at low temperature/pressure and releases heat at high temperature/pressure.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 11,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What does the caution label 'CAUTION: FLAMMABLE REFRIGERANT R32 – NO OPEN FLAMES' indicate to a technician?",
+    "options": [
+      "(A) R32 is mildly flammable (A2L); do not use naked flames or smoke near the equipment during servicing.",
+      "(B) R32 cannot catch fire under any condition.",
+      "(C) The system must be heated with a torch before opening.",
+      "(D) R32 is an inert non-reactive gas like nitrogen."
+    ],
+    "correctIndex": 0,
+    "explanation": "R32 is categorized as an ISO 817 Class A2L mildly flammable refrigerant. Open flames, welding torches without nitrogen purging, or smoking pose fire/explosion hazards.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 12,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What is the passive form of: 'The technician calibrated the manifold pressure gauge'?",
+    "options": [
+      "(A) The manifold pressure gauge was calibrated by the technician.",
+      "(B) The manifold pressure gauge is calibrated technician.",
+      "(C) The technician was calibrating the gauge.",
+      "(D) The manifold gauge calibrates technician."
+    ],
+    "correctIndex": 0,
+    "explanation": "Past simple passive voice is formed by 'was/were + past participle' -> 'The manifold pressure gauge was calibrated by the technician.'",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 13,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "On a compressor datasheet: 'LRA: 38A'. What does 'LRA' mean?",
+    "options": [
+      "(A) Locked Rotor Amperes (inrush current drawn when the rotor is stationary at startup)",
+      "(B) Low Resistance Ammeter",
+      "(C) Linear Range Amplifier",
+      "(D) Liquid Refrigerant Area"
+    ],
+    "correctIndex": 0,
+    "explanation": "LRA stands for Locked Rotor Amperes, which is the maximum surge/starting current drawn when the motor is energized with the rotor stationary.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 14,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "In technical communication, how should a technician report a gas leak found at a flare joint?",
+    "options": [
+      "(A) 'During electronic leak detection, a refrigerant leak was detected at the 3/8 inch flare nut connection.'",
+      "(B) 'Gas is making whistling noise somewhere.'",
+      "(C) 'Machine is empty because pipe broke.'",
+      "(D) 'The cold air ran away from the brass thing.'"
+    ],
+    "correctIndex": 0,
+    "explanation": "Option (A) is clear, specific, professional, and identifies the diagnostic method, problem, and exact component location.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 15,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What is the synonym of the technical word 'Isolate' when referring to an electric circuit?",
+    "options": [
+      "(A) Disconnect / De-energize",
+      "(B) Short-circuit",
+      "(C) Connect",
+      "(D) Solder"
+    ],
+    "correctIndex": 0,
+    "explanation": "To isolate an electrical circuit means to disconnect it completely from all sources of electrical energy so that it is dead and safe to work on.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 16,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What does 'Ambient Temperature' refer to in HVAC engineering manuals?",
+    "options": [
+      "(A) The temperature of the surrounding surrounding air environment",
+      "(B) The internal temperature of the compressor motor windings",
+      "(C) The boiling point of liquid nitrogen",
+      "(D) The freezing temperature of pure water"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ambient temperature refers to the temperature of the air surrounding a piece of equipment or the prevailing outdoor/indoor environment.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 17,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "Fill in the blank: 'Ensure that the ground wire is _______ fastened to the metal chassis.'",
+    "options": [
+      "(A) securely",
+      "(B) lightly",
+      "(C) loosely",
+      "(D) carelessly"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Securely fastened' is the correct technical adverb collocation meaning tightly and safely attached.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 18,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What does 'NO' and 'NC' stand for on an auxiliary contactor block?",
+    "options": [
+      "(A) Normally Open and Normally Closed",
+      "(B) Neutral Output and Neutral Common",
+      "(C) Negative Only and Negative Current",
+      "(D) New Order and New Connection"
+    ],
+    "correctIndex": 0,
+    "explanation": "In electrical switchgear, 'NO' stands for Normally Open (contacts open in de-energized state) and 'NC' stands for Normally Closed (contacts closed in de-energized state).",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 19,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "In technical manuals: 'Purge the manifold lines with dry nitrogen before brazing.' What does 'purge' mean?",
+    "options": [
+      "(A) Flush out or displace air and contaminants by blowing an inert gas through the lines",
+      "(B) Paint the outside of the tubes",
+      "(C) Immerse the parts in lubricating oil",
+      "(D) Heat the pipes until they melt"
+    ],
+    "correctIndex": 0,
+    "explanation": "To purge means to clear out air, moisture, or oxygen by introducing a flow of inert gas (such as dry nitrogen) to prevent internal oxidation/scaling during brazing.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 20,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What is the function of a 'Service Job Card'?",
+    "options": [
+      "(A) To document customer details, reported faults, tasks performed, parts replaced, and technician sign-off",
+      "(B) To play games during lunch break",
+      "(C) To serve as an advertisement flyer for new customers",
+      "(D) To apply for a driver's license"
+    ],
+    "correctIndex": 0,
+    "explanation": "A service job card is an official work record recording customer information, complaints, diagnostic findings, replaced materials, and completion sign-offs.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 21,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "Choose the correct past participle: 'The capillary tube had become _______ with burnt compressor oil sludge.'",
+    "options": [
+      "(A) clogged",
+      "(B) clogs",
+      "(C) clogging",
+      "(D) clog"
+    ],
+    "correctIndex": 0,
+    "explanation": "After past perfect auxiliary 'had become', the past participle 'clogged' (blocked) is required.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 22,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What does the abbreviation 'MSDS' or 'SDS' stand for in chemical safety?",
+    "options": [
+      "(A) Safety Data Sheet (Material Safety Data Sheet)",
+      "(B) Mechanical System Design Standard",
+      "(C) Main Switchboard Distribution System",
+      "(D) Motor Speed Diagnostic Sensor"
+    ],
+    "correctIndex": 0,
+    "explanation": "An SDS (Safety Data Sheet) provides critical safety, hazard, handling, first aid, and storage information for chemicals and refrigerants.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 23,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "Which of the following phrases is appropriate when requesting information from a client about an AC breakdown?",
+    "options": [
+      "(A) 'Could you please describe when the unusual noise first started occurring?'",
+      "(B) 'Why did you break this expensive machine?'",
+      "(C) 'Tell me everything immediately!'",
+      "(D) 'Machine is dead because you don't know how to use it.'"
+    ],
+    "correctIndex": 0,
+    "explanation": "Option (A) is polite, professional, customer-focused, and asks for clear diagnostic timeline information.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 24,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What does 'IP Rating' (e.g., IP65, IP20) on an electrical enclosure indicate?",
+    "options": [
+      "(A) Ingress Protection rating (degree of protection against dust and water moisture)",
+      "(B) International Phase Regulation",
+      "(C) Internal Power Rating",
+      "(D) Inspection Price code"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ingress Protection (IP) rating defines the level of sealing effectiveness against intrusions from foreign bodies (tools, dust) and moisture (water jets, rain).",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 25,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "Select the correct technical antonym: 'The opposite of Conductive is _______.'",
+    "options": [
+      "(A) Insulating (Non-conductive)",
+      "(B) Capacitive",
+      "(C) Metallic",
+      "(D) Inductive"
+    ],
+    "correctIndex": 0,
+    "explanation": "A conductor permits electric charge or heat flow, whereas an insulator (non-conductive material) resists and blocks it.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 26,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What is meant by 'Periodic Preventive Maintenance' (PPM)?",
+    "options": [
+      "(A) Scheduled inspection and cleaning at regular intervals to prevent breakdowns before they occur",
+      "(B) Waiting until the machine completely fails and burns out",
+      "(C) Replacing all equipment every week",
+      "(D) Painting the exterior covers for decoration"
+    ],
+    "correctIndex": 0,
+    "explanation": "Preventive maintenance refers to regularly scheduled inspections, filter cleaning, lubrication, and tests carried out to prevent unexpected failures and extend equipment life.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 27,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "In technical writing: 'If the thermistor is open-circuit, the microprocessor will display Error Code E1.' This sentence is an example of:",
+    "options": [
+      "(A) First Conditional (Cause and Effect)",
+      "(B) Simple past tense",
+      "(C) Imperative command",
+      "(D) Interrogative question"
+    ],
+    "correctIndex": 0,
+    "explanation": "The first conditional structure ('If + present simple, will + base verb') expresses a real technical cause-and-effect relationship.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 28,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What does the instruction 'Tighten the terminal screw to a torque of 2.5 N·m' require the technician to do?",
+    "options": [
+      "(A) Use a torque screwdriver/wrench to tighten the screw to exactly 2.5 Newton-meters of rotational force",
+      "(B) Tighten as hard as possible until the screw thread strips",
+      "(C) Leave the screw completely loose",
+      "(D) Hammer the screw into the terminal block"
+    ],
+    "correctIndex": 0,
+    "explanation": "Torque specifications (measured in Newton-meters, N·m) ensure electrical connections are adequately clamped without stripping threads or crushing wire strands.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 29,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What does the abbreviation 'SEER' stand for in modern air conditioning specifications?",
+    "options": [
+      "(A) Seasonal Energy Efficiency Ratio",
+      "(B) Standard Electrical Energy Resistance",
+      "(C) Super Evaporator Expansion Rate",
+      "(D) System Emission Evaluation Report"
+    ],
+    "correctIndex": 0,
+    "explanation": "SEER stands for Seasonal Energy Efficiency Ratio, measuring the cooling output divided by total electric energy input over a typical annual cooling season.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 30,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "Complete the warning: 'Do not _______ the rated capacity of the circuit breaker.'",
+    "options": [
+      "(A) exceed",
+      "(B) excel",
+      "(C) except",
+      "(D) extend"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Exceed' means to go beyond or surpass the rated limit (e.g. Drawing more current than the breaker's rated amps).",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 31,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What does the word 'Continuity' mean in electrical testing?",
+    "options": [
+      "(A) An unbroken, continuous electrical pathway allowing electric current to flow",
+      "(B) A broken open-circuit wire",
+      "(C) The physical length of a cable",
+      "(D) The colour code of PVC insulation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Continuity indicates an uninterrupted, continuous conductive path between two test points (demonstrated by zero or near-zero resistance on an ohmmeter).",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 32,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What does 'Superheat' mean in refrigeration troubleshooting?",
+    "options": [
+      "(A) The temperature increase of refrigerant vapor above its saturation (boiling) temperature at a given pressure",
+      "(B) Heating the room above 40 degrees Celsius",
+      "(C) The fire temperature of a welding torch",
+      "(D) Boiling water on an electric stove"
+    ],
+    "correctIndex": 0,
+    "explanation": "Superheat is the sensible heat added to refrigerant vapor above its boiling (saturation) temperature at the suction pressure, ensuring liquid refrigerant does not flood the compressor.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 33,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "Choose the correct spelling of the electrical safety device that trips on earth leakage:",
+    "options": [
+      "(A) Residual Current Device",
+      "(B) Rediculous Current Device",
+      "(C) Resisdual Curent Devise",
+      "(D) Recidual Current Divice"
+    ],
+    "correctIndex": 0,
+    "explanation": "The correct technical spelling is 'Residual Current Device' (RCD).",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 34,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What does 'Subcooling' refer to in a condenser unit?",
+    "options": [
+      "(A) The temperature drop of liquid refrigerant below its saturation (condensing) temperature",
+      "(B) Freezing ice in an ice-cream maker",
+      "(C) Operating an AC unit in Alaska",
+      "(D) The lowest temperature achieved by dry ice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Subcooling is the temperature difference by which a liquid refrigerant is cooled below its condensing (saturation) temperature before entering the expansion device.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 35,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "Which modal verb expresses strong mandatory obligation in technical rules?",
+    "options": [
+      "(A) must",
+      "(B) might",
+      "(C) could",
+      "(D) would"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Must' denotes an absolute requirement or mandatory regulation in safety and technical codes (e.g. 'All metal frames must be bonded to earth').",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 36,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "In technical English, what is a 'Multimeter'?",
+    "options": [
+      "(A) A versatile electronic test instrument capable of measuring voltage, current, and resistance",
+      "(B) A ruler measuring multiple meters of distance",
+      "(C) A water flow meter with multiple dials",
+      "(D) A stopwatch measuring split times"
+    ],
+    "correctIndex": 0,
+    "explanation": "A multimeter (volt-ohm-milliammeter) is an electronic diagnostic tool that combines several measurement functions (volts, amps, ohms) in one unit.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 37,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "Complete the sentence: 'The technician _______ the compressor terminals for insulation resistance before powering on.'",
+    "options": [
+      "(A) tested",
+      "(B) test",
+      "(C) was test",
+      "(D) testing"
+    ],
+    "correctIndex": 0,
+    "explanation": "The simple past tense 'tested' is grammatically correct for a completed diagnostic action in a maintenance report.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 38,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What does 'Commissioning' a new HVAC installation mean?",
+    "options": [
+      "(A) The systematic process of inspecting, testing, balancing, and verifying that the system operates according to design specifications",
+      "(B) Paying the technician a monetary commission",
+      "(C) Taking pictures of the equipment for social media",
+      "(D) Scrapping an old machine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Commissioning is the engineering process of testing, calibrating, and adjusting newly installed equipment to verify full compliance with operational and safety standards.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 39,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What does the abbreviation 'ODU' and 'IDU' stand for in split AC documentation?",
+    "options": [
+      "(A) Outdoor Unit and Indoor Unit",
+      "(B) Optical Digital Unit and Internal Drive Unit",
+      "(C) Output Direct Voltage and Input Direct Voltage",
+      "(D) Over-Drain Unit and In-Drain Unit"
+    ],
+    "correctIndex": 0,
+    "explanation": "In split air conditioner literature, 'ODU' stands for Outdoor Unit (condenser and compressor) and 'IDU' stands for Indoor Unit (evaporator and fan).",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 40,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "Select the sentence with correct technical punctuation:",
+    "options": [
+      "(A) 'Before brazing, remove the Schrader valve core; otherwise, the internal rubber seal will melt.'",
+      "(B) 'Before brazing remove the Schrader valve core otherwise the internal rubber seal will melt'",
+      "(C) 'Before, brazing remove; the core otherwise, will melt.'",
+      "(D) 'Before brazing: remove? Valve core!'"
+    ],
+    "correctIndex": 0,
+    "explanation": "Option (A) correctly uses an introductory comma and a semicolon before the conjunctive adverb 'otherwise'.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 41,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What is meant by 'Refrigerant Recovery'?",
+    "options": [
+      "(A) Removing refrigerant from a system and storing it in an external cylinder without venting it to the atmosphere",
+      "(B) Releasing refrigerant into the air to cool the room",
+      "(C) Drinking cold water after working in the sun",
+      "(D) Allowing refrigerant to leak into the ground"
+    ],
+    "correctIndex": 0,
+    "explanation": "Refrigerant recovery means transferring refrigerant from a cooling system into a certified recovery cylinder to prevent atmospheric venting and ozone depletion/global warming.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 42,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What does 'GWP' stand for in environmental regulations regarding refrigerants?",
+    "options": [
+      "(A) Global Warming Potential",
+      "(B) Gas Weight Proportion",
+      "(C) General Working Pressure",
+      "(D) Gross Wattage Power"
+    ],
+    "correctIndex": 0,
+    "explanation": "GWP stands for Global Warming Potential, an environmental index that quantifies how much heat a greenhouse gas traps in the atmosphere relative to carbon dioxide (CO2 = 1).",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 43,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "Complete the phrase: 'Always wear safety glasses to protect your eyes _______ flying metal chips and chemical splashes.'",
+    "options": [
+      "(A) from",
+      "(B) with",
+      "(C) at",
+      "(D) towards"
+    ],
+    "correctIndex": 0,
+    "explanation": "The standard English verb-preposition pairing is 'protect [someone/something] from [hazard]'.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 44,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "In technical manuals: 'The condenser coil must be inspected periodically for fin degradation.' What does 'degradation' mean?",
+    "options": [
+      "(A) Gradual deterioration, damage, or decline in condition",
+      "(B) Improvement in performance",
+      "(C) Change in color for fashion",
+      "(D) Increase in market price"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Degradation' means the deterioration, wear, oxidation, or corrosion of a component over time.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 45,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "Which of the following describes a 'Clamp Meter'?",
+    "options": [
+      "(A) An instrument with hinged jaws that clamps around a live conductor to measure AC/DC current without disconnecting the wire",
+      "(B) A tool used to hold two copper pipes together for welding",
+      "(C) A device that measures the diameter of a screw thread",
+      "(D) A clamp used to secure cables to a wooden wall"
+    ],
+    "correctIndex": 0,
+    "explanation": "A clamp meter (current clamp) measures magnetic induction around a current-carrying conductor, enabling electrical current measurement without breaking the circuit.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 46,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "Choose the correct term: 'An electrical connection with the general mass of earth whose impedance is negligible.'",
+    "options": [
+      "(A) Earthing / Grounding",
+      "(B) Bridging",
+      "(C) Splicing",
+      "(D) Shunting"
+    ],
+    "correctIndex": 0,
+    "explanation": "Earthing (or grounding) provides an effective low-impedance connection to earth mass to safely divert fault currents and trip protective devices.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 47,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What does the abbreviation 'NC' mean on an automated thermostat relay output?",
+    "options": [
+      "(A) Normally Closed (circuit is complete when relay is not energized)",
+      "(B) No Current (circuit dead)",
+      "(C) Non Conductive",
+      "(D) Negative Charge"
+    ],
+    "correctIndex": 0,
+    "explanation": "'NC' designates Normally Closed contacts that maintain electrical contact in the de-energized or resting state.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 48,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "Complete the troubleshooting note: 'The cooling fan produces excessive vibration _______ the mounting rubber bush is worn out.'",
+    "options": [
+      "(A) because",
+      "(B) although",
+      "(C) unless",
+      "(D) despite"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Because' is the appropriate conjunction to introduce the root cause of the vibration.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 49,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "What is an 'O&M Manual' delivered to the building owner upon project handover?",
+    "options": [
+      "(A) Operations and Maintenance Manual",
+      "(B) Overload and Measurement Manual",
+      "(C) Output and Module Manifest",
+      "(D) Owner and Manager Meeting"
+    ],
+    "correctIndex": 0,
+    "explanation": "An O&M (Operations & Maintenance) manual provides comprehensive guidelines, diagrams, spare parts lists, and routine procedures for operating and servicing building systems.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  },
+  {
+    "id": 50,
+    "subject": "english",
+    "subjectName": "Technical English",
+    "question": "Which closing statement is most appropriate for a formal engineering handover certificate?",
+    "options": [
+      "(A) 'The installation has been thoroughly tested, inspected, and commissioned in accordance with BS 7671 standards and is certified safe for operation.'",
+      "(B) 'We are done here, machine seems okay.'",
+      "(C) 'Everything looks cool and pretty nice.'",
+      "(D) 'Hope it doesn't break down soon, goodbye!'"
+    ],
+    "correctIndex": 0,
+    "explanation": "Option (A) is professional, precise, references compliance standards, and provides a formal engineering declaration of safety and fitness for operation.",
+    "sourcePaper": "DTET / NVQ Level 4 Exam (2024-2025)"
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "මුහුදු මට්ටමේදී සම්මත වායුගෝලීය පීඩනය (Standard Atmospheric Pressure) ලෙස දක්වනු ලබන අගය කුමක්ද? (What is the standard atmospheric pressure at sea level in psi?)",
+    "options": [
+      "(A) බාර් 14.7 (14.7 bar)",
+      "(B) වර්ග අඟලට රාත්තල් 14.7 (14.7 psi / lbf/in²)",
+      "(C) වර්ග අඩියට රාත්තල් 14.7 (14.7 lbf/ft²)",
+      "(D) පැස්කල් 14.7 (14.7 Pa)"
+    ],
+    "correctIndex": 1,
+    "explanation": "මුහුදු මට්ටමේ සම්මත වායුගෝලීය පීඩනය 14.696 psi ≈ 14.7 psi (රාත්තල්/වර්ග අඟල) වේ. එය 1.01325 bar හෝ 101,325 Pa ට සමාන වේ.",
+    "sourcePaper": "2024 Paper - Q01"
+  },
+  {
+    "id": 2,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "අප විසින් ආහාරයට ගනු ලබන අයිස්ක්‍රීම් -18°C ක උෂ්ණත්වයක ගබඩා කරන ලෙස ලේබලයේ සටහන් කර ඇත. මෙම අගය ෆැරන්හයිට් (°F) වලින් කොපමණද? (Convert -18°C to Fahrenheit)",
+    "options": [
+      "(A) +90.0 °F",
+      "(B) +25.4 °F",
+      "(C) -0.4 °F",
+      "(D) -64.4 °F"
+    ],
+    "correctIndex": 2,
+    "explanation": "F = (C × 1.8) + 32 සූත්‍රය අනුව: F = (-18 × 1.8) + 32 = -32.4 + 32 = -0.4 °F වේ.",
+    "sourcePaper": "2024 Paper - Q02"
+  },
+  {
+    "id": 3,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "වර්තමානයේ බහුලව භාවිතාවන R404A සහ R410A වැනි ශීතකාරක අයත්වන්නේ මින් කුමන කාණ්ඩයටද? (Which category do R404A and R410A belong to?)",
+    "options": [
+      "(A) හයිඩ්‍රෝකාබන් (HC) කාණ්ඩයට",
+      "(B) හයිඩ්‍රෝ ක්ලෝරෝ ෆ්ලෝරෝ කාබන් (HCFC) කාණ්ඩයට",
+      "(C) HFC කාණ්ඩයේ ඇසියොට්‍රොපික් (Azeotropic) මිශ්‍රණ වලට",
+      "(D) HFC කාණ්ඩයේ සියොට්‍රොපික් (Zeotropic) මිශ්‍රණ වලට"
+    ],
+    "correctIndex": 3,
+    "explanation": "400 ශ්‍රේණියේ ශීතකාරක (R404A, R410A) සියොට්‍රොපික් (Zeotropic/Near-azeotropic) මිශ්‍රණ වේ. (500 ශ්‍රේණිය Azeotropic වේ).",
+    "sourcePaper": "2024 Paper - Q03"
+  },
+  {
+    "id": 4,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "ගෘහස්ථ ශීතකරණ යන්ත්‍ර වල ශීතකාරක ද්‍රව පාලනය (මානන උපක්‍රමය - Metering Device) ලෙස යෙදීමට වඩාත් සුදුසු උපාංගය කුමක්ද?",
+    "options": [
+      "(A) තාප ස්ථිතික ප්‍රසාරණ කපාටය (TEV)",
+      "(B) ස්වයංක්‍රිය ප්‍රසාරණ කපාටය (AEV)",
+      "(C) කේශික නල ක්‍රමය (Capillary tube)",
+      "(D) අධිපීඩන ඉපිල්ලුම් කපාටය (High-Pressure float valve)"
+    ],
+    "correctIndex": 2,
+    "explanation": "ගෘහස්ථ ශීතකරණ වල සරල බව, අඩු පිරිවැය සහ පද්ධතියේ පීඩනය සමාන වීමේ පහසුව නිසා කේශික නලය (Capillary Tube) යොදාගනී.",
+    "sourcePaper": "2024 Paper - Q04"
+  },
+  {
+    "id": 5,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "වායුසමන හෝ ශීතකරණ පද්ධතියකින් ශීතකාරකය එකතු කරගනු ලබන විට (Recovery), සිලින්ඩරයට එහි මුල් පරිමාවෙන් උපරිම කොපමණ ප්‍රතිශතයක් පිරවිය යුතුද?",
+    "options": [
+      "(A) 50%",
+      "(B) 70%",
+      "(C) 80%",
+      "(D) 95%"
+    ],
+    "correctIndex": 2,
+    "explanation": "උෂ්ණත්වය ඉහළ යාමේදී ද්‍රව ප්‍රසාරණය වී සිලින්ඩරය පිපිරීම වැළැක්වීම සඳහා ආරක්ෂිත උපරිම සීමාව 80% (80% Liquid Fill Safety Limit) වේ.",
+    "sourcePaper": "2024 Paper - Q05"
+  },
+  {
+    "id": 6,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "R600a (Isobutane) ශීතකාරකය සහිත ශීතකරණ යන්ත්‍රයක සම්පීඩකයේ දැකිය හැකි ආරක්ෂිත සංකේතය කුමක්ද? (Safety symbol for R600a system)",
+    "options": [
+      "(A) විෂ සහිත බව (Toxic / Skull)",
+      "(B) වහා ගිනිගන්නා සුළු බව දැක්වෙන ගිනිදැල් සංකේතය (Flammable)",
+      "(C) අධික උෂ්ණත්ව සලකුණ (High temperature)",
+      "(D) විකිරණශීලී සලකුණ (Radioactive)"
+    ],
+    "correctIndex": 1,
+    "explanation": "R600a යනු A3 කාණ්ඩයේ වහා ගිනි ඇවිලෙන සුළු හයිඩ්‍රෝකාබන් (Hydrocarbon) වායුවක් බැවින් ගිනිදැල් සංකේතය (Flammable Flame icon) අනිවාර්ය වේ.",
+    "sourcePaper": "2024 Paper - Q06"
+  },
+  {
+    "id": 7,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "Split A/C යන්ත්‍රයකට R410A ආරෝපණය කර ක්‍රියාත්මක වන විට, එහි සාමාන්‍ය චූෂණ පීඩනය (Suction Pressure) පැවතිය යුත්තේ කුමන පරාසයකද?",
+    "options": [
+      "(A) 250 - 300 psig",
+      "(B) 115 - 130 psig",
+      "(C) 65 - 70 psig",
+      "(D) 25 - 35 psig"
+    ],
+    "correctIndex": 1,
+    "explanation": "R410A වායුසමන පද්ධතියක සාමාන්‍ය චූෂණ (Low Side) පීඩනය 115 - 130 psig අතර වේ (R22 වලදී එය 65 - 70 psig පමණ වේ).",
+    "sourcePaper": "2024 Paper - Q07"
+  },
+  {
+    "id": 8,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "ශීතකරණ කටයුතු වලදී භාවිතාවන 'වියළි අයිස්' (Dry Ice) යනුවෙන් හඳුන්වන්නේ කුමක්ද?",
+    "options": [
+      "(A) ඝනීභවනය කරන ලද (ඝන) කාබන්ඩයොක්සයිඩ් (Solid CO2)",
+      "(B) ඝනීභවනය කළ සෝඩියම් ක්ලෝරයිඩ්",
+      "(C) තෙතමනය ඉවත් කළ සාමාන්‍ය අයිස්",
+      "(D) ද්‍රව නයිට්‍රජන් අයිස්"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dry Ice යනු -78.5°C දී ඝන තත්ත්වයට පත් කරන ලද කාබන් ඩයොක්සයිඩ් (Solid CO2) වේ. එය ද්‍රව නොවී කෙලින්ම වාෂ්ප වේ (Sublimation).",
+    "sourcePaper": "2024 Paper - Q08"
+  },
+  {
+    "id": 9,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "ශීතකාරකයක ODP අගය (Ozone Depletion Potential) 0 වන අතර GWP අගය (Global Warming Potential) 3 ක් වේ. A3 ආරක්ෂිත කාණ්ඩයට අයත් මෙහි සම්මත වාෂ්පීභවන උෂ්ණත්වය -11.75°C වේ නම් එම ශීතකාරකය කුමක්ද?",
+    "options": [
+      "(A) R 22",
+      "(B) R 32",
+      "(C) R 290",
+      "(D) R 600a"
+    ],
+    "correctIndex": 3,
+    "explanation": "R600a (Isobutane) හි තාපාංකය -11.7°C, ODP = 0, GWP = 3 සහ ආරක්ෂිත කාණ්ඩය A3 (වහා ගිනිගන්නා) වේ.",
+    "sourcePaper": "2024 Paper - Q11"
+  },
+  {
+    "id": 10,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "තෙකලා (3 Phase) මෝටරයක් දක්ෂිණාවර්තව භ්‍රමණය වන විට එය වාමාවර්තව (Forward to Reverse) කරකැවීමට කළ යුත්තේ කුමක්ද?",
+    "options": [
+      "(A) සැපයුම් වයර් තුනෙන් (L1, L2, L3) ඕනෑම වයර් දෙකක් එකිනෙක මාරු කිරීම",
+      "(B) වයර් තුනම එකවර මාරු කිරීම",
+      "(C) මෝටරයේ අර්ත් වයරය මාරු කිරීම",
+      "(D) උදාසීන (Neutral) වයරයක් සම්බන්ධ කිරීම"
+    ],
+    "correctIndex": 0,
+    "explanation": "තෙකලා ප්‍රේරක මෝටරයක ඕනෑම සැපයුම් අග්‍ර දෙකක් (උදා: L1 සහ L2) මාරු කළ විට චුම්බක ක්ෂේත්‍රයේ භ්‍රමණ දිශාව ප්‍රතිවිරුද්ධ වේ.",
+    "sourcePaper": "2024 Paper - Q12"
+  },
+  {
+    "id": 11,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "Split A/C පිටත ඒකකය (Outdoor Unit) සවිකිරීමේදී අවම වශයෙන් සැලකිලිමත් විය යුතු සාධකය කුමක්ද?",
+    "options": [
+      "(A) සූර්යාලෝකය සෘජුව වැටෙන දිශාව",
+      "(B) ද්‍රවීකාරකයෙන් පිටවන උණුසුම් වාතය බාධාවකින් තොරව ගලායාම",
+      "(C) බිත්තියට ආසන්නව ඇති අවම ආරක්ෂිත දුර",
+      "(D) ගොඩනැගිල්ල තුළ කාමරයේ බිත්තිවල අභ්‍යන්තර වර්ණය"
+    ],
+    "correctIndex": 3,
+    "explanation": "එළිමහන් ඒකකයේ කාර්යක්ෂමතාවයට පරිසර උෂ්ණත්වය, සෙවණ සහ වායු සංසරණය බලපාන අතර කාමරය තුළ බිත්ති වර්ණය බල නොපායි.",
+    "sourcePaper": "2024 Paper - Q13"
+  },
+  {
+    "id": 12,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "ශීතකරණ චක්‍රයක ද්‍රව ග්‍රාහකය (Liquid Receiver) තුළ ශීතකාරකය පවතින්නේ කුමන තත්ත්වයේද?",
+    "options": [
+      "(A) අධි පීඩන, අඩු උෂ්ණත්ව වාෂ්පයක් ලෙස",
+      "(B) අධි පීඩන, අධි උෂ්ණත්ව ද්‍රවයක් ලෙස (High-pressure Subcooled Liquid)",
+      "(C) අඩු පීඩන, අඩු උෂ්ණත්ව ද්‍රවයක් ලෙස",
+      "(D) අඩු පීඩන, අධි උෂ්ණත්ව වාෂ්පයක් ලෙස"
+    ],
+    "correctIndex": 1,
+    "explanation": "Liquid Receiver පිහිටා ඇත්තේ Condenser සහ Expansion Valve අතර බැවින් එහි ඇත්තේ අධි පීඩන සන්තෘප්ත/උප-සිසිලිත ද්‍රව ශීතකාරකයයි.",
+    "sourcePaper": "2024 Paper - Q15"
+  },
+  {
+    "id": 13,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "ශීතකාරක පරිපථයක තෙතමනය පෙන්වන දර්ශකයක් සහිත ද්‍රව දර්ශකය (Sight Glass with Moisture Indicator) සවිකිරීමට වඩාත් සුදුසු ස්ථානය කුමක්ද?",
+    "options": [
+      "(A) සම්පීඩකය සහ ද්‍රවීකාරකය අතර (Discharge line)",
+      "(B) ද්‍රවීකාරකය සහ වියළනය අතර",
+      "(C) පෙරහන් වියළනය (Filter Drier) සහ ප්‍රසාරණ උපාංගය අතර ද්‍රව නලයේ",
+      "(D) චූෂණ නලයේ (Suction line)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sight Glass සවිකරනු ලබන්නේ Filter Drier ට පසුව ද්‍රව නලයේය (Liquid line). එවිට බුබුළු රහිත පිරිසිදු ද්‍රව ගලනය සහ තෙතමනය පැහැදිලිව පෙනේ.",
+    "sourcePaper": "2024 Paper - Q16"
+  },
+  {
+    "id": 14,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "ශීතකරණ පද්ධතියක් ක්‍රියාත්මක වෙමින් තිබියදී එහි Liquid Line Shut-off Valve එක සම්පූර්ණයෙන්ම වසා දැමුවහොත් සිදුවන්නේ කුමක්ද? (Pump Down Operation)",
+    "options": [
+      "(A) විසර්ජන නලය පුපුරා යයි",
+      "(B) වාෂ්පීකාරකයේ හිම බැඳීම අධික වේ",
+      "(C) ශීතකාරකය සම්පීඩනය වී, ද්‍රව වී රිසීවරය/කන්ඩෙන්සරය තුළට එකතු වේ (Pump Down)",
+      "(D) පද්ධතියේ කිසිදු වෙනසක් සිදු නොවේ"
+    ],
+    "correctIndex": 2,
+    "explanation": "මෙය Pump Down ක්‍රියාවලියයි. ද්‍රව කපාටය වැසූ විට සම්පීඩකය මඟින් වාෂ්පීකාරකයේ සියලු වායුව ඇද ද්‍රවීකාරකය/රිසීවරය තුළට එකතු කරයි.",
+    "sourcePaper": "2024 Paper - Q17"
+  },
+  {
+    "id": 15,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "Split A/C යන්ත්‍රයක Outdoor Condenser Fan මෝටරය ක්‍රියා විරහිත වුවහොත් පද්ධතියට ක්ෂණිකව සිදුවන්නේ කුමක්ද?",
+    "options": [
+      "(A) වාෂ්පීකාරකයේ (Indoor) අධික ලෙස හිම බඳියි",
+      "(B) ද්‍රවීකාරකය සිසිල් නොවීම නිසා අධි පීඩනය (High Head Pressure) ඉහළ ගොස් සම්පීඩකය Overload මඟින් Off වේ",
+      "(C) කාමරයේ උෂ්ණත්වය ක්ෂණිකව -10°C දක්වා පහත වැටේ",
+      "(D) චූෂණ පීඩනය ඉහළ යයි"
+    ],
+    "correctIndex": 1,
+    "explanation": "කන්ඩෙන්සර් පංකාව නැවතුණු විට තාපය පිට නොවන නිසා ද්‍රවීකරණ පීඩනය අධික ලෙස ඉහළ ගොස් OLP හෝ High Pressure Switch ක්‍රියාත්මක වී කම්ප්‍රෙසරය නතර වේ.",
+    "sourcePaper": "2024 Paper - Q21"
+  },
+  {
+    "id": 16,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "1/2\" තඹ නලයක් 90° කින් නැවීම සඳහා නල නැවීමේ උපකරණයක (Tube Bender) තිබිය යුතු අවම නැවුම් අරය (Minimum Bending Radius) කොපමණද?",
+    "options": [
+      "(A) නලයේ විෂ්කම්භය මෙන් 1 ගුණයක් (1d)",
+      "(B) නලයේ විෂ්කම්භය මෙන් 5 සිට 10 ගුණයක් (5d - 10d)",
+      "(C) නලයේ විෂ්කම්භය මෙන් 25 ගුණයක්",
+      "(D) නලයේ විෂ්කම්භය මෙන් 50 ගුණයක්"
+    ],
+    "correctIndex": 1,
+    "explanation": "තඹ නලයක් නැවීමේදී නලය පැතලි වීම හෝ හැකිලීම වැළැක්වීම සඳහා අවම නිර්දේශිත අරය නල විෂ්කම්භය මෙන් 5d (හෝ 5d-10d) විය යුතුය.",
+    "sourcePaper": "2024 Paper - Q22"
+  },
+  {
+    "id": 17,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "R134a ඇතුළු HFC ශීතකාරක භාවිතය ක්‍රමයෙන් අඩු කිරීමට කිගාලි සංශෝධනය (Kigali Amendment) මඟින් තීරණය කිරීමට ප්‍රධාන හේතුව කුමක්ද?",
+    "options": [
+      "(A) අධික ලෙස ගෝලීය උණුසුම වැඩි කිරීමට දායක වන බැවින් (High Global Warming Potential - GWP)",
+      "(B) ඕසෝන් ස්ථරය විනාශ කරන බැවින් (High ODP)",
+      "(C) මිනිස් සිරුරට අධික විෂ සහිත බැවින්",
+      "(D) තඹ නල විඛාදනය කරන බැවින්"
+    ],
+    "correctIndex": 0,
+    "explanation": "HFC වල ODP = 0 වුවද ඒවායේ GWP අගය ඉතා ඉහළය (උදා: R134a හි GWP = 1430). එබැවින් ගෝලීය උණුසුම පාලනයට ඒවා අවම කෙරේ.",
+    "sourcePaper": "2024 Paper - Q23"
+  },
+  {
+    "id": 18,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "සම්පීඩක මෝටරයක අග්‍ර 3 අතර ප්‍රතිරෝධ මැනීමේදී AB = 30 Ω, AC = 12 Ω, BC = 42 Ω ලෙස ලැබුණි. මෙහි පොදු (Common), ධාවන (Run) සහ ආරම්භක (Start) අග්‍ර පිළිවෙළින් මොනවාද?",
+    "options": [
+      "(A) A, B, C",
+      "(B) A, C, B",
+      "(C) B, A, C",
+      "(D) C, A, B"
+    ],
+    "correctIndex": 1,
+    "explanation": "විශාලතම ප්‍රතිරෝධය BC = 42 Ω (Start සහ Run අතර). එබැවින් ඉතිරි අග්‍රය A = Common වේ. Common සිට අඩු ප්‍රතිරෝධය AC = 12 Ω Run වන අතර, වැඩි ප්‍රතිරෝධය AB = 30 Ω Start වේ. පිළිවෙළ: A, C, B.",
+    "sourcePaper": "2024 Paper - Q24"
+  },
+  {
+    "id": 19,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "කෘතිම ශීතකාරක තෙල් (Synthetic POE Oil) සම්බන්ධයෙන් පවතින ප්‍රධානතම සුවිශේෂී ලක්ෂණය කුමක්ද?",
+    "options": [
+      "(A) ඒවා අතිශයින්ම වායුගෝලීය තෙතමනය උරාගන්නා සුළු වේ (Highly Hygroscopic)",
+      "(B) කිසිසේත්ම තෙතමනය උරා නොගනී",
+      "(C) R12 සමඟ පමණක් මිශ්‍ර වේ",
+      "(D) සාමාන්‍ය ඛනිජ තෙල්වලට වඩා ජලයේ පහසුවෙන් දියවේ"
+    ],
+    "correctIndex": 0,
+    "explanation": "HFC සඳහා භාවිත වන POE කෘතිම තෙල් ඉතා ඉක්මනින් වාතයෙන් තෙතමනය උරාගනී (Hygroscopic). එබැවින් තෙල් බඳුන විවෘතව තැබිය නොහැක.",
+    "sourcePaper": "2024 Paper - Q25"
+  },
+  {
+    "id": 20,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "ශීතකාරක පද්ධතියක තෙල් වෙන්කරණය (Oil Separator) සවිකිරීමට වඩාත්ම සුදුසු ස්ථානය කුමක්ද?",
+    "options": [
+      "(A) වාෂ්පීකාරකයේ කෙළවරට",
+      "(B) ද්‍රවීකාරකය සහ පෙරහන අතරට",
+      "(C) සම්පීඩකය අසලින්ම චූෂණ නලයට",
+      "(D) සම්පීඩකය අසලින්ම විසර්ජන නලයේ මුලට (Discharge line immediately leaving compressor)"
+    ],
+    "correctIndex": 3,
+    "explanation": "කම්ප්‍රෙසරයෙන් විසර්ජනය වන උණුසුම් වාෂ්පය සමඟ පිටවන තෙල් වහාම වෙන්කර නැවත ක්‍රෑන්ක්කේස් එකට යැවීමට විසර්ජන නලයේ මුලට සවිකරයි.",
+    "sourcePaper": "2024 Paper - Q26"
+  },
+  {
+    "id": 21,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "හිම නොබැඳෙන (No-Frost) ශීතකරණයක ද්විලෝහ පටි උෂ්ණත්ව පාලකයේ (Bi-metal Defrost Thermostat) ප්‍රධාන කාර්යය කුමක්ද?",
+    "options": [
+      "(A) කම්ප්‍රෙසරය සක්‍රිය කිරීම",
+      "(B) වාෂ්පීකාරකයේ අයිස් දියවී අවසන් වූ පසු Defrost Heater එක විසන්ධි කිරීම",
+      "(C) දොර ඇර ඇති විට ලාම්පුව දැල්වීම",
+      "(D) ටයිමර් මෝටරය ස්ථිරවම ක්‍රියා විරහිත කිරීම"
+    ],
+    "correctIndex": 1,
+    "explanation": "බයිමෙටල් එක -5°C දී සම්බන්ධ වී හීටරය ක්‍රියාත්මක කරන අතර, අයිස් දියවී වාෂ්පීකාරකය +8°C සිට +10°C දක්වා රත්වූ විට විවෘත වී හීටරය නිවා දමයි.",
+    "sourcePaper": "2024 Paper - Q27"
+  },
+  {
+    "id": 22,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "කාමර වායු සමන යන්ත්‍රයක ධාරිත්‍රකයක් (Capacitor) ඕම් මීටරයකින් පරීක්ෂා කිරීමේදී දර්ශකය (කටුව) කිසිදු උත්ක්‍රමණයක් නොපෙන්වා අනන්තයේම රැඳුණි නම් එහි තත්ත්වය කුමක්ද?",
+    "options": [
+      "(A) ධාරිත්‍රකය ඉතා හොඳ තත්ත්වයේ පවතී (Good)",
+      "(B) ධාරිත්‍රකය කෙටි පරිපථ වී ඇත (Short circuit)",
+      "(C) ධාරිත්‍රකය අභ්‍යන්තරව විසන්ධි වී (විවෘත වී) ඇත (Open circuit)",
+      "(D) ධාරිත්‍රකය දුර්වල වී ඇත"
+    ],
+    "correctIndex": 2,
+    "explanation": "හොඳ ධාරිත්‍රකයක් ආරෝපණය වන විට කටුව 0 දෙසට ගොස් නැවත සෙමින් අනන්තය (∞) දෙසට පැමිණේ. කටුව කිසිසේත් නොසෙල්වේ නම් එය Open circuit (කැඩී ඇත).",
+    "sourcePaper": "2024 Paper - Q29"
+  },
+  {
+    "id": 23,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "සුපිරි වෙළෙඳසල් ශීතකරණ පද්ධතිවල බහුලව භාවිතාවන R290 ශීතකාරකය යනු කුමක්ද?",
+    "options": [
+      "(A) ප්‍රොපේන් (Propane - Hydrocarbon)",
+      "(B) අයිසොබියුටේන් (Isobutane)",
+      "(C) ඩයික්ලෝරෝ ඩයිෆ්ලෝරෝ මීතේන්",
+      "(D) ටෙට්‍රාෆ්ලෝරෝ ඊතේන්"
+    ],
+    "correctIndex": 0,
+    "explanation": "R290 යනු ඉතා අඩු GWP අගයක් (3) සහ ශුන්‍ය ODP අගයක් සහිත ස්වභාවික ශීතකාරකයක් වන ප්‍රොපේන් (Propane - C3H8) වේ.",
+    "sourcePaper": "2024 Paper - Q30"
+  },
+  {
+    "id": 24,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "1 වායුගෝල පීඩනයක් (1 atm) පැස්කල් (Pa) වලින් කොපමණද? (1 atm in Pascal)",
+    "options": [
+      "(A) 1.013 Pa",
+      "(B) 101.3 Pa",
+      "(C) 1,013 Pa",
+      "(D) 101,325 Pa"
+    ],
+    "correctIndex": 3,
+    "explanation": "1 Standard Atmosphere = 101,325 Pa = 101.325 kPa = 1.01325 bar වේ.",
+    "sourcePaper": "2025 Paper - Q01"
+  },
+  {
+    "id": 25,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "ජාත්‍යන්තර ඒකක ක්‍රමය (SI Units) යටතේ උෂ්ණත්වය ප්‍රකාශ කිරීම සඳහා යොදාගන්නා මූලික ඒකකය කුමක්ද?",
+    "options": [
+      "(A) සෙල්සියස් (°C)",
+      "(B) ෆැරන්හයිට් (°F)",
+      "(C) කෙල්වින් (Kelvin - K)",
+      "(D) රැන්කින් (°R)"
+    ],
+    "correctIndex": 2,
+    "explanation": "උෂ්ණත්වයේ නිරපේක්ෂ මූලික SI ඒකකය වන්නේ කෙල්වින් (Kelvin - K) වේ. (0 K = -273.15 °C).",
+    "sourcePaper": "2025 Paper - Q02"
+  },
+  {
+    "id": 26,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "කාර්මික ශාලාවක හදිසි අවස්ථාවකදී රැස්විය යුතු ස්ථානය (Assembly Point) දැක්වෙන ආරක්ෂක සංඥා පුවරුවේ පසුතල වර්ණය කුමක්ද?",
+    "options": [
+      "(A) රතු (Red)",
+      "(B) කොළ (Green)",
+      "(C) කහ (Yellow)",
+      "(D) නිල් (Blue)"
+    ],
+    "correctIndex": 1,
+    "explanation": "ජාත්‍යන්තර ආරක්ෂක ප්‍රමිතීන්ට අනුව හදිසි පිටවීම් සහ රැස්වීමේ ස්ථාන (Safe condition / Assembly points) කොළ පැහැයෙන් දැක්වේ.",
+    "sourcePaper": "2025 Paper - Q03"
+  },
+  {
+    "id": 27,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "10.5 kW සිසිලන ධාරිතාවක් (Cooling Capacity) සහිත වායුසමන යන්ත්‍රයක එම ධාරිතාව BTU/hr වලින් ආසන්න වශයෙන් කොපමණද?",
+    "options": [
+      "(A) 3,600 BTU/hr",
+      "(B) 36,000 BTU/hr (3 TR)",
+      "(C) 12,000 BTU/hr",
+      "(D) 105,000 BTU/hr"
+    ],
+    "correctIndex": 1,
+    "explanation": "1 kW ≈ 3412.14 BTU/hr. එබැවින් 10.5 × 3412.14 = 35,827 BTU/hr ≈ 36,000 BTU/hr (ටොන් 3 ක ධාරිතාවයකි).",
+    "sourcePaper": "2025 Paper - Q05"
+  },
+  {
+    "id": 28,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "කාමර වායුසමන යන්ත්‍රයක් සේවා කිරීමට (Service) ප්‍රථමයෙන්ම තාක්ෂණ ශිල්පියා විසින් කළ යුතු මූලිකම පියවර කුමක්ද?",
+    "options": [
+      "(A) විදුලි බල සැපයුම සම්පූර්ණයෙන්ම විසන්ධි කිරීම (Disconnect Power Supply)",
+      "(B) වා පෙරහන (Air Filter) ගලවා ඉවත් කිරීම",
+      "(C) වෝල්ටීයතාව පරීක්ෂා කිරීම",
+      "(D) කම්ප්‍රෙසරය ක්‍රියාත්මක කිරීම"
+    ],
+    "correctIndex": 0,
+    "explanation": "ඕනෑම විදුලි හා යාන්ත්‍රික සේවාවක් ආරම්භ කිරීමට පෙර විදුලි සැපයුම විසන්ධි කර අගුළු දැමීම (Lockout / Tagout) මූලික ආරක්ෂක පියවරයි.",
+    "sourcePaper": "2025 Paper - Q06"
+  },
+  {
+    "id": 29,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "ශීතකාරක පරිහරණය කිරීමේදී ද්‍රව ශීතකාරකය සමෙහි තැවරීමෙන් වන අයිස් පිලිස්සුම් (Cryogenic Freeze Burns) වැළැක්වීමට අනිවාර්යයෙන් පැළඳිය යුත්තේ මොනවාද?",
+    "options": [
+      "(A) සාමාන්‍ය සපත්තු",
+      "(B) ශ්‍රවණ ආරක්ෂක",
+      "(C) ආරක්ෂිත ඇස් ආවරණ (Safety Goggles) සහ සම් අත් ආවරණ (Protective Gloves)",
+      "(D) හෙල්මට් එක පමණක්"
+    ],
+    "correctIndex": 2,
+    "explanation": "ද්‍රව ශීතකාරක වායුගෝලයට විවෘත වූ විට -30°C සිට -50°C දක්වා ක්ෂණිකව සිසිල් වී ඇස් සහ සම බරපතල ලෙස පිළිස්සිය හැකි බැවින් ඇස් ආවරණ සහ අත්වැසුම් අනිවාර්ය වේ.",
+    "sourcePaper": "2025 Paper - Q07"
+  },
+  {
+    "id": 30,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "R32 ශීතකාරකයේ නිවැරදි රසායනික නාමය කුමක්ද? (Chemical name of R32)",
+    "options": [
+      "(A) ඩයිෆ්ලෝරෝමීතේන් (Difluoromethane - CH2F2)",
+      "(B) ඩයික්ලෝරෝ ඩයිෆ්ලෝරෝමීතේන්",
+      "(C) මොනොක්ලෝරෝ ඩයිෆ්ලෝරෝමීතේන්",
+      "(D) ටෙට්‍රාෆ්ලෝරෝඊතේන්"
+    ],
+    "correctIndex": 0,
+    "explanation": "R32 යනු HFC කාණ්ඩයට අයත් Difluoromethane (CH2F2) වේ. එය R410A මිශ්‍රණයේ 50% ක් අඩංගු වේ.",
+    "sourcePaper": "2025 Paper - Q08"
+  },
+  {
+    "id": 31,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "වායුසමන යන්ත්‍රයක වා පෙරහන (Air Filter) දූවිලිවලින් අධික ලෙස අපිරිසිදු වී අවහිර වූ විට සිදුවන ප්‍රතිඵලය කුමක්ද?",
+    "options": [
+      "(A) යන්ත්‍රයේ සිසිලන කාර්යක්ෂමතාව අඩු වී Indoor Coils මත අයිස් බැඳීම සිදුවේ",
+      "(B) යන්ත්‍රයේ කාර්යක්ෂමතාව ඉහළ යයි",
+      "(C) විදුලි පරිභෝජනය 50% කින් අඩු වේ",
+      "(D) කම්ප්‍රෙසරයේ උෂ්ණත්වය ක්ෂණිකව ශුන්‍ය වේ"
+    ],
+    "correctIndex": 0,
+    "explanation": "වායු පෙරහන අවහිර වූ විට වාෂ්පීකාරකය හරහා වාතය ගලා නොයන බැවින් තාපය උරාගත නොහැකිව Indoor Coil හිම බැඳී කාමරය සිසිල් නොවේ.",
+    "sourcePaper": "2025 Paper - Q10"
+  },
+  {
+    "id": 32,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "ශීතකරණ පද්ධතියක කේශික නලය (Capillary Tube) අභ්‍යන්තරව සම්පූර්ණයෙන්ම අවහිර වූ විට (Blockage) පීඩන මානවල පෙන්නුම් කරන්නේ කුමක්ද?",
+    "options": [
+      "(A) චූෂණ පීඩනය වැකුම් (ඍණ) අගයකට වැටෙන අතර විසර්ජන පීඩනය ඉහළ යයි",
+      "(B) චූෂණ පීඩනය සහ විසර්ජන පීඩනය දෙකම ඉහළ යයි",
+      "(C) පද්ධතියේ කිසිදු පීඩන වෙනසක් සිදු නොවේ",
+      "(D) සම්පීඩකය ඉතා වේගයෙන් භ්‍රමණය වේ"
+    ],
+    "correctIndex": 0,
+    "explanation": "කේශික නලය අවහිර වූ විට සම්පීඩකය වාෂ්පීකාරකයේ ඇති සියලු වායුව ඇදගන්නා නමුත් නැවත ශීතකාරක නොලැබෙන බැවින් Suction pressure වැකුම් (ඍණ) අගයකට වැටේ.",
+    "sourcePaper": "2025 Paper - Q11"
+  },
+  {
+    "id": 33,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "ශීතකරණ හා වායුසමන පද්ධතියක් තුළ වැකුම් පොම්පයක් (Vacuum Pump) මඟින් සිදුකරන ප්‍රධානම කාර්යය කුමක්ද?",
+    "options": [
+      "(A) පද්ධතිය තුළට ශීතකාරක වායුව පොම්ප කිරීම",
+      "(B) පද්ධතිය තුළ ඇති වාතය, නයිට්‍රජන් සහ තෙතමනය (ජල වාෂ්ප) සම්පූර්ණයෙන්ම ඉවත් කිරීම",
+      "(C) පද්ධතියේ පීඩනය 500 psi දක්වා වැඩි කිරීම",
+      "(D) සම්පීඩක තෙල් පිරිසිදු කිරීම"
+    ],
+    "correctIndex": 1,
+    "explanation": "පද්ධතිය රික්ත කිරීම (Evacuation) මඟින් පීඩනය 500 microns දක්වා පහත හෙළා පද්ධතියේ ඇති සියලු තෙතමනය කාමර උෂ්ණත්වයේදී වාෂ්ප කර පිටතට ඉවත් කරයි.",
+    "sourcePaper": "2025 Paper - Q13"
+  },
+  {
+    "id": 34,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "සිලින්ඩරයක් තුළ තල (Vanes) විකේන්ද්‍රිකව භ්‍රමණය වීම මඟින් ශීතකාරකය සම්පීඩනය කරනු ලබන සම්පීඩක වර්ගය කුමක්ද?",
+    "options": [
+      "(A) පිස්ටන් සම්පීඩකය (Reciprocating)",
+      "(B) රොටරි සම්පීඩකය (Rotary Compressor)",
+      "(C) කේන්ද්‍රාපසාරී සම්පීඩකය (Centrifugal)",
+      "(D) ස්ක්‍රූ සම්පීඩකය (Screw)"
+    ],
+    "correctIndex": 1,
+    "explanation": "ගෘහස්ථ Split AC වල බහුලව භාවිත වන Rotary Compressor වල Roller සහ Vanes මඟින් ශීතකාරක වායුව කුටීරය තුළ සම්පීඩනය කරයි.",
+    "sourcePaper": "2025 Paper - Q14"
+  },
+  {
+    "id": 35,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "ගෘහස්ථ ශීතකරණ කැබිනට්ටුවේ තාප පරිවරණය (Thermal Insulation) සඳහා වර්තමානයේ යොදන වඩාත්ම උසස් ද්‍රව්‍යය කුමක්ද?",
+    "options": [
+      "(A) වීදුරු ලොම් (Glass wool)",
+      "(B) ලී කුඩු සහ රබර්",
+      "(C) පොලියුරතේන් ෆෝම් (Polyurethane Foam - PUF)",
+      "(D) තහඩු ලෝහ"
+    ],
+    "correctIndex": 2,
+    "explanation": "ඉතා අඩු තාප සන්නායකතාවක් (High R-value) සහ ඉහළ ශක්තිමත් බවක් ඇති බැවින් නවීන ශීතකරණවල PUF (Polyurethane foam) එන්නත් කරනු ලැබේ.",
+    "sourcePaper": "2025 Paper - Q20"
+  },
+  {
+    "id": 36,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "චූෂණ සංචායකයේ (Suction Accumulator) ප්‍රධානතම තාක්ෂණික කාර්යය කුමක්ද?",
+    "options": [
+      "(A) සම්පීඩකයට ද්‍රව ශීතකාරක ඇතුළු වීම වැළැක්වීම (Prevents Liquid Slugging)",
+      "(B) ද්‍රවීකාරකයේ පීඩනය වැඩි කිරීම",
+      "(C) පද්ධතියේ තෙල් ඉවත් කිරීම",
+      "(D) වාෂ්පීකාරකයට අමතර ද්‍රව සැපයීම"
+    ],
+    "correctIndex": 0,
+    "explanation": "සම්පීඩක නිර්මාණය කර ඇත්තේ වාෂ්ප පමණක් සම්පීඩනය කිරීමටයි. ද්‍රව සම්පීඩකයට ඇතුළු වුවහොත් කපාට කැඩී යයි. Accumulator එක මඟින් ද්‍රව රඳවාගෙන වාෂ්ප පමණක් යවයි.",
+    "sourcePaper": "2025 Paper - Q21"
+  },
+  {
+    "id": 37,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "පහත සඳහන් ශීතකාරක අතුරින් A3 (වහා ගිනිගන්නා) කාණ්ඩයට අයත් ශීතකාරක කාණ්ඩය නිවැරදිව දක්වා ඇත්තේ කුමන පිළිතුරේද?",
+    "options": [
+      "(A) R 141b, R 134a, R 22",
+      "(B) R 290 (Propane), R 600a (Isobutane)",
+      "(C) R 407C, R 410A, R 404A",
+      "(D) R 717, R 718, R 744"
+    ],
+    "correctIndex": 1,
+    "explanation": "R290 සහ R600a යනු හයිඩ්‍රෝකාබන් ස්වභාවික වායු වන අතර ASHRAE 34 ප්‍රමිතියට අනුව ඒවා A3 (High Flammability, Low Toxicity) කාණ්ඩයට අයත් වේ.",
+    "sourcePaper": "2025 Paper - Q22"
+  },
+  {
+    "id": 38,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "R600a භාවිත කරන ශීතකරණයක් නිවැරදිව ක්‍රියාත්මක වන විට, එහි සාමාන්‍ය චූෂණ පීඩනය (Suction Pressure) පැවතිය යුත්තේ කෙසේද?",
+    "options": [
+      "(A) 0 psig ට ආසන්නව වැකුම් (ඍණ) අගයක (-2 සිට 0 psig පමණ)",
+      "(B) 65 - 70 psig ධන අගයක",
+      "(C) 120 - 140 psig ධන අගයක",
+      "(D) 250 psig ට ඉහළ අගයක"
+    ],
+    "correctIndex": 0,
+    "explanation": "R600a ශීතකාරකයේ තාපාංකය -11.7°C බැවින්, ශීතකරණයේ වාෂ්පීකාරක උෂ්ණත්වය -25°C ලබා ගැනීමේදී චූෂණ පීඩනය වායුගෝල පීඩනයට වඩා අඩු (0 psig ට අඩු වැකුම්) අගයක පවතී.",
+    "sourcePaper": "2025 Paper - Q26"
+  },
+  {
+    "id": 39,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "ශීතකරණ පද්ධතියක් රික්ත කිරීමේදී (Vacuuming) රික්තක මට්ටම මැනීමට භාවිත කරන 1 මයික්‍රෝනයක් (1 Micron) යනු රසදිය මිලිමීටර් (mmHg) කීයක්ද?",
+    "options": [
+      "(A) රසදිය මි.මී. 1 කි (1 mmHg)",
+      "(B) රසදිය මි.මී. 1/10 කි (0.1 mmHg)",
+      "(C) රසදිය මි.මී. 1/1000 කි (0.001 mmHg)",
+      "(D) රසදිය මි.මී. 100 කි"
+    ],
+    "correctIndex": 2,
+    "explanation": "1 Micron = 0.001 mmHg (1/1000 of a millimetre of mercury) = 1 millitorr වේ. ගැඹුරු රික්තයක් සඳහා 500 Microns හෝ ඊට අඩුව පැවතිය යුතුය.",
+    "sourcePaper": "2025 Paper - Q28"
+  },
+  {
+    "id": 40,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "හිම නොබැඳෙන (No-Frost) ශීතකරණයක දොර වසා ඇති විට සහ විවෘත කළ විට අභ්‍යන්තර LED ලාම්පුව හා Evaporator Blower Fan එක හැසිරෙන නිවැරදි ආකාරය කුමක්ද?",
+    "options": [
+      "(A) දොර අරින විට ලාම්පුව දැල්වී පංකාව ක්‍රියා විරහිත වේ; දොර වසන විට ලාම්පුව නිවී පංකාව ක්‍රියාත්මක වේ",
+      "(B) දොර අරින විට දෙකම ක්‍රියාත්මක වේ",
+      "(C) දොර වසන විට දෙකම නිවී යයි",
+      "(D) දොරෙන් පංකාවට කිසිදු බලපෑමක් සිදු නොවේ"
+    ],
+    "correctIndex": 0,
+    "explanation": "දොර ස්විචය (Door switch) SPDT වර්ගයේ එකක් වන අතර දොර විවෘත කළ විට සිසිල් වාතය එළියට විසිවීම වැළැක්වීමට පංකාව Off කර ලාම්පුව On කරයි. දොර වැසූ විට ලාම්පුව Off වී පංකාව On වේ.",
+    "sourcePaper": "2025 Paper - Q30"
+  },
+  {
+    "id": 41,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "Split A/C යන්ත්‍රයක Indoor PCB මව් පුවරුවෙන් Outdoor Unit එකට සංඥා සැපයුම ලබාදීමේදී යොදන තත්පර 20 ක ප්‍රමාද කාල ගණකය (20-Second Time Delay Relay) මඟින් ඉටුකරන ප්‍රධාන කාර්යය කුමක්ද?",
+    "options": [
+      "(A) විදුලි බිල අඩු කිරීම",
+      "(B) සම්පීඩකයේ විසර්ජන සහ චූෂණ පීඩන සමාන වීමට පෙර නැවත පණගැන්වීම වැළැක්වීම මඟින් සම්පීඩකය අධික ධාරාවෙන් ආරක්ෂා කිරීම",
+      "(C) කාමරයේ ආර්ද්‍රතාවය ඉහළ නැංවීම",
+      "(D) Outdoor Fan එකේ වේගය පාලනය කිරීම"
+    ],
+    "correctIndex": 1,
+    "explanation": "රොටරි සම්පීඩකයක අධික පීඩනය යටතේ නැවත ක්ෂණිකව පණගැන්වීමට උත්සාහ කළහොත් Locked Rotor Current (LRA) ඇද මෝටරය දැවී යා හැක. ආරක්ෂිත ප්‍රමාදය මඟින් පීඩනය සමාන වීමට ඉඩ සලසයි.",
+    "sourcePaper": "Technical Guide & Circuit Spec"
+  },
+  {
+    "id": 42,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "ශීතකරණ පද්ධතියකට ශීතකාරක ආරෝපණය කිරීමට (Charging) පෙර පද්ධතියේ කාන්දුවීම් පරීක්ෂා කිරීම සඳහා නල තුළට පිරවිය යුතු වඩාත්ම සුදුසු වායුව කුමක්ද?",
+    "options": [
+      "(A) ඔක්සිජන් වායුව (Oxygen)",
+      "(B) වියළි නයිට්‍රජන් වායුව (Dry Nitrogen - OFDN)",
+      "(C) සම්පීඩිත සාමාන්‍ය වාතය (Compressed Air)",
+      "(D) කාබන් මොනොක්සයිඩ්"
+    ],
+    "correctIndex": 1,
+    "explanation": "ඔක්සිජන් තෙල් සමඟ මිශ්‍ර වූ විට පුපුරා යයි. සම්පීඩිත වාතයේ තෙතමනය ඇත. එබැවින් කාන්දු පරීක්ෂාවට නිෂ්ක්‍රිය, වියළි නයිට්‍රජන් (Oxygen-Free Dry Nitrogen) පමණක් භාවිත කළ යුතුය.",
+    "sourcePaper": "RAC Safety Standards"
+  },
+  {
+    "id": 43,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "Defrost Timer එකක අභ්‍යන්තර මෝටරය (Pin 1) වෙත විදුලි ධාරාව ගලා එන්නේ කුමන උපාංගය හරහාද?",
+    "options": [
+      "(A) Defrost Heater එක හරහා ශ්‍රේණිගතව",
+      "(B) දොර ස්විචය හරහා",
+      "(C) ධාරිත්‍රකය හරහා",
+      "(D) ඕවර්ලෝඩ් රිලේ එක හරහා"
+    ],
+    "correctIndex": 0,
+    "explanation": "ශීතකරණය Cooling චක්‍රයේ පවතින විට ටයිමර් මෝටරයට (Pin 1) Neutral සැපයුම ලැබෙන්නේ Defrost Heater එක හරහාය. (හීටරයේ ප්‍රතිරෝධය අඩු බැවින් මෝටරය කැරකෙන අතර හීටරය රත් නොවේ).",
+    "sourcePaper": "No-Frost Wiring Diagram"
+  },
+  {
+    "id": 44,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "තාප ස්ථිතික ප්‍රසාරණ කපාටයක (TEV) Sensing Bulb එක සවිකළ යුත්තේ පද්ධතියේ කුමන ස්ථානයේද?",
+    "options": [
+      "(A) සම්පීඩකයේ විසර්ජන නලයේ",
+      "(B) වාෂ්පීකාරකයෙන් පිටවන චූෂණ නලයේ අවසානයට (Evaporator Outlet on Suction Line)",
+      "(C) ද්‍රවීකාරකයේ ඇතුල්වීමට",
+      "(D) තෙල් වෙන්කරණයට"
+    ],
+    "correctIndex": 1,
+    "explanation": "TEV බල්බය වාෂ්පීකාරකයේ අවසානයට චූෂණ නලයේ තදින් සවිකර පරිවරණය කරයි. එය වාෂ්පයේ අධි-තාපනය (Superheat) මැන කපාටය විවෘත වීම පාලනය කරයි.",
+    "sourcePaper": "RAC Theory Part II"
+  },
+  {
+    "id": 45,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "වාෂ්පීකාරකයකින් පිටවන ශීතකාරක වාෂ්පයේ සත්‍ය උෂ්ණත්වය සහ එම පීඩනයට අදාළ සන්තෘප්ත උෂ්ණත්වය (Saturation Temp) අතර පවතින උෂ්ණත්ව වෙනස හඳුන්වන්නේ කුමන නමකින්ද?",
+    "options": [
+      "(A) උප-සිසිලනය (Subcooling)",
+      "(B) අධි-තාපනය (Superheat)",
+      "(C) විවේචනාත්මක උෂ්ණත්වය",
+      "(D) ගුප්ත තාපය"
+    ],
+    "correctIndex": 1,
+    "explanation": "Superheat = Actual Suction Temp - Saturation Suction Temp. වාෂ්පීකාරකය තුළ සියලු ද්‍රව වාෂ්ප බවට පත්වී ඇති බව තහවුරු කරන්නේ මෙම අගයෙනි.",
+    "sourcePaper": "Thermodynamics in RAC"
+  },
+  {
+    "id": 46,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "ද්‍රවීකාරකයෙන් (Condenser) පිටවන ද්‍රව ශීතකාරකයේ සත්‍ය උෂ්ණත්වය, එහි ද්‍රවීකරණ පීඩනයට අදාළ සන්තෘප්ත උෂ්ණත්වයට වඩා පහළ අගයක පැවතීම හඳුන්වන්නේ කුමන නමකින්ද?",
+    "options": [
+      "(A) උප-සිසිලනය (Subcooling)",
+      "(B) අධි-තාපනය (Superheat)",
+      "(C) සංවේදී තාපය",
+      "(D) වාෂ්පීභවනය"
+    ],
+    "correctIndex": 0,
+    "explanation": "Subcooling = Condensing Saturation Temp - Actual Liquid Line Temp. ප්‍රසාරණ කපාටය වෙත 100% ඝන ද්‍රවය ගලා යන බවට සහතික වන්නේ උප-සිසිලනය මඟිනි.",
+    "sourcePaper": "Thermodynamics in RAC"
+  },
+  {
+    "id": 47,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "ශීතකාරක ප්‍රතිසාධන යන්ත්‍රයක (Refrigerant Recovery Machine) Self-Purge ක්‍රියාවලිය සිදු කරන්නේ කුමන අරමුණක් සඳහාද?",
+    "options": [
+      "(A) යන්ත්‍රය තුළ ඉතිරිව ඇති ශීතකාරක ද්‍රවය ටැංකියට යවා, ඊළඟට වෙනත් ශීතකාරකයක් යෙදීමේදී එකිනෙක මිශ්‍ර වීම (Cross-contamination) වැළැක්වීමට",
+      "(B) යන්ත්‍රයේ මෝටරය සිසිල් කිරීමට",
+      "(C) ටැංකියේ බර අඩු කිරීමට",
+      "(D) වාෂ්පීකාරකය පිරිසිදු කිරීමට"
+    ],
+    "correctIndex": 0,
+    "explanation": "Self-Purge මඟින් Recovery යන්ත්‍රයේ කන්ඩෙන්සරය තුළ සිරවී ඇති ශීතකාරක ටැංකියට තල්ලු කර පිරිසිදු කරයි. එමඟින් වෙනත් ශීතකාරක සමඟ මිශ්‍ර වීම සම්පූර්ණයෙන්ම වළකී.",
+    "sourcePaper": "Recovery System Spec"
+  },
+  {
+    "id": 48,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "No-Frost ශීතකරණයක Thermal Fuse (තාප ආරක්ෂක ෆියුස්) එකක සාමාන්‍ය දියවන උෂ්ණත්ව අගය (Tripping Temperature) වන්නේ කොපමණද?",
+    "options": [
+      "(A) 25°C - 30°C",
+      "(B) 72°C - 77°C",
+      "(C) 150°C - 200°C",
+      "(D) 0°C"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thermal Fuse එක 72°C - 77°C දී දියවී පරිපථය විසන්ධි කරයි. බයිමෙටල් ස්විචය ඇලී හීටරය දිගටම ක්‍රියාත්මක වුවහොත් ශීතකරණය ගිනි ගැනීම වළක්වන්නේ මෙයයි.",
+    "sourcePaper": "No-Frost Electrical Specs"
+  },
+  {
+    "id": 49,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "ශීතකරණ පද්ධතියක තඹ නල දෙකක් එකිනෙකට පෑස්සීමේදී (Brazing) නල අභ්‍යන්තරයේ කළු පැහැති කාබන්/ඔක්සයිඩ් කුඩු (Copper Oxide Scale) සෑදීම වැළැක්වීමට නල තුළින් යැවිය යුත්තේ කුමන වායුවද?",
+    "options": [
+      "(A) ඔක්සිජන් වායුව",
+      "(B) අඩු පීඩන නයිට්‍රජන් වායුව (Nitrogen Purging during brazing)",
+      "(C) හයිඩ්‍රජන් වායුව",
+      "(D) කාබන් ඩයොක්සයිඩ්"
+    ],
+    "correctIndex": 1,
+    "explanation": "පෑස්සීමේදී නලය රත්වන විට වාතයේ ඇති ඔක්සිජන් සමඟ ප්‍රතික්‍රියා කර ඇතුළත දැලි සෑදේ. සුළු නයිට්‍රජන් ගලායාමක් (Nitrogen purge) පවත්වා ගත් විට ඔක්සිකරණය සම්පූර්ණයෙන් වළකී.",
+    "sourcePaper": "Brazing Techniques"
+  },
+  {
+    "id": 50,
+    "subject": "ac",
+    "subjectName": "Air Conditioning & Refrigeration",
+    "question": "Single-phase Split AC සම්පීඩක මෝටරයක් සඳහා PSC (Permanent Split Capacitor) පරිපථයක් යොදාගැනීමේදී ධාරිත්‍රකය (Run Capacitor) සම්බන්ධ කරනු ලබන්නේ කුමන අග්‍ර අතරටද?",
+    "options": [
+      "(A) Common සහ Earth අතරට",
+      "(B) Run සහ Start අග්‍ර අතරට සමාන්තරව",
+      "(C) Live සහ Neutral අතරට සෘජුව",
+      "(D) Main Switch එකට ශ්‍රේණිගතව"
+    ],
+    "correctIndex": 1,
+    "explanation": "PSC පරිපථයේ Run Capacitor එක Run සහ Start අග්‍ර අතරට ස්ථිරවම සම්බන්ධ කර ඇති අතර, එය ආරම්භක ව්‍යාවර්තය ලබාදී ධාවනයේදී කාර්යක්ෂමතාව ඉහළ නංවයි.",
+    "sourcePaper": "Motor Circuits"
+  }
+]
